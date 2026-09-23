@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Silueta & Sentimiento</title>
+    <!-- Librerías Externas -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/jasondavies/d3-cloud/build/d3.layout.cloud.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        }
+
+        body {
+            background-color: #0b0f19;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .card-container {
+            background-color: #111827;
+            border: 1px solid #1f2937;
+            border-radius: 20px;
+            width: 100%;
+            max-width: 920px;
+            padding: 25px 30px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.6);
+            display: grid;
+            grid-template-columns: 1fr 1.1fr;
+            gap: 20px;
+        }
+
+        @media (max-width: 768px) {
+            .card-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .header-title {
+            grid-column: 1 / -1;
+            text-align: center;
+        }
+
+        .header-title h2 {
+            color: #818cf8;
+            font-size: 1.3rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+
+        /* Barra de Sentimiento Global (Rigor Estadístico) */
+        .sentiment-bar-container {
+            grid-column: 1 / -1;
+            background: #0b0f19;
+            border: 1px solid #1f2937;
+            border-radius: 12px;
+            padding: 10px 16px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            margin-bottom: 5px;
+        }
+
+        .sentiment-stats-text {
+            font-size: 0.75rem;
+            color: #9ca3af;
+            font-weight: 600;
+        }
+
+        .segmented-bar {
+            flex-grow: 1;
+            height: 8px;
+            background: #1e293b;
+            border-radius: 4px;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .seg-pos { background: #10b981; transition: width 0.5s ease; }
+        .seg-neg { background: #ef4444; transition: width 0.5s ease; }
+        .seg-neu { background: #64748b; transition: width 0.5s ease; }
+
+        /* Controles de Filtros y Exportación */
+        .tabs-container {
+            grid-column: 1 / -1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            background: #1e293b;
+            color: #94a3b8;
+            border: 1px solid #334155;
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .tab-btn:hover {
+            color: #ffffff;
+            border-color: #6366f1;
+        }
+
+        .tab-btn.active {
+            background: #6366f1;
+            color: #ffffff;
+            border-color: #6366f1;
+            box-shadow: 0 0 12px rgba(99, 102, 241, 0.4);
+        }
+
+        .tab-btn.active[data-mode="positivo"] { background: #10b981; border-color: #10b981; box-shadow: 0 0 12px rgba(16, 185, 129, 0.4); }
+        .tab-btn.active[data-mode="negativo"] { background: #ef4444; border-color: #ef4444; box-shadow: 0 0 12px rgba(239, 68, 68, 0.4); }
+
+        .export-btn {
+            background: #1e293b;
+            color: #38bdf8;
+            border: 1px solid #0284c7;
+            padding: 8px 18px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-left: 10px;
+        }
+
+        .export-btn:hover {
+            background: #0284c7;
+            color: #ffffff;
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
+        }
+
+        /* Panel Izquierdo: Top 5 */
+        .top-words-panel {
+            background: #0b0f19;
+            border-radius: 14px;
+            padding: 22px;
+            border: 1px solid #1f2937;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .panel-title {
+            font-size: 0.8rem;
+            color: #9ca3af;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 18px;
+        }
+
+        .word-item { margin-bottom: 14px; }
+
+        .word-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .word-name { color: #f3f4f6; }
+
+        .bar-bg {
+            background-color: #1e293b;
+            height: 9px;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            border-radius: 5px;
+            transition: width 0.6s ease-out;
+        }
+
+        /* Panel Derecho: Silueta & Nube D3 */
+        .silhouette-panel {
+            background: #0b0f19;
+            border-radius: 14px;
+            border: 1px solid #1f2937;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 350px;
+            overflow: hidden;
+        }
+
+        svg#silhouette-canvas {
+            width: 100%;
+            height: 350px;
+        }
+
+        .silhouette-shape {
+            fill: #1e293b;
+            stroke: #334155;
+            stroke-width: 1.5px;
+            opacity: 0.3;
+        }
+
+        .cloud-text {
+            font-weight: 800;
+            text-anchor: middle;
+            dominant-baseline: central;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .cloud-text:hover { fill: #ffffff !important; }
+    </style>
+</head>
+<body>
+
+    <div class="card-container">
+        <div class="header-title">
+            <h2>Huella de Conversación</h2>
+        </div>
+
+        <!-- Indicador Estadístico Global -->
+        <div class="sentiment-bar-container">
+            <span class="sentiment-stats-text" id="stats-label">Cargando métricas...</span>
+            <div class="segmented-bar">
+                <div id="bar-pos" class="seg-pos" style="width: 0%;"></div>
+                <div id="bar-neu" class="seg-neu" style="width: 0%;"></div>
+                <div id="bar-neg" class="seg-neg" style="width: 0%;"></div>
+            </div>
+        </div>
+
+        <!-- Filtros e Interacción -->
+        <div class="tabs-container">
+            <button class="tab-btn active" data-mode="global">🌐 Todos</button>
+            <button class="tab-btn" data-mode="positivo">🟢 Positivos</button>
+            <button class="tab-btn" data-mode="negativo">🔴 Negativos</button>
+            <button id="btn-exportar" class="export-btn">📸 Exportar Reporte</button>
+        </div>
+
+        <!-- Panel Izquierdo: Top 5 -->
+        <div class="top-words-panel">
+            <div class="panel-title">🔥 Top 5 Palabras más Populares</div>
+            <div id="top-list"></div>
+        </div>
+
+        <!-- Panel Derecho: Canvas Silueta D3 -->
+        <div class="silhouette-panel">
+            <svg id="silhouette-canvas" viewBox="0 0 350 350">
+                <path class="silhouette-shape" d="M 175, 25 C 140, 25 140, 105 175, 105 C 210, 105 210, 25 175, 25 Z M 90, 330 C 90, 190, 120, 140, 175, 140 C 230, 140, 260, 190, 260, 330 Z" />
+                <g id="cloud-layer" transform="translate(175, 165)"></g>
+            </svg>
+        </div>
+    </div>
+
+    <script>
+        let datosCompletos = {};
+        let modoActual = "global";
+
+        const paletas = {
+            global: ["#a855f7", "#818cf8", "#38bdf8", "#34d399", "#f43f5e"],
+            positivo: ["#10b981", "#34d399", "#6ee7b7", "#a7f3d0", "#818cf8"],
+            negativo: ["#ef4444", "#f87171", "#fca5a5", "#fb923c", "#cbd5e1"]
+        };
+
+        // Cargar JSON de datos
+        fetch('datos_silueta.json')
+            .then(res => res.json())
+            .then(data => {
+                datosCompletos = data;
+
+                if (data.estadisticas) {
+                    const st = data.estadisticas;
+                    document.getElementById('stats-label').innerHTML =
+                        `Muestra: <b>${st.total_comentarios}</b> comentarios | 🟢 ${st.pct_positivo}% | ⚪ ${st.pct_neutro}% | 🔴 ${st.pct_negativo}%`;
+
+                    document.getElementById('bar-pos').style.width = st.pct_positivo + "%";
+                    document.getElementById('bar-neu').style.width = st.pct_neutro + "%";
+                    document.getElementById('bar-neg').style.width = st.pct_negativo + "%";
+                } else {
+                    document.getElementById('stats-label').innerText = "Análisis de Sentimiento Activo";
+                }
+
+                renderizarDashboard(modoActual);
+            })
+            .catch(err => {
+                console.error("Error al cargar JSON:", err);
+                document.getElementById('stats-label').innerText = "Error al cargar datos_silueta.json";
+            });
+
+        // Eventos de pestañas
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                e.target.classList.add('active');
+                modoActual = e.target.getAttribute('data-mode');
+                renderizarDashboard(modoActual);
+            });
+        });
+
+        // Función principal de renderizado
+        function renderizarDashboard(modo) {
+            const dataModo = datosCompletos[modo];
+            if (!dataModo || !dataModo.top_15.length) {
+                document.getElementById('top-list').innerHTML = "<p style='color:#64748b;'>Sin palabras suficientes en esta categoría.</p>";
+                d3.select("#cloud-layer").selectAll("*").remove();
+                return;
+            }
+
+            // Renderizar barras Top 5
+            const topList = document.getElementById('top-list');
+            topList.innerHTML = '';
+            const maxPct = dataModo.top_5[0]?.porcentaje || 1;
+            const colPrens = paletas[modo][0];
+
+            dataModo.top_5.forEach(item => {
+                const relativeWidth = (item.porcentaje / maxPct) * 100;
+                topList.innerHTML += `
+                    <div class="word-item">
+                        <div class="word-info">
+                            <span class="word-name">${item.palabra}</span>
+                            <span class="word-pct" style="color: ${colPrens}">${item.porcentaje}%</span>
+                        </div>
+                        <div class="bar-bg">
+                            <div class="bar-fill" style="width: ${relativeWidth}%; background: ${colPrens}"></div>
+                        </div>
+                    </div>
+                `;
+            });
+
+            // Configurar Nube D3 sobre Silueta
+            const maxFreq = dataModo.top_15[0].frecuencia;
+            const minFreq = dataModo.top_15[dataModo.top_15.length - 1].frecuencia;
+
+            const words = dataModo.top_15.map(d => ({
+                text: d.palabra,
+                size: Math.max(13, Math.min(30, 13 + ((d.frecuencia - minFreq) / (maxFreq - minFreq || 1)) * 17)),
+                frecuencia: d.frecuencia
+            }));
+
+            d3.layout.cloud()
+                .size([240, 260])
+                .words(words)
+                .padding(6)
+                .rotate(() => 0)
+                .font("Segoe UI")
+                .fontSize(d => d.size)
+                .on("end", words => drawCloud(words, modo))
+                .start();
+        }
+
+        // Dibujar palabras D3
+        function drawCloud(words, modo) {
+            const layer = d3.select("#cloud-layer");
+            layer.selectAll("*").remove();
+
+            layer.selectAll("text")
+                .data(words)
+                .enter().append("text")
+                .attr("class", "cloud-text")
+                .style("font-size", d => d.size + "px")
+                .style("fill", (d, i) => i < 5 ? paletas[modo][i] : "#64748b")
+                .attr("text-anchor", "middle")
+                .attr("transform", d => `translate(${d.x}, ${d.y})`)
+                .text(d => d.text);
+        }
+
+        // Exportación de reporte a PNG
+        document.getElementById('btn-exportar').addEventListener('click', () => {
+            const contenedor = document.querySelector('.card-container');
+            const botonExportar = document.getElementById('btn-exportar');
+
+            botonExportar.style.visibility = 'hidden';
+
+            html2canvas(contenedor, {
+                backgroundColor: '#0b0f19',
+                scale: 2
+            }).then(canvas => {
+                botonExportar.style.visibility = 'visible';
+
+                const enlace = document.createElement('a');
+                enlace.download = `reporte_huella_conversacion_${modoActual}.png`;
+                enlace.href = canvas.toDataURL('image/png');
+                enlace.click();
+            });
+        });
+    </script>
+</body>
+</html>

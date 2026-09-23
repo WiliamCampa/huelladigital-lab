@@ -1,0 +1,178 @@
+{
+    "metricas_generales": {
+        "porcentaje_bots": 1.7,
+        "total_comentarios": 300
+    },
+    "mapa_emociones": {
+        "name": "Emociones",
+        "children": [
+            {
+                "name": "Admiracion y Apoyo",
+                "value": 22,
+                "color": "#10B981"
+            },
+            {
+                "name": "Informativo / Neutro",
+                "value": 63,
+                "color": "#3B82F6"
+            },
+            {
+                "name": "Critica e Indignacion",
+                "value": 194,
+                "color": "#EF4444"
+            }
+        ]
+    },
+    "nube_palabras": [
+        {
+            "text": "méxico",
+            "size": 18,
+            "value": 45,
+            "ejemplos": [
+                "LAMENTABLE LO QUE PASA EN PALACIO NACIONAL, POR DIGNIDAD NO DEBERIA YAA GOBERNAR  QUE SE TRATE SU ENFERMEDAD/ADICCION TRISTEZA NO POR ELLA, SINO QUIEN NOS GOBIERNA EN NUESTRO QUERIDO MÉXICO.",
+                "SOMOS LA RESISTENCIA PODRIA SER CON TANTA GENTE ORGANIZARSE CON SUS MIEMBROS A  NIVEL NACIONAL PARA CUIDAR EL VOTO EN MEXICO, Y OTROS CANALES COMO CODIGO MAGENTA , LA SAGA Y MUCHOS JOVENES Y PERSONAS CON VALORES Y ETICA MORAL PARA CUIDAR EL VOTO DE MEXICO.",
+                "Es gente ignorante que no saben cuánto deben ganar, yo conocí a uno que le ofrecieron el doble de sueldo para irse a Canadá a trabajar y aceptó sin investigar el costo de vida de allá. Se mudó con su esposa y dos hijos pequeños y pues ya estando allá se dieron cuenta que el doble sueldo no les alcanzaba para vivir allá, la esposa consiguió un trabajo pero vivían con carencias y buscó regresar a México pero quería que le pagaran el sueldo que ganaba en Canadá y pues obviamente ninguna empresa le pudo pagar eso y no consiguió trabajo para regresar a México  y allá se quedó. 🤷🏻‍♀️"
+            ]
+        },
+        {
+            "text": "marihuana",
+            "size": 13,
+            "value": 24,
+            "ejemplos": [
+                "Entiendo que la presidenta sufre de presiones altísimas, inclusive hasta situaciones de saber de  atentados a su vida y su familia. El tema no es que tome alguna droga o no, el problema es que se hacen pasar por puristas y que ellos son inmaculados e intocables. No veo mal que se mediqué e incluso que fume mariguana para estar tranquila, lo que está mal es el doble discurso. Nosotros no, ellos sí. Y así es en todo. Nosotros no, ellos sí.",
+                "la sra. presidenta con A consume mariguana con AA\npor eso la cara de loquita que se le ve ultimamente",
+                "Edo no es sorpresa , la presirvienta desde joven era adicta a la mariguana , ybajieq la cruza  con clonazepan ! Y no es sorpresa eso es bien sabido !"
+            ]
+        },
+        {
+            "text": "morena",
+            "size": 13,
+            "value": 20,
+            "ejemplos": [
+                "PUES NO VOTAREMOSSSSSS POR NINGUNO Q SEA DE MORENA LISTO Y SI VOTAN POR ESTOS 🐷🐷 NO SE ENTENDIO NADAAAA",
+                "Votos planchados, ILEGALES, ya que para depositarlos, deben estar doblados, no admitirlo, FUERA MORENA!",
+                "POR ESO NO QUIEREN EDUCACIÓN YA DE POR SI LOS ADULTOS AHORA SON UNA PORQUERIA \nLOS DE LA 3° EDAD NI SE DIGA SE CREEN LA GRAN MIERDA \nENTRE MAS ANALFABESTIAS MAS VOTOS PARA MORENA \nHAY QUE SABER TODO PARA TIRARLES TODO A ESTOS PENDEJOS \nNO MAS NARCOMORENA YA BASTA \nADIOS MALDITOS NARCOS Y MIERDAS..."
+            ]
+        },
+        {
+            "text": "claudia",
+            "size": 11,
+            "value": 14,
+            "ejemplos": [
+                "SÍ SIEMPRE SE A VISTO ,, QUE CLAUDIA SHEMBAUM FUMA MARIGUANA PARA AGUANTAR EL DÍA,Y AGUANTAR DE TODO LO QUE LE DICEN LOS PERIODISTAS,, CLAUDIA SHEMBAUM NO SIRVE PARA NADA LE QUEDÓ MUY GRANDE EL CARGO DE SER PRESIDENTA,,,FUERA FUERAAAAAA MORENA FUERA FUERAAAAAA CLAUDIA SHEMBAUM,,",
+                "UDS. SON UNAS PERSONAS VENENOSAS ,  CON UNA GUERRA SUCIA PARA DAÑAR  ĹA REPUTACION DE NUESTRA PRESIDENTA DRA CLAUDIA,",
+                "NO ES CLAUDIA SON TODOS LOS POLITICOS, HAY QUE MANDARLOS AL INFIERNO SI SE METEN PORQUERIAS PARA ESRAR MAS PENDEJ.. DE COMO NACIERON, POR FAVOR EXAMENES A TODOS LOS AAPIRANTES A PUESTOS PUBLICOS. NECESITAMOS PERSONAS INTELIGENTE QUE SAQUEN AL PAIS DE ESTE DESMADRE DE LO 4TREROS. NO OTROS IGUALES QUE EL PEJEN-DEJO."
+            ]
+        },
+        {
+            "text": "puede",
+            "size": 11,
+            "value": 11,
+            "ejemplos": [
+                "No puede gobernar.no apta.",
+                "Puede la tecnología tomar videos y muchas personas pueden tener dispositions que pueden usar en sus cosas personales",
+                "Cómo puede ser si la ............a es prohibits en Mex"
+            ]
+        },
+        {
+            "text": "cómo",
+            "size": 11,
+            "value": 11,
+            "ejemplos": [
+                "Cómo puede ser si la ............a es prohibits en Mex",
+                "DENOS TELEFOTOS PARA PREGUNTAR CÓMO AYUDAMOS.",
+                "Cómo podemos ser exportadores electorales"
+            ]
+        },
+        {
+            "text": "salud",
+            "size": 11,
+            "value": 11,
+            "ejemplos": [
+                "Esos médicos que se cuiden. Porque promueven salud y tienen sobrepeso. Incongruencia total!!",
+                "El examen tóxicológico y de salud debe de ser de cajón en una persona que gobierna una nación como Mexico",
+                "IMSS significa Importa madre tu Salud… así el cuatrote. Son unos miserables."
+            ]
+        },
+        {
+            "text": "ellos",
+            "size": 11,
+            "value": 10,
+            "ejemplos": [
+                "Entiendo que la presidenta sufre de presiones altísimas, inclusive hasta situaciones de saber de  atentados a su vida y su familia. El tema no es que tome alguna droga o no, el problema es que se hacen pasar por puristas y que ellos son inmaculados e intocables. No veo mal que se mediqué e incluso que fume mariguana para estar tranquila, lo que está mal es el doble discurso. Nosotros no, ellos sí. Y así es en todo. Nosotros no, ellos sí.",
+                "Y OJALÁ MUCHOS MEXICANOS QUE AÚN APLAUDEN AL GOBIERNO ESCUCHEN COMO A ÉSTE INDIVIDUO DEL IMSS BIENESTAR LE VALE LA SALUD DE L PUEBLO BUENO Y SABIO. ELLOS SE ATIENDEN EN HOSPITALES PRIVADOS DONDE NO FALTA NADA Y SABEN CON QUÉ PAGAN??????? CON DINERO DE NUESTROS IMPUESTOS. QUE PASA QUE NO LO ENTIENDEN.",
+                "😂😂😂😂😂😂 estos SICARIOS MEDIATICOS MASCOTAS de la PERRA de TRUMP, la imaginacion Netflix y la de mauleon con la cronica sin audio 😂😂😂😂😂😂bien CHISTOSOS estas mascotas de la Perra de Trump con sus sueños humedos y sus Chaquetas Mentales 😂😂😂😂 solo entre ellos y los PRIANDEJOS JODIDOS jijijiji 😂😂😂   \nPRIANDEJOS JODIDOS UNIDOS A.C.\n                      atentamente:"
+            ]
+        },
+        {
+            "text": "presidenta",
+            "size": 11,
+            "value": 10,
+            "ejemplos": [
+                "Entiendo que la presidenta sufre de presiones altísimas, inclusive hasta situaciones de saber de  atentados a su vida y su familia. El tema no es que tome alguna droga o no, el problema es que se hacen pasar por puristas y que ellos son inmaculados e intocables. No veo mal que se mediqué e incluso que fume mariguana para estar tranquila, lo que está mal es el doble discurso. Nosotros no, ellos sí. Y así es en todo. Nosotros no, ellos sí.",
+                "la sra. presidenta con A consume mariguana con AA\npor eso la cara de loquita que se le ve ultimamente",
+                "Yo para nada, estoy en mi estado con la 4 T pero en relación a la marihuana, pues yo creo que cualquier porro ha estado en ese asunto durante muchos años , me decía un veterinario y soy humana que por qué no fumaba marihuana para controlar mi pulso. Mi pulso está así un poquito mal justamente porque tomo antidepresivos no soy presidente, así que no hay problema.  Le pregunté a mi médico que qué pensaba y me dijo que el consumo de marihuana natural es muy malo  sin embargo  hay algunas enfermedades en que se les da unas gotas de marihuana, medicadas bajo supervisión médica. Ninguno de los casos era para mí ..\nYo no sé qué haga o no haga La señora, pero definitivamente en  punto de vista analítico yo la veo como si hubiera tenido crisis nerviosa, probablemente ataques de pánico . Su situación es muy complicada, porque ella realmente no es la persona que dirige el país, sino que esto se hace tras bambalinas y creo que todos lo sabemos. Entonces cuando te encuentras en una situación en que  Estados Unidos te presiona justificadamente y el otro presiona por su lado injustificadamente para no ser deportado ni el ni ninguno de los suyos. Entonces te encuentras en un estire y  afloje que te lleva a una crisis emocional. Aunque no es nuevo para mí, lo que dicen de la marihuana en el caso de ella o cualquier otro porro, si afecta definitivamente a las neuronas, pero más si está con un medicamento. Porque chocan las dos sustancias.\nAunque mucho de lo que se dice hoy de la presidenta, yo creo que salió de alguien Palacio como para decir debemos quitarla de su puesto porque no sabe lo que dice claro por un lado sería lo mejor, pero por otro lado nos van a poner a alguien de ellos mismos y sería terrible que nos pusieran al Hijo"
+            ]
+        },
+        {
+            "text": "casilla",
+            "size": 11,
+            "value": 10,
+            "ejemplos": [
+                "Por favor, enseñen cómo debemos actuar para cuidar la casilla.",
+                "Cómo unirnos para que todo salga bien, recuerdo elecciones pasadas, comentaba un Dr. que conozco, fue presidente de casilla, protegiendo que todo fuera correcto, ganó en su casilla el partido contrario a AMLO, estuvo hasta el final todos firmaron la caja sellada y firmada x todo, al llegar a entregar al lugar de concentración, se encuentra a un personaje conocido por él Dr. la dijo aquí esta la caja en ese momento el sr. la dice no Dr. esa déjela ahí, esta se va por la suya, ya sabe como se maneja todo ésto.",
+                "Hay asociaciones civiles registradas en el INE que están registradas y están acreditadas para ser Observadores ejemplo COPARMEX  y también  está la ONU  cooperando y coordinando los  extranjeros que están en casilla se llaman visitantes y están acreditados por la ONU"
+            ]
+        },
+        {
+            "text": "gobierno",
+            "size": 11,
+            "value": 10,
+            "ejemplos": [
+                "MUY DE ACUERDO CON TODO LO QUE DICEN DE ESTE GOBIERNO DICTADOR RATERO SINVERGUENZAS CÍNICOS TIRANOS SAQUEADORES ETC",
+                "Y OJALÁ MUCHOS MEXICANOS QUE AÚN APLAUDEN AL GOBIERNO ESCUCHEN COMO A ÉSTE INDIVIDUO DEL IMSS BIENESTAR LE VALE LA SALUD DE L PUEBLO BUENO Y SABIO. ELLOS SE ATIENDEN EN HOSPITALES PRIVADOS DONDE NO FALTA NADA Y SABEN CON QUÉ PAGAN??????? CON DINERO DE NUESTROS IMPUESTOS. QUE PASA QUE NO LO ENTIENDEN.",
+                "EL CASO DEL ABUSIVO DOCTOR DEL IMSS BIENESTAR EVIDENCÍA QUE EXISTE LA FALTA DE EQUIPAMIENTO Y MEDICAMENTO DE LO CUAL EL RESPONSABLE ES EL GOBIERNO QUE MIENTE TODOS LOS DIAS DICIENDO QUE HAY SUFICIENTES. Y ENTONCES QUE SE LE SANCIONE AL DOCTOR PEEO NO SE OLVIDE TODA LA RED DE RESPINSABILIDADES EN EL MAL SERVICIO."
+            ]
+        },
+        {
+            "text": "representante",
+            "size": 11,
+            "value": 9,
+            "ejemplos": [
+                "Saludos y por qué no hacen esto cada partido político ponga su representante ciudadano para que cuide las casillas son muchos partidos y yo creo que los afines de cada partido pues deben de cuidar sus intereses",
+                "Tomenme en cuenta para representante de casilla, con el PRI o con el PAN, de si estoy en contra de morena, es lo de menos, estoy a favor de mi país, y por tal quiero unas elecciones confiables y fidedignas, y por ello quiero participar.",
+                "En cualquier empleo no es permitido trabajar bajo efectos de cualquier droga, alcohol, y menos el mayor representante del país, esto es muy grave, a cualquier trabajador ya hubiese ser despedido."
+            ]
+        },
+        {
+            "text": "hasta",
+            "size": 11,
+            "value": 9,
+            "ejemplos": [
+                "Entiendo que la presidenta sufre de presiones altísimas, inclusive hasta situaciones de saber de  atentados a su vida y su familia. El tema no es que tome alguna droga o no, el problema es que se hacen pasar por puristas y que ellos son inmaculados e intocables. No veo mal que se mediqué e incluso que fume mariguana para estar tranquila, lo que está mal es el doble discurso. Nosotros no, ellos sí. Y así es en todo. Nosotros no, ellos sí.",
+                "Cómo unirnos para que todo salga bien, recuerdo elecciones pasadas, comentaba un Dr. que conozco, fue presidente de casilla, protegiendo que todo fuera correcto, ganó en su casilla el partido contrario a AMLO, estuvo hasta el final todos firmaron la caja sellada y firmada x todo, al llegar a entregar al lugar de concentración, se encuentra a un personaje conocido por él Dr. la dijo aquí esta la caja en ese momento el sr. la dice no Dr. esa déjela ahí, esta se va por la suya, ya sabe como se maneja todo ésto.",
+                "Como a denigrado nuestro tiempo,en mi epoca fumar mariguana era un escandalo hoy es una rutina normal hasta para los presidentes, que ledijeran mariguanero era una verguenza,hoy es normal o like."
+            ]
+        },
+        {
+            "text": "elecciones",
+            "size": 11,
+            "value": 9,
+            "ejemplos": [
+                "Me da gusto que en esta mesa, nos instruyan, para poder saber cuales son las reglas y que todos estemos muy atentos en estás elecciones.",
+                "Cómo unirnos para que todo salga bien, recuerdo elecciones pasadas, comentaba un Dr. que conozco, fue presidente de casilla, protegiendo que todo fuera correcto, ganó en su casilla el partido contrario a AMLO, estuvo hasta el final todos firmaron la caja sellada y firmada x todo, al llegar a entregar al lugar de concentración, se encuentra a un personaje conocido por él Dr. la dijo aquí esta la caja en ese momento el sr. la dice no Dr. esa déjela ahí, esta se va por la suya, ya sabe como se maneja todo ésto.",
+                "Tomenme en cuenta para representante de casilla, con el PRI o con el PAN, de si estoy en contra de morena, es lo de menos, estoy a favor de mi país, y por tal quiero unas elecciones confiables y fidedignas, y por ello quiero participar."
+            ]
+        },
+        {
+            "text": "programa",
+            "size": 11,
+            "value": 9,
+            "ejemplos": [
+                "El título no coincide con lo que hablaron en el programa.",
+                "Qué BUEN PROGRAMA! MUY DIDÁCTICO, LOS FELICITO!",
+                "Pobres requetependejos moribundos de hambre porque mienten tragan.... mientras ustedes con su nazi programa presidido por prietos no llegan ni a 5000 likes pedrero levanta como 30000....dan lastima, indignacion y pena ajena...."
+            ]
+        }
+    ]
+}

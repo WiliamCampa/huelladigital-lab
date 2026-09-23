@@ -1,0 +1,281 @@
+{
+    "estadisticas": {
+        "total_comentarios": 300,
+        "pct_positivo": 7.7,
+        "pct_negativo": 68.3,
+        "pct_neutro": 24.0
+    },
+    "global": {
+        "top_5": [
+            {
+                "palabra": "MARIHUANA",
+                "frecuencia": 29,
+                "porcentaje": 12.4
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 27,
+                "porcentaje": 11.5
+            },
+            {
+                "palabra": "PAÍS",
+                "frecuencia": 26,
+                "porcentaje": 11.1
+            },
+            {
+                "palabra": "MORENA",
+                "frecuencia": 22,
+                "porcentaje": 9.4
+            },
+            {
+                "palabra": "CLAUDIA",
+                "frecuencia": 17,
+                "porcentaje": 7.3
+            }
+        ],
+        "top_15": [
+            {
+                "palabra": "MARIHUANA",
+                "frecuencia": 29
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 27
+            },
+            {
+                "palabra": "PAÍS",
+                "frecuencia": 26
+            },
+            {
+                "palabra": "MORENA",
+                "frecuencia": 22
+            },
+            {
+                "palabra": "CLAUDIA",
+                "frecuencia": 17
+            },
+            {
+                "palabra": "MEXICANOS",
+                "frecuencia": 14
+            },
+            {
+                "palabra": "PRESIDENTA",
+                "frecuencia": 13
+            },
+            {
+                "palabra": "CASILLA",
+                "frecuencia": 12
+            },
+            {
+                "palabra": "BOLETAS",
+                "frecuencia": 12
+            },
+            {
+                "palabra": "PUEDE",
+                "frecuencia": 11
+            },
+            {
+                "palabra": "GOBIERNO",
+                "frecuencia": 11
+            },
+            {
+                "palabra": "SALUD",
+                "frecuencia": 11
+            },
+            {
+                "palabra": "ELECCIONES",
+                "frecuencia": 10
+            },
+            {
+                "palabra": "NARCO",
+                "frecuencia": 10
+            },
+            {
+                "palabra": "REPRESENTANTE",
+                "frecuencia": 9
+            }
+        ]
+    },
+    "positivo": {
+        "top_5": [
+            {
+                "palabra": "PROGRAMA",
+                "frecuencia": 6,
+                "porcentaje": 14.6
+            },
+            {
+                "palabra": "BUEN",
+                "frecuencia": 5,
+                "porcentaje": 12.2
+            },
+            {
+                "palabra": "GRACIAS",
+                "frecuencia": 5,
+                "porcentaje": 12.2
+            },
+            {
+                "palabra": "EXCELENTE",
+                "frecuencia": 4,
+                "porcentaje": 9.8
+            },
+            {
+                "palabra": "VOTACIONES",
+                "frecuencia": 3,
+                "porcentaje": 7.3
+            }
+        ],
+        "top_15": [
+            {
+                "palabra": "PROGRAMA",
+                "frecuencia": 6
+            },
+            {
+                "palabra": "BUEN",
+                "frecuencia": 5
+            },
+            {
+                "palabra": "GRACIAS",
+                "frecuencia": 5
+            },
+            {
+                "palabra": "EXCELENTE",
+                "frecuencia": 4
+            },
+            {
+                "palabra": "VOTACIONES",
+                "frecuencia": 3
+            },
+            {
+                "palabra": "DEBEMOS",
+                "frecuencia": 3
+            },
+            {
+                "palabra": "AMEN",
+                "frecuencia": 3
+            },
+            {
+                "palabra": "GUSTO",
+                "frecuencia": 2
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 2
+            },
+            {
+                "palabra": "SALUDOS",
+                "frecuencia": 2
+            },
+            {
+                "palabra": "CONOCIMIENTO",
+                "frecuencia": 2
+            },
+            {
+                "palabra": "MESA",
+                "frecuencia": 1
+            },
+            {
+                "palabra": "INSTRUYAN",
+                "frecuencia": 1
+            },
+            {
+                "palabra": "PODER",
+                "frecuencia": 1
+            },
+            {
+                "palabra": "SABER",
+                "frecuencia": 1
+            }
+        ]
+    },
+    "negativo": {
+        "top_5": [
+            {
+                "palabra": "MARIHUANA",
+                "frecuencia": 27,
+                "porcentaje": 12.8
+            },
+            {
+                "palabra": "PAÍS",
+                "frecuencia": 24,
+                "porcentaje": 11.4
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 22,
+                "porcentaje": 10.4
+            },
+            {
+                "palabra": "MORENA",
+                "frecuencia": 21,
+                "porcentaje": 10.0
+            },
+            {
+                "palabra": "CLAUDIA",
+                "frecuencia": 14,
+                "porcentaje": 6.6
+            }
+        ],
+        "top_15": [
+            {
+                "palabra": "MARIHUANA",
+                "frecuencia": 27
+            },
+            {
+                "palabra": "PAÍS",
+                "frecuencia": 24
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 22
+            },
+            {
+                "palabra": "MORENA",
+                "frecuencia": 21
+            },
+            {
+                "palabra": "CLAUDIA",
+                "frecuencia": 14
+            },
+            {
+                "palabra": "PRESIDENTA",
+                "frecuencia": 13
+            },
+            {
+                "palabra": "MEXICANOS",
+                "frecuencia": 13
+            },
+            {
+                "palabra": "SALUD",
+                "frecuencia": 11
+            },
+            {
+                "palabra": "BOLETAS",
+                "frecuencia": 11
+            },
+            {
+                "palabra": "GOBIERNO",
+                "frecuencia": 10
+            },
+            {
+                "palabra": "NARCO",
+                "frecuencia": 10
+            },
+            {
+                "palabra": "PUEDE",
+                "frecuencia": 9
+            },
+            {
+                "palabra": "MEDICO",
+                "frecuencia": 9
+            },
+            {
+                "palabra": "PEOR",
+                "frecuencia": 9
+            },
+            {
+                "palabra": "NUESTRO",
+                "frecuencia": 8
+            }
+        ]
+    }
+}

@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis Emocional & Treemap Interactivo</title>
+    <!-- Librerías Externas -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #0b0f19;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .dashboard-card {
+            background-color: #111827;
+            border: 1px solid #1f2937;
+            border-radius: 16px;
+            width: 100%;
+            max-width: 480px;
+            padding: 24px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+            position: relative;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header h2 {
+            font-size: 1.25rem;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            color: #818cf8;
+            text-transform: uppercase;
+        }
+
+        .header p {
+            font-size: 0.8rem;
+            color: #9ca3af;
+            margin-top: 4px;
+        }
+
+        /* Banner de Bots */
+        .bot-alert-box {
+            background-color: #1f1924;
+            border: 1px solid #3b1827;
+            border-radius: 12px;
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .bot-title {
+            font-size: 0.65rem;
+            font-weight: 700;
+            color: #ef4444;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .bot-percentage {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: #ef4444;
+        }
+
+        .badge-spam {
+            background-color: #ef4444;
+            color: #ffffff;
+            font-size: 0.65rem;
+            font-weight: 800;
+            padding: 4px 8px;
+            border-radius: 6px;
+            letter-spacing: 0.5px;
+        }
+
+        .section-title {
+            font-size: 0.85rem;
+            font-weight: 700;
+            color: #e5e7eb;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        /* Contenedor del Treemap */
+        #treemap {
+            position: relative;
+            width: 100%;
+            height: 280px;
+            background-color: #0b0f19;
+            border-radius: 12px;
+            overflow: hidden;
+            border: 1px solid #1f2937;
+            margin-bottom: 24px;
+        }
+
+        .node {
+            position: absolute;
+            box-sizing: border-box;
+            border-radius: 8px;
+            padding: 4px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            overflow: hidden;
+            transition: all 0.2s ease;
+            word-wrap: break-word;
+            z-index: 1;
+        }
+
+        .node:hover {
+            transform: scale(0.98);
+            z-index: 10;
+            cursor: pointer;
+        }
+
+        .node-label {
+            font-size: 0.65rem;
+            font-weight: 700;
+            color: #ffffff;
+            line-height: 1.1;
+            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+            width: 100%;
+            word-break: break-word;
+        }
+
+        .node-value {
+            font-size: 0.75rem;
+            font-weight: 800;
+            color: #ffffff;
+            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+            margin-top: 3px;
+            width: 100%;
+        }
+
+        /* Nube de Palabras */
+        .word-cloud-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            justify-content: center;
+            align-items: center;
+            padding: 16px;
+            background-color: #0b0f19;
+            border-radius: 12px;
+            border: 1px solid #1f2937;
+            margin-bottom: 20px;
+        }
+
+        .word-badge {
+            padding: 6px 14px;
+            border-radius: 8px;
+            font-weight: 800;
+            transition: all 0.2s ease;
+            display: inline-block;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+            cursor: pointer;
+            line-height: 1.2;
+            text-transform: lowercase;
+        }
+
+        .word-badge:hover {
+            transform: scale(1.12);
+            filter: brightness(1.25);
+            z-index: 2;
+        }
+
+        /* Botón de Exportación */
+        .action-bar {
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .export-btn {
+            background: #1e293b;
+            color: #38bdf8;
+            border: 1px solid #0284c7;
+            padding: 10px 18px;
+            border-radius: 10px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .export-btn:hover {
+            background: #0284c7;
+            color: #ffffff;
+            box-shadow: 0 0 14px rgba(56, 189, 248, 0.4);
+        }
+
+        /* Ventana Modal de Comentarios */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(11, 15, 25, 0.85);
+            backdrop-filter: blur(6px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal-card {
+            background: #111827;
+            border: 1px solid #374151;
+            border-radius: 16px;
+            width: 90%;
+            max-width: 440px;
+            padding: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+            transform: translateY(20px);
+            transition: transform 0.3s ease;
+        }
+
+        .modal-overlay.active .modal-card {
+            transform: translateY(0);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #1f2937;
+            padding-bottom: 10px;
+        }
+
+        .modal-title {
+            font-size: 1rem;
+            font-weight: 800;
+            color: #818cf8;
+            text-transform: uppercase;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: #9ca3af;
+            font-size: 1.4rem;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+        .modal-close:hover {
+            color: #ef4444;
+        }
+
+        .comment-item {
+            background: #0b0f19;
+            border-left: 3px solid #6366f1;
+            border-radius: 6px;
+            padding: 10px 12px;
+            margin-bottom: 10px;
+            font-size: 0.82rem;
+            color: #e2e8f0;
+            line-height: 1.4;
+        }
+
+        .comment-item mark {
+            background: rgba(129, 140, 248, 0.3);
+            color: #38bdf8;
+            font-weight: 700;
+            padding: 1px 4px;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="dashboard-card" id="report-container">
+        <div class="header">
+            <h2>Mapa Emocional del Post</h2>
+            <p>Análisis en tiempo real de la conversación</p>
+        </div>
+
+        <!-- Métrica de Bots -->
+        <div class="bot-alert-box">
+            <div>
+                <div class="bot-title">Cuentas Sospechosas / Bots</div>
+                <div class="bot-percentage" id="bot-percentage">0.0%</div>
+            </div>
+            <span class="badge-spam">ALERTA SPAM</span>
+        </div>
+
+        <!-- Sección Treemap -->
+        <div class="section-title">
+            <span>🎭</span> Sentimientos Detectados
+        </div>
+        <div id="treemap"></div>
+
+        <!-- Sección Nube de Palabras Clave -->
+        <div class="section-title">
+            <span>☁️</span> Nube de Palabras Clave (Haz clic para ver contexto)
+        </div>
+        <div class="word-cloud-container" id="word-cloud"></div>
+
+        <!-- Botón de Exportación PNG -->
+        <div class="action-bar">
+            <button id="btn-exportar-mapa" class="export-btn">📸 Exportar Captura</button>
+        </div>
+    </div>
+
+    <!-- Modal para Contexto de Comentarios -->
+    <div class="modal-overlay" id="comment-modal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <span class="modal-title" id="modal-word-title">Menciones</span>
+                <button class="modal-close" id="btn-close-modal">&times;</button>
+            </div>
+            <div id="modal-comments-list"></div>
+        </div>
+    </div>
+
+    <script>
+        // Animación Canvas de Partículas Emocionales
+        function crearEfectoParticulas() {
+            const treemapDiv = document.getElementById('treemap');
+            const canvas = document.createElement('canvas');
+            canvas.style.position = 'absolute';
+            canvas.style.top = '0';
+            canvas.style.left = '0';
+            canvas.style.width = '100%';
+            canvas.style.height = '100%';
+            canvas.style.pointerEvents = 'none';
+            canvas.style.zIndex = '5';
+
+            treemapDiv.appendChild(canvas);
+
+            const ctx = canvas.getContext('2d');
+            canvas.width = treemapDiv.clientWidth;
+            canvas.height = treemapDiv.clientHeight;
+
+            let particulas = [];
+            const colores = ["#10B981", "#3B82F6", "#EF4444"];
+
+            for (let i = 0; i < 35; i++) {
+                particulas.push({
+                    x: Math.random() * canvas.width,
+                    y: Math.random() * canvas.height,
+                    vx: (Math.random() - 0.5) * 1.2,
+                    vy: (Math.random() - 0.5) * 1.2,
+                    size: Math.random() * 2.5 + 1,
+                    color: colores[Math.floor(Math.random() * colores.length)],
+                    alpha: Math.random() * 0.6 + 0.2
+                });
+            }
+
+            function animar() {
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                particulas.forEach(p => {
+                    p.x += p.vx;
+                    p.y += p.vy;
+
+                    if (p.x < 0 || p.x > canvas.width) p.vx *= -1;
+                    if (p.y < 0 || p.y > canvas.height) p.vy *= -1;
+
+                    ctx.beginPath();
+                    ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
+                    ctx.fillStyle = p.color;
+                    ctx.globalAlpha = p.alpha;
+                    ctx.shadowBlur = 6;
+                    ctx.shadowColor = p.color;
+                    ctx.fill();
+                });
+                requestAnimationFrame(animar);
+            }
+            animar();
+        }
+
+        // Carga de datos y renderizado D3
+        fetch('datos_visualizacion.json')
+            .then(response => response.json())
+            .then(data => {
+                // 1. Métrica de Bots
+                document.getElementById('bot-percentage').innerText = data.metricas_generales.porcentaje_bots + '%';
+
+                // 2. D3 Treemap
+                const container = d3.select("#treemap");
+                container.html("");
+
+                const width = container.node().getBoundingClientRect().width;
+                const height = 280;
+
+                const root = d3.hierarchy(data.mapa_emociones)
+                    .sum(d => d.value)
+                    .sort((a, b) => b.value - a.value);
+
+                d3.treemap()
+                    .size([width, height])
+                    .padding(4)
+                    .round(true)(root);
+
+                const leaves = root.leaves();
+
+                if (!leaves || leaves.length === 0) {
+                    container.html("<div style='color:#9ca3af;text-align:center;padding-top:120px;'>Sin datos disponibles</div>");
+                    return;
+                }
+
+                leaves.forEach(d => {
+                    const nodeWidth = Math.max(0, d.x1 - d.x0);
+                    const nodeHeight = Math.max(0, d.y1 - d.y0);
+
+                    const node = container.append("div")
+                        .attr("class", "node")
+                        .style("left", d.x0 + "px")
+                        .style("top", d.y0 + "px")
+                        .style("width", nodeWidth + "px")
+                        .style("height", nodeHeight + "px")
+                        .style("background", `linear-gradient(135deg, ${d.data.color}DD 0%, ${d.data.color}77 100%)`)
+                        .style("border", `1px solid ${d.data.color}`)
+                        .style("box-shadow", `0 4px 12px ${d.data.color}33`)
+                        .attr("title", `${d.data.name}: ${d.value} coms`);
+
+                    if (nodeWidth > 40 && nodeHeight > 40) {
+                        node.append("div")
+                            .attr("class", "node-label")
+                            .style("font-size", nodeWidth < 65 ? "0.6rem" : "0.75rem")
+                            .text(d.data.name);
+
+                        node.append("div")
+                            .attr("class", "node-value")
+                            .style("font-size", nodeWidth < 65 ? "0.7rem" : "0.85rem")
+                            .text(d.value + " coms");
+                    } else if (nodeWidth > 20 && nodeHeight > 20) {
+                        node.append("div")
+                            .attr("class", "node-label")
+                            .style("font-size", "0.55rem")
+                            .style("line-height", "1")
+                            .text(d.data.name.split(" ")[0]);
+
+                        node.append("div")
+                            .attr("class", "node-value")
+                            .style("font-size", "0.7rem")
+                            .text(d.value);
+                    }
+                });
+
+                // Activar animación de partículas sobre el treemap
+                crearEfectoParticulas();
+
+                // 3. Nube de Palabras Clave Interactivas
+                const cloudContainer = d3.select("#word-cloud");
+                cloudContainer.html("");
+
+                const palabrasIgnoradas = new Set(["ella", "también", "tambien", "menos"]);
+
+                let palabras = (data.nube_palabras || []).filter(item => {
+                    const textoLimpio = item.text.trim().toLowerCase();
+                    return !palabrasIgnoradas.has(textoLimpio);
+                });
+
+                palabras = palabras.slice(0, 10);
+
+                if (palabras.length > 0) {
+                    const valores = palabras.map(p => p.value !== undefined ? p.value : p.size);
+                    const minVal = d3.min(valores);
+                    const maxVal = d3.max(valores);
+
+                    const fontScale = d3.scaleLinear()
+                        .domain([minVal, maxVal])
+                        .range([0.75, 1.2]);
+
+                    const colorScale = d3.scaleLinear()
+                        .domain([minVal, (minVal + maxVal) / 2, maxVal])
+                        .range(["#4c1d95", "#c026d3", "#f59e0b"]);
+
+                    const borderScale = d3.scaleLinear()
+                        .domain([minVal, maxVal])
+                        .range(["#7c3aed", "#fde047"]);
+
+                    palabras.forEach(item => {
+                        const val = item.value !== undefined ? item.value : item.size;
+                        const fontSizeRem = fontScale(val);
+                        const bgColor = colorScale(val);
+                        const borderColor = borderScale(val);
+
+                        const badge = cloudContainer.append("span")
+                            .attr("class", "word-badge")
+                            .style("font-size", `${fontSizeRem}rem`)
+                            .style("background-color", bgColor)
+                            .style("border", `1px solid ${borderColor}`)
+                            .style("color", "#ffffff")
+                            .attr("title", `Ver ejemplos de "${item.text}"`)
+                            .text(item.text);
+
+                        // Evento Clic para desplegar modal
+                        badge.on("click", () => {
+                            abrirModal(item.text, item.ejemplos || []);
+                        });
+                    });
+                }
+            })
+            .catch(error => console.error("Error al cargar datos_visualizacion.json:", error));
+
+        // Lógica del Modal
+        const modal = document.getElementById('comment-modal');
+        const modalTitle = document.getElementById('modal-word-title');
+        const modalCommentsList = document.getElementById('modal-comments-list');
+        const btnCloseModal = document.getElementById('btn-close-modal');
+
+        function abrirModal(palabra, comentarios) {
+            modalTitle.innerText = `Ejemplos: "${palabra}"`;
+            modalCommentsList.innerHTML = '';
+
+            if (!comentarios || comentarios.length === 0) {
+                modalCommentsList.innerHTML = '<p style="color:#9ca3af; font-size:0.8rem;">Sin ejemplos de texto disponibles.</p>';
+            } else {
+                comentarios.forEach(com => {
+                    const regex = new RegExp(`(${palabra})`, 'gi');
+                    const textoResaltado = com.replace(regex, '<mark>$1</mark>');
+
+                    const div = document.createElement('div');
+                    div.className = 'comment-item';
+                    div.innerHTML = `💬 "${textoResaltado}"`;
+                    modalCommentsList.appendChild(div);
+                });
+            }
+
+            modal.classList.add('active');
+        }
+
+        btnCloseModal.addEventListener('click', () => modal.classList.remove('active'));
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.classList.remove('active');
+        });
+
+        // Evento Botón de Exportación PNG
+        document.getElementById('btn-exportar-mapa').addEventListener('click', () => {
+            const contenedor = document.getElementById('report-container');
+            const botonExportar = document.getElementById('btn-exportar-mapa');
+
+            botonExportar.style.visibility = 'hidden';
+
+            html2canvas(contenedor, {
+                backgroundColor: '#0b0f19',
+                scale: 2
+            }).then(canvas => {
+                botonExportar.style.visibility = 'visible';
+
+                const enlace = document.createElement('a');
+                enlace.download = `mapa_emocional_reporte.png`;
+                enlace.href = canvas.toDataURL('image/png');
+                enlace.click();
+            });
+        });
+    </script>
+</body>
+</html>
+
+
+
