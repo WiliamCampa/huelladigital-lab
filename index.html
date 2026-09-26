@@ -28,43 +28,81 @@
         .dashboard-card {
             background-color: #111827;
             border: 1px solid #1f2937;
-            border-radius: 16px;
+            border-radius: 20px;
             width: 100%;
-            max-width: 480px;
-            padding: 24px;
-            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+            max-width: 920px;
+            padding: 25px 30px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
             position: relative;
+            display: grid;
+            grid-template-columns: 1fr 1.1fr;
+            gap: 20px;
         }
 
-        .header {
+        @media (max-width: 768px) {
+            .dashboard-card {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .header-section {
+            grid-column: 1 / -1;
             text-align: center;
-            margin-bottom: 20px;
         }
 
-        .header h2 {
-            font-size: 1.25rem;
+        .header-section h2 {
+            font-size: 1.3rem;
             font-weight: 800;
             letter-spacing: 0.5px;
             color: #818cf8;
             text-transform: uppercase;
         }
 
-        .header p {
+        .header-section p {
             font-size: 0.8rem;
             color: #9ca3af;
             margin-top: 4px;
         }
 
+        /* Barra de Navegación */
+        .nav-bar {
+            grid-column: 1 / -1;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 5px;
+            border-bottom: 1px solid #1f2937;
+            padding-bottom: 10px;
+        }
+
+        .nav-link-active {
+            color: #38bdf8;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.85rem;
+            border-bottom: 2px solid #38bdf8;
+            padding-bottom: 4px;
+        }
+
+        .nav-link-inactive {
+            color: #9ca3af;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.85rem;
+            transition: color 0.2s;
+        }
+
         /* Banner de Bots */
         .bot-alert-box {
+            grid-column: 1 / -1;
             background-color: #1f1924;
             border: 1px solid #3b1827;
             border-radius: 12px;
-            padding: 12px 16px;
+            padding: 10px 16px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 5px;
         }
 
         .bot-title {
@@ -76,9 +114,10 @@
         }
 
         .bot-percentage {
-            font-size: 1.5rem;
+            font-size: 1.4rem;
             font-weight: 800;
             color: #ef4444;
+            line-height: 1;
         }
 
         .badge-spam {
@@ -95,22 +134,26 @@
             font-size: 0.85rem;
             font-weight: 700;
             color: #e5e7eb;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
             display: flex;
             align-items: center;
             gap: 6px;
         }
 
-        /* Contenedor del Treemap */
+        /* Columna Izquierda: Treemap */
+        .left-panel {
+            display: flex;
+            flex-direction: column;
+        }
+
         #treemap {
             position: relative;
             width: 100%;
-            height: 280px;
+            height: 250px;
             background-color: #0b0f19;
             border-radius: 12px;
             overflow: hidden;
             border: 1px solid #1f2937;
-            margin-bottom: 24px;
         }
 
         .node {
@@ -154,7 +197,13 @@
             width: 100%;
         }
 
-        /* Nube de Palabras */
+        /* Columna Derecha: Nube de Palabras y Acciones */
+        .right-panel {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
         .word-cloud-container {
             display: flex;
             flex-wrap: wrap;
@@ -165,7 +214,7 @@
             background-color: #0b0f19;
             border-radius: 12px;
             border: 1px solid #1f2937;
-            margin-bottom: 20px;
+            min-height: 200px;
         }
 
         .word-badge {
@@ -181,7 +230,7 @@
         }
 
         .word-badge:hover {
-            transform: scale(1.12);
+            transform: scale(1.1);
             filter: brightness(1.25);
             z-index: 2;
         }
@@ -190,15 +239,16 @@
         .action-bar {
             display: flex;
             justify-content: flex-end;
+            margin-top: 15px;
         }
 
         .export-btn {
             background: #1e293b;
             color: #38bdf8;
             border: 1px solid #0284c7;
-            padding: 10px 18px;
-            border-radius: 10px;
-            font-size: 0.8rem;
+            padding: 8px 18px;
+            border-radius: 20px;
+            font-size: 0.85rem;
             font-weight: 700;
             cursor: pointer;
             transition: all 0.3s ease;
@@ -210,7 +260,7 @@
         .export-btn:hover {
             background: #0284c7;
             color: #ffffff;
-            box-shadow: 0 0 14px rgba(56, 189, 248, 0.4);
+            box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
         }
 
         /* Ventana Modal de Comentarios */
@@ -241,8 +291,8 @@
             border: 1px solid #374151;
             border-radius: 16px;
             width: 90%;
-            max-width: 440px;
-            padding: 20px;
+            max-width: 460px;
+            padding: 22px;
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
             transform: translateY(20px);
             transition: transform 0.3s ease;
@@ -262,7 +312,7 @@
         }
 
         .modal-title {
-            font-size: 1rem;
+            font-size: 0.95rem;
             font-weight: 800;
             color: #818cf8;
             text-transform: uppercase;
@@ -304,16 +354,17 @@
 <body>
 
     <div class="dashboard-card" id="report-container">
-        <div class="header">
+        <!-- Título -->
+        <div class="header-section">
             <h2>Mapa Emocional del Post</h2>
             <p>Análisis en tiempo real de la conversación</p>
         </div>
-    <!-- Barra de Navegación entre Dashboards -->
-        <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #1f2937; padding-bottom: 10px;">
-         <a href="index.html" style="color: #38bdf8; text-decoration: none; font-weight: 700; font-size: 0.85rem; border-bottom: 2px solid #38bdf8; padding-bottom: 4px;">🎭 Mapa Emocional</a>
-         <a href="silueta.html" style="color: #9ca3af; text-decoration: none; font-weight: 600; font-size: 0.85rem; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#9ca3af'">👤 Silueta & Nube</a>
-        </div>
 
+        <!-- Barra de Navegación -->
+        <div class="nav-bar">
+            <a href="index.html" class="nav-link-active">🎭 Mapa Emocional</a>
+            <a href="silueta.html" class="nav-link-inactive" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#9ca3af'">👤 Silueta & Nube</a>
+        </div>
 
         <!-- Métrica de Bots -->
         <div class="bot-alert-box">
@@ -324,21 +375,26 @@
             <span class="badge-spam">ALERTA SPAM</span>
         </div>
 
-        <!-- Sección Treemap -->
-        <div class="section-title">
-            <span>🎭</span> Sentimientos Detectados
+        <!-- Columna Izquierda: Treemap -->
+        <div class="left-panel">
+            <div class="section-title">
+                <span>🎭</span> Sentimientos Detectados
+            </div>
+            <div id="treemap"></div>
         </div>
-        <div id="treemap"></div>
 
-        <!-- Sección Nube de Palabras Clave -->
-        <div class="section-title">
-            <span>☁️</span> Nube de Palabras Clave (Haz clic para ver contexto)
-        </div>
-        <div class="word-cloud-container" id="word-cloud"></div>
+        <!-- Columna Derecha: Nube de Palabras y Exportación -->
+        <div class="right-panel">
+            <div>
+                <div class="section-title">
+                    <span>☁️</span> Nube de Palabras Clave
+                </div>
+                <div class="word-cloud-container" id="word-cloud"></div>
+            </div>
 
-        <!-- Botón de Exportación PNG -->
-        <div class="action-bar">
-            <button id="btn-exportar-mapa" class="export-btn">📸 Exportar Captura</button>
+            <div class="action-bar">
+                <button id="btn-exportar-mapa" class="export-btn">📸 Exportar Reporte</button>
+            </div>
         </div>
     </div>
 
@@ -375,7 +431,7 @@
             let particulas = [];
             const colores = ["#10B981", "#3B82F6", "#EF4444"];
 
-            for (let i = 0; i < 35; i++) {
+            for (let i = 0; i < 30; i++) {
                 particulas.push({
                     x: Math.random() * canvas.width,
                     y: Math.random() * canvas.height,
@@ -421,7 +477,7 @@
                 container.html("");
 
                 const width = container.node().getBoundingClientRect().width;
-                const height = 280;
+                const height = 250;
 
                 const root = d3.hierarchy(data.mapa_emociones)
                     .sum(d => d.value)
@@ -435,7 +491,7 @@
                 const leaves = root.leaves();
 
                 if (!leaves || leaves.length === 0) {
-                    container.html("<div style='color:#9ca3af;text-align:center;padding-top:120px;'>Sin datos disponibles</div>");
+                    container.html("<div style='color:#9ca3af;text-align:center;padding-top:100px;'>Sin datos disponibles</div>");
                     return;
                 }
 
@@ -501,7 +557,7 @@
 
                     const fontScale = d3.scaleLinear()
                         .domain([minVal, maxVal])
-                        .range([0.75, 1.2]);
+                        .range([0.75, 1.15]);
 
                     const colorScale = d3.scaleLinear()
                         .domain([minVal, (minVal + maxVal) / 2, maxVal])
@@ -589,6 +645,3 @@
     </script>
 </body>
 </html>
-
-
-

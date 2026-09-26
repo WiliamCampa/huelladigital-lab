@@ -38,6 +38,7 @@
             display: grid;
             grid-template-columns: 1fr 1.1fr;
             gap: 20px;
+            position: relative;
         }
 
         @media (max-width: 768px) {
@@ -59,7 +60,7 @@
             margin-bottom: 12px;
         }
 
-        /* Barra de Sentimiento Global (Rigor Estadístico) */
+        /* Barra de Sentimiento Global */
         .sentiment-bar-container {
             grid-column: 1 / -1;
             background: #0b0f19;
@@ -167,7 +168,17 @@
             margin-bottom: 18px;
         }
 
-        .word-item { margin-bottom: 14px; }
+        .word-item {
+            margin-bottom: 14px;
+            cursor: pointer;
+            padding: 4px 6px;
+            border-radius: 6px;
+            transition: background 0.2s;
+        }
+
+        .word-item:hover {
+            background: rgba(255,255,255,0.05);
+        }
 
         .word-info {
             display: flex;
@@ -225,7 +236,94 @@
             cursor: pointer;
         }
 
-        .cloud-text:hover { fill: #ffffff !important; }
+        .cloud-text:hover { fill: #ffffff !important; transform: scale(1.1); }
+
+        /* Estilos del Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(11, 15, 25, 0.85);
+            backdrop-filter: blur(6px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal-card {
+            background: #111827;
+            border: 1px solid #374151;
+            border-radius: 16px;
+            width: 90%;
+            max-width: 460px;
+            padding: 22px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+            transform: translateY(20px);
+            transition: transform 0.3s ease;
+        }
+
+        .modal-overlay.active .modal-card {
+            transform: translateY(0);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #1f2937;
+            padding-bottom: 10px;
+        }
+
+        .modal-title {
+            font-size: 0.95rem;
+            font-weight: 800;
+            color: #818cf8;
+            text-transform: uppercase;
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: #9ca3af;
+            font-size: 1.4rem;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+
+        .modal-close:hover {
+            color: #ef4444;
+        }
+
+        .comment-item {
+            background: #0b0f19;
+            border-left: 3px solid #6366f1;
+            border-radius: 6px;
+            padding: 10px 12px;
+            margin-bottom: 10px;
+            font-size: 0.82rem;
+            color: #e2e8f0;
+            line-height: 1.4;
+        }
+
+        .comment-item mark {
+            background: rgba(129, 140, 248, 0.3);
+            color: #38bdf8;
+            font-weight: 700;
+            padding: 1px 4px;
+            border-radius: 3px;
+        }
     </style>
 </head>
 <body>
@@ -236,10 +334,10 @@
         </div>
 
         <!-- Barra de Navegación entre Dashboards -->
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #1f2937; padding-bottom: 10px; grid-column: 1 / -1;">
-    <a href="index.html" style="color: #9ca3af; text-decoration: none; font-weight: 600; font-size: 0.85rem; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#9ca3af'">🎭 Mapa Emocional</a>
-    <a href="silueta.html" style="color: #38bdf8; text-decoration: none; font-weight: 700; font-size: 0.85rem; border-bottom: 2px solid #38bdf8; padding-bottom: 4px;">👤 Silueta & Nube</a>
-</div>
+        <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #1f2937; padding-bottom: 10px; grid-column: 1 / -1;">
+            <a href="index.html" style="color: #9ca3af; text-decoration: none; font-weight: 600; font-size: 0.85rem; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#9ca3af'">🎭 Mapa Emocional</a>
+            <a href="silueta.html" style="color: #38bdf8; text-decoration: none; font-weight: 700; font-size: 0.85rem; border-bottom: 2px solid #38bdf8; padding-bottom: 4px;">👤 Silueta & Nube</a>
+        </div>
 
         <!-- Indicador Estadístico Global -->
         <div class="sentiment-bar-container">
@@ -261,7 +359,7 @@
 
         <!-- Panel Izquierdo: Top 5 -->
         <div class="top-words-panel">
-            <div class="panel-title">🔥 Top 5 Palabras más Populares</div>
+            <div class="panel-title">🔥 Top 5 Palabras más Populares (Haz clic para ver contexto)</div>
             <div id="top-list"></div>
         </div>
 
@@ -271,6 +369,17 @@
                 <path class="silhouette-shape" d="M 175, 25 C 140, 25 140, 105 175, 105 C 210, 105 210, 25 175, 25 Z M 90, 330 C 90, 190, 120, 140, 175, 140 C 230, 140, 260, 190, 260, 330 Z" />
                 <g id="cloud-layer" transform="translate(175, 165)"></g>
             </svg>
+        </div>
+    </div>
+
+    <!-- Modal para Contexto de Comentarios -->
+    <div class="modal-overlay" id="comment-modal">
+        <div class="modal-card">
+            <div class="modal-header">
+                <span class="modal-title" id="modal-word-title">Menciones</span>
+                <button class="modal-close" id="btn-close-modal">&times;</button>
+            </div>
+            <div id="modal-comments-list"></div>
         </div>
     </div>
 
@@ -334,19 +443,21 @@
             const maxPct = dataModo.top_5[0]?.porcentaje || 1;
             const colPrens = paletas[modo][0];
 
-            dataModo.top_5.forEach(item => {
+            dataModo.top_5.forEach((item, idx) => {
                 const relativeWidth = (item.porcentaje / maxPct) * 100;
-                topList.innerHTML += `
-                    <div class="word-item">
-                        <div class="word-info">
-                            <span class="word-name">${item.palabra}</span>
-                            <span class="word-pct" style="color: ${colPrens}">${item.porcentaje}%</span>
-                        </div>
-                        <div class="bar-bg">
-                            <div class="bar-fill" style="width: ${relativeWidth}%; background: ${colPrens}"></div>
-                        </div>
+                const div = document.createElement('div');
+                div.className = 'word-item';
+                div.innerHTML = `
+                    <div class="word-info">
+                        <span class="word-name">${item.palabra}</span>
+                        <span class="word-pct" style="color: ${colPrens}">${item.porcentaje}%</span>
+                    </div>
+                    <div class="bar-bg">
+                        <div class="bar-fill" style="width: ${relativeWidth}%; background: ${colPrens}"></div>
                     </div>
                 `;
+                div.addEventListener('click', () => abrirModal(item.palabra, item.ejemplos || []));
+                topList.appendChild(div);
             });
 
             // Configurar Nube D3 sobre Silueta
@@ -356,7 +467,8 @@
             const words = dataModo.top_15.map(d => ({
                 text: d.palabra,
                 size: Math.max(13, Math.min(30, 13 + ((d.frecuencia - minFreq) / (maxFreq - minFreq || 1)) * 17)),
-                frecuencia: d.frecuencia
+                frecuencia: d.frecuencia,
+                ejemplos: d.ejemplos || []
             }));
 
             d3.layout.cloud()
@@ -383,8 +495,41 @@
                 .style("fill", (d, i) => i < 5 ? paletas[modo][i] : "#64748b")
                 .attr("text-anchor", "middle")
                 .attr("transform", d => `translate(${d.x}, ${d.y})`)
-                .text(d => d.text);
+                .text(d => d.text)
+                .on("click", (e, d) => abrirModal(d.text, d.ejemplos));
         }
+
+        // Lógica del Modal
+        const modal = document.getElementById('comment-modal');
+        const modalTitle = document.getElementById('modal-word-title');
+        const modalCommentsList = document.getElementById('modal-comments-list');
+        const btnCloseModal = document.getElementById('btn-close-modal');
+
+        function abrirModal(palabra, comentarios) {
+            modalTitle.innerText = `Ejemplos: "${palabra}"`;
+            modalCommentsList.innerHTML = '';
+
+            if (!comentarios || comentarios.length === 0) {
+                modalCommentsList.innerHTML = '<p style="color:#9ca3af; font-size:0.8rem;">Sin ejemplos de texto disponibles.</p>';
+            } else {
+                comentarios.forEach(com => {
+                    const regex = new RegExp(`(${palabra})`, 'gi');
+                    const textoResaltado = com.replace(regex, '<mark>$1</mark>');
+
+                    const div = document.createElement('div');
+                    div.className = 'comment-item';
+                    div.innerHTML = `💬 "${textoResaltado}"`;
+                    modalCommentsList.appendChild(div);
+                });
+            }
+
+            modal.classList.add('active');
+        }
+
+        btnCloseModal.addEventListener('click', () => modal.classList.remove('active'));
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.classList.remove('active');
+        });
 
         // Exportación de reporte a PNG
         document.getElementById('btn-exportar').addEventListener('click', () => {
