@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Análisis de Silueta & Sentimiento</title>
-    <!-- Librerías Externas -->
+    <title>Pensamiento & Nube | HuellaDigital.Lab</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/jasondavies/d3-cloud/build/d3.layout.cloud.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
@@ -18,7 +17,7 @@
         }
 
         body {
-            background-color: #0b0f19;
+            background-color: #080b11;
             color: #ffffff;
             display: flex;
             justify-content: center;
@@ -28,72 +27,88 @@
         }
 
         .card-container {
-            background-color: #111827;
-            border: 1px solid #1f2937;
+            background-color: #0f172a;
+            border: 1px solid #1e293b;
             border-radius: 20px;
             width: 100%;
-            max-width: 920px;
+            max-width: 980px;
             padding: 25px 30px;
-            box-shadow: 0 15px 35px rgba(0,0,0,0.6);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.7);
             display: grid;
-            grid-template-columns: 1fr 1.1fr;
+            grid-template-columns: 1fr 1.15fr;
             gap: 20px;
             position: relative;
         }
 
-        @media (max-width: 768px) {
-            .card-container {
-                grid-template-columns: 1fr;
-            }
+        @media (max-width: 820px) {
+            .card-container { grid-template-columns: 1fr; }
         }
 
-        .header-title {
+        /* Branding Header */
+        .brand-header {
             grid-column: 1 / -1;
-            text-align: center;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #1e293b;
+            padding-bottom: 12px;
+            margin-bottom: 4px;
         }
+
+        .brand-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(139, 92, 246, 0.15);
+            border: 1px solid rgba(139, 92, 246, 0.4);
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+
+        .brand-logo-icon {
+            width: 18px;
+            height: 18px;
+            background: #8b5cf6;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.6rem;
+            font-weight: 900;
+            color: #ffffff;
+        }
+
+        .brand-text { font-size: 0.75rem; font-weight: 800; color: #f8fafc; }
+        .brand-subtext { font-size: 0.65rem; color: #a78bfa; font-weight: 700; }
+
+        .header-title { grid-column: 1 / -1; text-align: center; }
 
         .header-title h2 {
-            color: #818cf8;
-            font-size: 1.3rem;
+            color: #8b5cf6;
+            font-size: 1.35rem;
             text-transform: uppercase;
             letter-spacing: 1px;
-            margin-bottom: 12px;
+            margin-bottom: 8px;
         }
 
-        /* Barra de Sentimiento Global */
         .sentiment-bar-container {
             grid-column: 1 / -1;
-            background: #0b0f19;
-            border: 1px solid #1f2937;
+            background: #080b11;
+            border: 1px solid #1e293b;
             border-radius: 12px;
             padding: 10px 16px;
             display: flex;
             align-items: center;
             justify-content: space-between;
             gap: 15px;
-            margin-bottom: 5px;
         }
 
-        .sentiment-stats-text {
-            font-size: 0.75rem;
-            color: #9ca3af;
-            font-weight: 600;
-        }
+        .sentiment-stats-text { font-size: 0.75rem; color: #94a3b8; font-weight: 600; }
+        .segmented-bar { flex-grow: 1; height: 8px; background: #1e293b; border-radius: 4px; display: flex; overflow: hidden; }
+        .seg-pos { background: #10b981; }
+        .seg-neg { background: #ef4444; }
+        .seg-neu { background: #64748b; }
 
-        .segmented-bar {
-            flex-grow: 1;
-            height: 8px;
-            background: #1e293b;
-            border-radius: 4px;
-            display: flex;
-            overflow: hidden;
-        }
-
-        .seg-pos { background: #10b981; transition: width 0.5s ease; }
-        .seg-neg { background: #ef4444; transition: width 0.5s ease; }
-        .seg-neu { background: #64748b; transition: width 0.5s ease; }
-
-        /* Controles de Filtros y Exportación */
         .tabs-container {
             grid-column: 1 / -1;
             display: flex;
@@ -115,16 +130,14 @@
             transition: all 0.3s ease;
         }
 
-        .tab-btn:hover {
-            color: #ffffff;
-            border-color: #6366f1;
-        }
+        .tab-btn:hover { color: #ffffff; border-color: #8b5cf6; }
 
+        /* Color Púrpura para la pestaña "Todos" */
         .tab-btn.active {
-            background: #6366f1;
+            background: #8b5cf6;
             color: #ffffff;
-            border-color: #6366f1;
-            box-shadow: 0 0 12px rgba(99, 102, 241, 0.4);
+            border-color: #8b5cf6;
+            box-shadow: 0 0 12px rgba(139, 92, 246, 0.4);
         }
 
         .tab-btn.active[data-mode="positivo"] { background: #10b981; border-color: #10b981; box-shadow: 0 0 12px rgba(16, 185, 129, 0.4); }
@@ -139,75 +152,32 @@
             font-size: 0.85rem;
             font-weight: 700;
             cursor: pointer;
-            transition: all 0.3s ease;
             margin-left: 10px;
         }
 
-        .export-btn:hover {
-            background: #0284c7;
-            color: #ffffff;
-            box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
-        }
-
-        /* Panel Izquierdo: Top 5 */
         .top-words-panel {
-            background: #0b0f19;
+            background: #080b11;
             border-radius: 14px;
-            padding: 22px;
-            border: 1px solid #1f2937;
+            padding: 20px;
+            border: 1px solid #1e293b;
             display: flex;
             flex-direction: column;
             justify-content: center;
         }
 
-        .panel-title {
-            font-size: 0.8rem;
-            color: #9ca3af;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 18px;
-        }
+        .panel-title { font-size: 0.78rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 16px; }
 
-        .word-item {
-            margin-bottom: 14px;
-            cursor: pointer;
-            padding: 4px 6px;
-            border-radius: 6px;
-            transition: background 0.2s;
-        }
+        .word-item { margin-bottom: 12px; cursor: pointer; padding: 4px 6px; border-radius: 6px; }
+        .word-info { display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 700; margin-bottom: 4px; }
+        .word-name { color: #f8fafc; }
 
-        .word-item:hover {
-            background: rgba(255,255,255,0.05);
-        }
+        .bar-bg { background-color: #1e293b; height: 9px; border-radius: 5px; overflow: hidden; }
+        .bar-fill { height: 100%; border-radius: 5px; transition: width 0.6s ease-out; }
 
-        .word-info {
-            display: flex;
-            justify-content: space-between;
-            font-size: 0.85rem;
-            font-weight: 700;
-            margin-bottom: 5px;
-        }
-
-        .word-name { color: #f3f4f6; }
-
-        .bar-bg {
-            background-color: #1e293b;
-            height: 9px;
-            border-radius: 5px;
-            overflow: hidden;
-        }
-
-        .bar-fill {
-            height: 100%;
-            border-radius: 5px;
-            transition: width 0.6s ease-out;
-        }
-
-        /* Panel Derecho: Silueta & Nube D3 */
         .silhouette-panel {
-            background: #0b0f19;
+            background: #080b11;
             border-radius: 14px;
-            border: 1px solid #1f2937;
+            border: 1px solid #1e293b;
             position: relative;
             display: flex;
             justify-content: center;
@@ -216,130 +186,64 @@
             overflow: hidden;
         }
 
-        svg#silhouette-canvas {
-            width: 100%;
-            height: 350px;
+        svg#silhouette-canvas { width: 100%; height: 350px; }
+        .thought-bubble-path { fill: #0f172a; stroke: #334155; stroke-width: 2px; }
+        .thought-bubble-circle { fill: #0f172a; stroke: #334155; stroke-width: 2px; }
+        .cloud-text { font-weight: 800; text-anchor: middle; dominant-baseline: central; cursor: pointer; text-transform: uppercase; }
+
+        /* Ficha Técnica y Callout */
+        .footer-insight-panel {
+            grid-column: 1 / -1;
+            background: #080b11;
+            border: 1px solid #1e293b;
+            border-radius: 12px;
+            padding: 12px 18px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
         }
 
-        .silhouette-shape {
-            fill: #1e293b;
-            stroke: #334155;
-            stroke-width: 1.5px;
-            opacity: 0.3;
-        }
+        .insight-callout { font-size: 0.78rem; color: #f1f5f9; font-weight: 600; line-height: 1.35; }
+        .insight-callout strong { color: #8b5cf6; }
+        .meta-tech-info { font-size: 0.68rem; color: #64748b; display: flex; justify-content: space-between; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 6px; }
 
-        .cloud-text {
-            font-weight: 800;
-            text-anchor: middle;
-            dominant-baseline: central;
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
-
-        .cloud-text:hover { fill: #ffffff !important; transform: scale(1.1); }
-
-        /* Estilos del Modal */
         .modal-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background: rgba(11, 15, 25, 0.85);
-            backdrop-filter: blur(6px);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 100;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.3s ease;
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            background: rgba(8, 11, 17, 0.85); backdrop-filter: blur(6px);
+            display: flex; justify-content: center; align-items: center; z-index: 100;
+            opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
         }
 
-        .modal-overlay.active {
-            opacity: 1;
-            pointer-events: auto;
-        }
-
-        .modal-card {
-            background: #111827;
-            border: 1px solid #374151;
-            border-radius: 16px;
-            width: 90%;
-            max-width: 460px;
-            padding: 22px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
-            transform: translateY(20px);
-            transition: transform 0.3s ease;
-        }
-
-        .modal-overlay.active .modal-card {
-            transform: translateY(0);
-        }
-
-        .modal-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-            border-bottom: 1px solid #1f2937;
-            padding-bottom: 10px;
-        }
-
-        .modal-title {
-            font-size: 0.95rem;
-            font-weight: 800;
-            color: #818cf8;
-            text-transform: uppercase;
-        }
-
-        .modal-close {
-            background: none;
-            border: none;
-            color: #9ca3af;
-            font-size: 1.4rem;
-            cursor: pointer;
-            transition: color 0.2s;
-        }
-
-        .modal-close:hover {
-            color: #ef4444;
-        }
-
-        .comment-item {
-            background: #0b0f19;
-            border-left: 3px solid #6366f1;
-            border-radius: 6px;
-            padding: 10px 12px;
-            margin-bottom: 10px;
-            font-size: 0.82rem;
-            color: #e2e8f0;
-            line-height: 1.4;
-        }
-
-        .comment-item mark {
-            background: rgba(129, 140, 248, 0.3);
-            color: #38bdf8;
-            font-weight: 700;
-            padding: 1px 4px;
-            border-radius: 3px;
-        }
+        .modal-overlay.active { opacity: 1; pointer-events: auto; }
+        .modal-card { background: #0f172a; border: 1px solid #334155; border-radius: 16px; width: 90%; max-width: 480px; padding: 22px; }
+        .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid #1e293b; padding-bottom: 8px; }
+        .modal-title { font-size: 0.95rem; font-weight: 800; color: #8b5cf6; text-transform: uppercase; }
+        .modal-close { background: none; border: none; color: #94a3b8; font-size: 1.4rem; cursor: pointer; }
+        .comment-item { background: #080b11; border-left: 3px solid #8b5cf6; border-radius: 6px; padding: 10px 12px; margin-bottom: 8px; font-size: 0.82rem; color: #e2e8f0; }
+        .comment-item mark { background: rgba(139,92,246,0.3); color: #a78bfa; font-weight: 700; padding: 1px 4px; border-radius: 3px; }
     </style>
 </head>
 <body>
 
     <div class="card-container">
+        <!-- Encabezado de Marca / Branding -->
+        <div class="brand-header">
+            <div class="brand-badge">
+                <div class="brand-logo-icon">HD</div>
+                <span class="brand-text">HuellaDigital.Lab</span>
+            </div>
+            <span class="brand-subtext">Metodología de Escucha Social NLP</span>
+        </div>
+
         <div class="header-title">
             <h2>Huella de Conversación</h2>
         </div>
 
-        <!-- Barra de Navegación entre Dashboards -->
-        <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px; border-bottom: 1px solid #1f2937; padding-bottom: 10px; grid-column: 1 / -1;">
-            <a href="index.html" style="color: #9ca3af; text-decoration: none; font-weight: 600; font-size: 0.85rem; transition: color 0.2s;" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#9ca3af'">🎭 Mapa Emocional</a>
-            <a href="silueta.html" style="color: #38bdf8; text-decoration: none; font-weight: 700; font-size: 0.85rem; border-bottom: 2px solid #38bdf8; padding-bottom: 4px;">👤 Silueta & Nube</a>
+        <div style="display: flex; justify-content: center; gap: 15px; border-bottom: 1px solid #1e293b; padding-bottom: 10px; grid-column: 1 / -1;">
+            <a href="index.html" style="color: #94a3b8; text-decoration: none; font-weight: 600; font-size: 0.85rem;">🎭 Mapa Emocional</a>
+            <a href="silueta.html" style="color: #8b5cf6; text-decoration: none; font-weight: 700; font-size: 0.85rem; border-bottom: 2px solid #8b5cf6; padding-bottom: 4px;">💭 Pensamiento & Nube</a>
         </div>
 
-        <!-- Indicador Estadístico Global -->
         <div class="sentiment-bar-container">
             <span class="sentiment-stats-text" id="stats-label">Cargando métricas...</span>
             <div class="segmented-bar">
@@ -349,7 +253,6 @@
             </div>
         </div>
 
-        <!-- Filtros e Interacción -->
         <div class="tabs-container">
             <button class="tab-btn active" data-mode="global">🌐 Todos</button>
             <button class="tab-btn" data-mode="positivo">🟢 Positivos</button>
@@ -357,22 +260,41 @@
             <button id="btn-exportar" class="export-btn">📸 Exportar Reporte</button>
         </div>
 
-        <!-- Panel Izquierdo: Top 5 -->
         <div class="top-words-panel">
-            <div class="panel-title">🔥 Top 5 Palabras más Populares (Haz clic para ver contexto)</div>
+            <div class="panel-title">🔥 Top 5 Palabras Clave</div>
             <div id="top-list"></div>
         </div>
 
-        <!-- Panel Derecho: Canvas Silueta D3 -->
         <div class="silhouette-panel">
-            <svg id="silhouette-canvas" viewBox="0 0 350 350">
-                <path class="silhouette-shape" d="M 175, 25 C 140, 25 140, 105 175, 105 C 210, 105 210, 25 175, 25 Z M 90, 330 C 90, 190, 120, 140, 175, 140 C 230, 140, 260, 190, 260, 330 Z" />
-                <g id="cloud-layer" transform="translate(175, 165)"></g>
+            <svg id="silhouette-canvas" viewBox="0 0 360 360">
+                <g>
+                    <path class="thought-bubble-path" d="
+                        M 100 160
+                        C 70 140, 70 90, 120 70
+                        C 140 40, 200 40, 230 65
+                        C 270 45, 310 80, 300 120
+                        C 330 150, 310 200, 270 210
+                        C 250 240, 190 245, 160 220
+                        C 120 240, 80 200, 100 160 Z" />
+                    <circle class="thought-bubble-circle" cx="85" cy="250" r="14" />
+                    <circle class="thought-bubble-circle" cx="60" cy="280" r="8" />
+                </g>
+                <g id="cloud-layer" transform="translate(195, 135)"></g>
             </svg>
+        </div>
+
+        <!-- Ficha Técnica y Callout Narrativo -->
+        <div class="footer-insight-panel">
+            <div class="insight-callout">
+                🧠 <strong>Matriz Temática:</strong> El volumen principal de menciones orbita en torno al papel institucional del <strong>Ejército</strong> y la búsqueda de la <strong>Verdad</strong>.
+            </div>
+            <div class="meta-tech-info">
+                <span>📌 Muestra analizada: 171 comentarios recopilados</span>
+                <span>📡 Fuente: YouTube (Astillero Informa)</span>
+            </div>
         </div>
     </div>
 
-    <!-- Modal para Contexto de Comentarios -->
     <div class="modal-overlay" id="comment-modal">
         <div class="modal-card">
             <div class="modal-header">
@@ -387,18 +309,17 @@
         let datosCompletos = {};
         let modoActual = "global";
 
+        // Paleta actualizada: "global" usa Púrpura #8b5cf6 para diferenciarse del Rojo Negativo
         const paletas = {
-            global: ["#a855f7", "#818cf8", "#38bdf8", "#34d399", "#f43f5e"],
+            global: ["#8b5cf6", "#38bdf8", "#f59e0b", "#a855f7", "#ec4899"],
             positivo: ["#10b981", "#34d399", "#6ee7b7", "#a7f3d0", "#818cf8"],
             negativo: ["#ef4444", "#f87171", "#fca5a5", "#fb923c", "#cbd5e1"]
         };
 
-        // Cargar JSON de datos
         fetch('datos_silueta.json')
             .then(res => res.json())
             .then(data => {
                 datosCompletos = data;
-
                 if (data.estadisticas) {
                     const st = data.estadisticas;
                     document.getElementById('stats-label').innerHTML =
@@ -407,18 +328,10 @@
                     document.getElementById('bar-pos').style.width = st.pct_positivo + "%";
                     document.getElementById('bar-neu').style.width = st.pct_neutro + "%";
                     document.getElementById('bar-neg').style.width = st.pct_negativo + "%";
-                } else {
-                    document.getElementById('stats-label').innerText = "Análisis de Sentimiento Activo";
                 }
-
                 renderizarDashboard(modoActual);
-            })
-            .catch(err => {
-                console.error("Error al cargar JSON:", err);
-                document.getElementById('stats-label').innerText = "Error al cargar datos_silueta.json";
             });
 
-        // Eventos de pestañas
         document.querySelectorAll('.tab-btn').forEach(btn => {
             btn.addEventListener('click', (e) => {
                 document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
@@ -428,22 +341,16 @@
             });
         });
 
-        // Función principal de renderizado
         function renderizarDashboard(modo) {
             const dataModo = datosCompletos[modo];
-            if (!dataModo || !dataModo.top_15.length) {
-                document.getElementById('top-list').innerHTML = "<p style='color:#64748b;'>Sin palabras suficientes en esta categoría.</p>";
-                d3.select("#cloud-layer").selectAll("*").remove();
-                return;
-            }
+            if (!dataModo || !dataModo.top_15.length) return;
 
-            // Renderizar barras Top 5
             const topList = document.getElementById('top-list');
             topList.innerHTML = '';
             const maxPct = dataModo.top_5[0]?.porcentaje || 1;
             const colPrens = paletas[modo][0];
 
-            dataModo.top_5.forEach((item, idx) => {
+            dataModo.top_5.forEach((item) => {
                 const relativeWidth = (item.porcentaje / maxPct) * 100;
                 const div = document.createElement('div');
                 div.className = 'word-item';
@@ -460,21 +367,19 @@
                 topList.appendChild(div);
             });
 
-            // Configurar Nube D3 sobre Silueta
             const maxFreq = dataModo.top_15[0].frecuencia;
             const minFreq = dataModo.top_15[dataModo.top_15.length - 1].frecuencia;
 
             const words = dataModo.top_15.map(d => ({
                 text: d.palabra,
-                size: Math.max(13, Math.min(30, 13 + ((d.frecuencia - minFreq) / (maxFreq - minFreq || 1)) * 17)),
-                frecuencia: d.frecuencia,
+                size: Math.max(12, Math.min(26, 12 + ((d.frecuencia - minFreq) / (maxFreq - minFreq || 1)) * 14)),
                 ejemplos: d.ejemplos || []
             }));
 
             d3.layout.cloud()
-                .size([240, 260])
+                .size([200, 150])
                 .words(words)
-                .padding(6)
+                .padding(4)
                 .rotate(() => 0)
                 .font("Segoe UI")
                 .fontSize(d => d.size)
@@ -482,7 +387,6 @@
                 .start();
         }
 
-        // Dibujar palabras D3
         function drawCloud(words, modo) {
             const layer = d3.select("#cloud-layer");
             layer.selectAll("*").remove();
@@ -492,14 +396,13 @@
                 .enter().append("text")
                 .attr("class", "cloud-text")
                 .style("font-size", d => d.size + "px")
-                .style("fill", (d, i) => i < 5 ? paletas[modo][i] : "#64748b")
+                .style("fill", (d, i) => i < 5 ? paletas[modo][i] : "#94a3b8")
                 .attr("text-anchor", "middle")
                 .attr("transform", d => `translate(${d.x}, ${d.y})`)
                 .text(d => d.text)
                 .on("click", (e, d) => abrirModal(d.text, d.ejemplos));
         }
 
-        // Lógica del Modal
         const modal = document.getElementById('comment-modal');
         const modalTitle = document.getElementById('modal-word-title');
         const modalCommentsList = document.getElementById('modal-comments-list');
@@ -508,44 +411,33 @@
         function abrirModal(palabra, comentarios) {
             modalTitle.innerText = `Ejemplos: "${palabra}"`;
             modalCommentsList.innerHTML = '';
-
             if (!comentarios || comentarios.length === 0) {
-                modalCommentsList.innerHTML = '<p style="color:#9ca3af; font-size:0.8rem;">Sin ejemplos de texto disponibles.</p>';
+                modalCommentsList.innerHTML = '<p style="color:#94a3b8; font-size:0.8rem;">Sin ejemplos disponibles.</p>';
             } else {
                 comentarios.forEach(com => {
                     const regex = new RegExp(`(${palabra})`, 'gi');
                     const textoResaltado = com.replace(regex, '<mark>$1</mark>');
-
                     const div = document.createElement('div');
                     div.className = 'comment-item';
                     div.innerHTML = `💬 "${textoResaltado}"`;
                     modalCommentsList.appendChild(div);
                 });
             }
-
             modal.classList.add('active');
         }
 
         btnCloseModal.addEventListener('click', () => modal.classList.remove('active'));
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) modal.classList.remove('active');
-        });
+        modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.remove('active'); });
 
-        // Exportación de reporte a PNG
         document.getElementById('btn-exportar').addEventListener('click', () => {
             const contenedor = document.querySelector('.card-container');
             const botonExportar = document.getElementById('btn-exportar');
-
             botonExportar.style.visibility = 'hidden';
 
-            html2canvas(contenedor, {
-                backgroundColor: '#0b0f19',
-                scale: 2
-            }).then(canvas => {
+            html2canvas(contenedor, { backgroundColor: '#080b11', scale: 2 }).then(canvas => {
                 botonExportar.style.visibility = 'visible';
-
                 const enlace = document.createElement('a');
-                enlace.download = `reporte_huella_conversacion_${modoActual}.png`;
+                enlace.download = `huella_pensamiento_hdlab.png`;
                 enlace.href = canvas.toDataURL('image/png');
                 enlace.click();
             });

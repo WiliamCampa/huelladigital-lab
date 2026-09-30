@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Análisis Emocional & Treemap Interactivo</title>
-    <!-- Librerías Externas -->
+    <title>Mapa Emocional del Post | HuellaDigital.Lab</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     <style>
@@ -16,7 +15,7 @@
         }
 
         body {
-            background-color: #0b0f19;
+            background-color: #080b11;
             color: #ffffff;
             display: flex;
             justify-content: center;
@@ -26,83 +25,125 @@
         }
 
         .dashboard-card {
-            background-color: #111827;
-            border: 1px solid #1f2937;
+            background-color: #0f172a;
+            border: 1px solid #1e293b;
             border-radius: 20px;
             width: 100%;
-            max-width: 920px;
+            max-width: 980px;
             padding: 25px 30px;
-            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.6);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7);
             position: relative;
             display: grid;
-            grid-template-columns: 1fr 1.1fr;
+            grid-template-columns: 1.4fr 1fr;
             gap: 20px;
         }
 
-        @media (max-width: 768px) {
-            .dashboard-card {
-                grid-template-columns: 1fr;
-            }
+        @media (max-width: 820px) {
+            .dashboard-card { grid-template-columns: 1fr; }
+        }
+
+        /* Marca de Agua / Branding Top Header */
+        .brand-header {
+            grid-column: 1 / -1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid #1e293b;
+            padding-bottom: 12px;
+            margin-bottom: 8px;
+        }
+
+        .brand-badge {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 0, 0, 0.1);
+            border: 1px solid rgba(255, 0, 0, 0.3);
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+
+        .brand-logo-icon {
+            width: 18px;
+            height: 18px;
+            background: #ff0000;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.6rem;
+            font-weight: 900;
+            color: #ffffff;
+        }
+
+        .brand-text {
+            font-size: 0.75rem;
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            color: #f8fafc;
+        }
+
+        .brand-subtext {
+            font-size: 0.65rem;
+            color: #ff4d4d;
+            font-weight: 700;
         }
 
         .header-section {
             grid-column: 1 / -1;
             text-align: center;
+            margin-top: 5px;
         }
 
         .header-section h2 {
-            font-size: 1.3rem;
+            font-size: 1.35rem;
             font-weight: 800;
-            letter-spacing: 0.5px;
-            color: #818cf8;
+            letter-spacing: 0.8px;
+            color: #ff0000;
             text-transform: uppercase;
         }
 
         .header-section p {
             font-size: 0.8rem;
-            color: #9ca3af;
-            margin-top: 4px;
+            color: #94a3b8;
+            margin-top: 2px;
         }
 
-        /* Barra de Navegación */
         .nav-bar {
             grid-column: 1 / -1;
             display: flex;
             justify-content: center;
             gap: 15px;
             margin-bottom: 5px;
-            border-bottom: 1px solid #1f2937;
+            border-bottom: 1px solid #1e293b;
             padding-bottom: 10px;
         }
 
         .nav-link-active {
-            color: #38bdf8;
+            color: #ff4d4d;
             text-decoration: none;
             font-weight: 700;
             font-size: 0.85rem;
-            border-bottom: 2px solid #38bdf8;
+            border-bottom: 2px solid #ff0000;
             padding-bottom: 4px;
         }
 
         .nav-link-inactive {
-            color: #9ca3af;
+            color: #94a3b8;
             text-decoration: none;
             font-weight: 600;
             font-size: 0.85rem;
-            transition: color 0.2s;
         }
 
-        /* Banner de Bots */
         .bot-alert-box {
             grid-column: 1 / -1;
-            background-color: #1f1924;
-            border: 1px solid #3b1827;
+            background-color: #1a0c10;
+            border: 1px solid #451219;
             border-radius: 12px;
             padding: 10px 16px;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 5px;
         }
 
         .bot-title {
@@ -127,40 +168,32 @@
             font-weight: 800;
             padding: 4px 8px;
             border-radius: 6px;
-            letter-spacing: 0.5px;
         }
 
         .section-title {
             font-size: 0.85rem;
             font-weight: 700;
-            color: #e5e7eb;
+            color: #e2e8f0;
             margin-bottom: 10px;
-            display: flex;
-            align-items: center;
-            gap: 6px;
         }
 
-        /* Columna Izquierda: Treemap */
-        .left-panel {
-            display: flex;
-            flex-direction: column;
-        }
+        .left-panel { display: flex; flex-direction: column; }
 
         #treemap {
             position: relative;
             width: 100%;
             height: 250px;
-            background-color: #0b0f19;
+            background-color: #080b11;
             border-radius: 12px;
             overflow: hidden;
-            border: 1px solid #1f2937;
+            border: 1px solid #1e293b;
         }
 
         .node {
             position: absolute;
             box-sizing: border-box;
             border-radius: 8px;
-            padding: 4px;
+            padding: 6px;
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -168,79 +201,87 @@
             text-align: center;
             overflow: hidden;
             transition: all 0.2s ease;
-            word-wrap: break-word;
             z-index: 1;
         }
 
-        .node:hover {
-            transform: scale(0.98);
-            z-index: 10;
-            cursor: pointer;
-        }
-
         .node-label {
-            font-size: 0.65rem;
-            font-weight: 700;
+            font-size: 0.72rem;
+            font-weight: 800;
             color: #ffffff;
-            line-height: 1.1;
-            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
+            line-height: 1.25;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
             width: 100%;
-            word-break: break-word;
+            word-break: keep-all;
+            white-space: normal;
         }
 
         .node-value {
-            font-size: 0.75rem;
+            font-size: 0.8rem;
             font-weight: 800;
             color: #ffffff;
-            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.9);
-            margin-top: 3px;
-            width: 100%;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.9);
+            margin-top: 4px;
         }
 
-        /* Columna Derecha: Nube de Palabras y Acciones */
-        .right-panel {
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        }
+        .right-panel { display: flex; flex-direction: column; justify-content: space-between; }
 
         .word-cloud-container {
             display: flex;
             flex-wrap: wrap;
-            gap: 8px;
+            gap: 10px;
             justify-content: center;
             align-items: center;
             padding: 16px;
-            background-color: #0b0f19;
+            background-color: #080b11;
             border-radius: 12px;
-            border: 1px solid #1f2937;
+            border: 1px solid #1e293b;
             min-height: 200px;
         }
 
         .word-badge {
-            padding: 6px 14px;
-            border-radius: 8px;
+            padding: 7px 14px;
+            border-radius: 10px;
             font-weight: 800;
-            transition: all 0.2s ease;
-            display: inline-block;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.5);
             cursor: pointer;
-            line-height: 1.2;
-            text-transform: lowercase;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: transform 0.2s;
         }
 
-        .word-badge:hover {
-            transform: scale(1.1);
-            filter: brightness(1.25);
-            z-index: 2;
-        }
+        .word-badge:hover { transform: scale(1.08); }
 
-        /* Botón de Exportación */
-        .action-bar {
+        /* Ficha Técnica y Callout de Insights */
+        .footer-insight-panel {
+            grid-column: 1 / -1;
+            background: #080b11;
+            border: 1px solid #1e293b;
+            border-radius: 12px;
+            padding: 12px 18px;
+            margin-top: 5px;
             display: flex;
-            justify-content: flex-end;
-            margin-top: 15px;
+            flex-direction: column;
+            gap: 6px;
         }
+
+        .insight-callout {
+            font-size: 0.78rem;
+            color: #f1f5f9;
+            font-weight: 600;
+            line-height: 1.35;
+        }
+
+        .insight-callout strong { color: #ff4d4d; }
+
+        .meta-tech-info {
+            font-size: 0.68rem;
+            color: #64748b;
+            display: flex;
+            justify-content: space-between;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            padding-top: 6px;
+        }
+
+        .action-bar { display: flex; justify-content: flex-end; }
 
         .export-btn {
             background: #1e293b;
@@ -251,122 +292,51 @@
             font-size: 0.85rem;
             font-weight: 700;
             cursor: pointer;
-            transition: all 0.3s ease;
-            display: flex;
-            align-items: center;
-            gap: 8px;
         }
 
-        .export-btn:hover {
-            background: #0284c7;
-            color: #ffffff;
-            box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
-        }
-
-        /* Ventana Modal de Comentarios */
         .modal-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background: rgba(11, 15, 25, 0.85);
-            backdrop-filter: blur(6px);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 100;
-            opacity: 0;
-            pointer-events: none;
-            transition: opacity 0.3s ease;
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            background: rgba(8, 11, 17, 0.85); backdrop-filter: blur(6px);
+            display: flex; justify-content: center; align-items: center; z-index: 100;
+            opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
         }
 
-        .modal-overlay.active {
-            opacity: 1;
-            pointer-events: auto;
-        }
+        .modal-overlay.active { opacity: 1; pointer-events: auto; }
 
         .modal-card {
-            background: #111827;
-            border: 1px solid #374151;
-            border-radius: 16px;
-            width: 90%;
-            max-width: 460px;
-            padding: 22px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
-            transform: translateY(20px);
-            transition: transform 0.3s ease;
+            background: #0f172a; border: 1px solid #334155; border-radius: 16px;
+            width: 90%; max-width: 480px; padding: 22px;
         }
 
-        .modal-overlay.active .modal-card {
-            transform: translateY(0);
-        }
-
-        .modal-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-            border-bottom: 1px solid #1f2937;
-            padding-bottom: 10px;
-        }
-
-        .modal-title {
-            font-size: 0.95rem;
-            font-weight: 800;
-            color: #818cf8;
-            text-transform: uppercase;
-        }
-
-        .modal-close {
-            background: none;
-            border: none;
-            color: #9ca3af;
-            font-size: 1.4rem;
-            cursor: pointer;
-            transition: color 0.2s;
-        }
-
-        .modal-close:hover {
-            color: #ef4444;
-        }
-
-        .comment-item {
-            background: #0b0f19;
-            border-left: 3px solid #6366f1;
-            border-radius: 6px;
-            padding: 10px 12px;
-            margin-bottom: 10px;
-            font-size: 0.82rem;
-            color: #e2e8f0;
-            line-height: 1.4;
-        }
-
-        .comment-item mark {
-            background: rgba(129, 140, 248, 0.3);
-            color: #38bdf8;
-            font-weight: 700;
-            padding: 1px 4px;
-            border-radius: 3px;
-        }
+        .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; border-bottom: 1px solid #1e293b; padding-bottom: 8px; }
+        .modal-title { font-size: 0.95rem; font-weight: 800; color: #ff4d4d; text-transform: uppercase; }
+        .modal-close { background: none; border: none; color: #94a3b8; font-size: 1.4rem; cursor: pointer; }
+        .comment-item { background: #080b11; border-left: 3px solid #ff0000; border-radius: 6px; padding: 10px 12px; margin-bottom: 8px; font-size: 0.82rem; color: #e2e8f0; }
+        .comment-item mark { background: rgba(255,0,0,0.3); color: #ff4d4d; font-weight: 700; padding: 1px 4px; border-radius: 3px; }
     </style>
 </head>
 <body>
 
     <div class="dashboard-card" id="report-container">
-        <!-- Título -->
+        <!-- Encabezado de Marca / Branding -->
+        <div class="brand-header">
+            <div class="brand-badge">
+                <div class="brand-logo-icon">HD</div>
+                <span class="brand-text">HuellaDigital.Lab</span>
+            </div>
+            <span class="brand-subtext">Inteligencia Social & Análisis NLP</span>
+        </div>
+
         <div class="header-section">
             <h2>Mapa Emocional del Post</h2>
-            <p>Análisis en tiempo real de la conversación</p>
+            <p>Análisis en tiempo real de la conversación digital</p>
         </div>
 
-        <!-- Barra de Navegación -->
         <div class="nav-bar">
             <a href="index.html" class="nav-link-active">🎭 Mapa Emocional</a>
-            <a href="silueta.html" class="nav-link-inactive" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#9ca3af'">👤 Silueta & Nube</a>
+            <a href="silueta.html" class="nav-link-inactive">💭 Pensamiento & Nube</a>
         </div>
 
-        <!-- Métrica de Bots -->
         <div class="bot-alert-box">
             <div>
                 <div class="bot-title">Cuentas Sospechosas / Bots</div>
@@ -375,30 +345,33 @@
             <span class="badge-spam">ALERTA SPAM</span>
         </div>
 
-        <!-- Columna Izquierda: Treemap -->
         <div class="left-panel">
-            <div class="section-title">
-                <span>🎭</span> Sentimientos Detectados
-            </div>
+            <div class="section-title">🎭 Sentimientos Detectados</div>
             <div id="treemap"></div>
         </div>
 
-        <!-- Columna Derecha: Nube de Palabras y Exportación -->
         <div class="right-panel">
             <div>
-                <div class="section-title">
-                    <span>☁️</span> Nube de Palabras Clave
-                </div>
+                <div class="section-title">☁️ Nube de Palabras Clave</div>
                 <div class="word-cloud-container" id="word-cloud"></div>
             </div>
-
             <div class="action-bar">
                 <button id="btn-exportar-mapa" class="export-btn">📸 Exportar Reporte</button>
             </div>
         </div>
+
+        <!-- Ficha Técnica y Callout Narrativo para Redes Sociales -->
+        <div class="footer-insight-panel">
+            <div class="insight-callout">
+                💡 <strong>Insight Narrativo:</strong> Predominio crítico marcado por indignación enfocada en instituciones del <strong>Ejército</strong> y el <strong>Estado</strong> respecto al caso Ayotzinapa.
+            </div>
+            <div class="meta-tech-info">
+                <span>📌 Muestra analizada: 161 comentarios reales</span>
+                <span>📡 Fuente: YouTube (Astillero Informa)</span>
+            </div>
+        </div>
     </div>
 
-    <!-- Modal para Contexto de Comentarios -->
     <div class="modal-overlay" id="comment-modal">
         <div class="modal-card">
             <div class="modal-header">
@@ -410,69 +383,11 @@
     </div>
 
     <script>
-        // Animación Canvas de Partículas Emocionales
-        function crearEfectoParticulas() {
-            const treemapDiv = document.getElementById('treemap');
-            const canvas = document.createElement('canvas');
-            canvas.style.position = 'absolute';
-            canvas.style.top = '0';
-            canvas.style.left = '0';
-            canvas.style.width = '100%';
-            canvas.style.height = '100%';
-            canvas.style.pointerEvents = 'none';
-            canvas.style.zIndex = '5';
-
-            treemapDiv.appendChild(canvas);
-
-            const ctx = canvas.getContext('2d');
-            canvas.width = treemapDiv.clientWidth;
-            canvas.height = treemapDiv.clientHeight;
-
-            let particulas = [];
-            const colores = ["#10B981", "#3B82F6", "#EF4444"];
-
-            for (let i = 0; i < 30; i++) {
-                particulas.push({
-                    x: Math.random() * canvas.width,
-                    y: Math.random() * canvas.height,
-                    vx: (Math.random() - 0.5) * 1.2,
-                    vy: (Math.random() - 0.5) * 1.2,
-                    size: Math.random() * 2.5 + 1,
-                    color: colores[Math.floor(Math.random() * colores.length)],
-                    alpha: Math.random() * 0.6 + 0.2
-                });
-            }
-
-            function animar() {
-                ctx.clearRect(0, 0, canvas.width, canvas.height);
-                particulas.forEach(p => {
-                    p.x += p.vx;
-                    p.y += p.vy;
-
-                    if (p.x < 0 || p.x > canvas.width) p.vx *= -1;
-                    if (p.y < 0 || p.y > canvas.height) p.vy *= -1;
-
-                    ctx.beginPath();
-                    ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
-                    ctx.fillStyle = p.color;
-                    ctx.globalAlpha = p.alpha;
-                    ctx.shadowBlur = 6;
-                    ctx.shadowColor = p.color;
-                    ctx.fill();
-                });
-                requestAnimationFrame(animar);
-            }
-            animar();
-        }
-
-        // Carga de datos y renderizado D3
         fetch('datos_visualizacion.json')
             .then(response => response.json())
             .then(data => {
-                // 1. Métrica de Bots
                 document.getElementById('bot-percentage').innerText = data.metricas_generales.porcentaje_bots + '%';
 
-                // 2. D3 Treemap
                 const container = d3.select("#treemap");
                 container.html("");
 
@@ -483,17 +398,9 @@
                     .sum(d => d.value)
                     .sort((a, b) => b.value - a.value);
 
-                d3.treemap()
-                    .size([width, height])
-                    .padding(4)
-                    .round(true)(root);
+                d3.treemap().size([width, height]).padding(5).round(true)(root);
 
                 const leaves = root.leaves();
-
-                if (!leaves || leaves.length === 0) {
-                    container.html("<div style='color:#9ca3af;text-align:center;padding-top:100px;'>Sin datos disponibles</div>");
-                    return;
-                }
 
                 leaves.forEach(d => {
                     const nodeWidth = Math.max(0, d.x1 - d.x0);
@@ -505,93 +412,46 @@
                         .style("top", d.y0 + "px")
                         .style("width", nodeWidth + "px")
                         .style("height", nodeHeight + "px")
-                        .style("background", `linear-gradient(135deg, ${d.data.color}DD 0%, ${d.data.color}77 100%)`)
-                        .style("border", `1px solid ${d.data.color}`)
-                        .style("box-shadow", `0 4px 12px ${d.data.color}33`)
-                        .attr("title", `${d.data.name}: ${d.value} coms`);
+                        .style("background", `linear-gradient(135deg, ${d.data.color}DD 0%, ${d.data.color}66 100%)`)
+                        .style("border", `1px solid ${d.data.color}`);
 
-                    if (nodeWidth > 40 && nodeHeight > 40) {
-                        node.append("div")
-                            .attr("class", "node-label")
-                            .style("font-size", nodeWidth < 65 ? "0.6rem" : "0.75rem")
-                            .text(d.data.name);
-
-                        node.append("div")
-                            .attr("class", "node-value")
-                            .style("font-size", nodeWidth < 65 ? "0.7rem" : "0.85rem")
-                            .text(d.value + " coms");
-                    } else if (nodeWidth > 20 && nodeHeight > 20) {
-                        node.append("div")
-                            .attr("class", "node-label")
-                            .style("font-size", "0.55rem")
-                            .style("line-height", "1")
-                            .text(d.data.name.split(" ")[0]);
-
-                        node.append("div")
-                            .attr("class", "node-value")
-                            .style("font-size", "0.7rem")
-                            .text(d.value);
+                    if (nodeWidth > 50 && nodeHeight > 40) {
+                        node.append("div").attr("class", "node-label").text(d.data.name);
+                        node.append("div").attr("class", "node-value").text(d.value + " coms");
                     }
                 });
 
-                // Activar animación de partículas sobre el treemap
-                crearEfectoParticulas();
-
-                // 3. Nube de Palabras Clave Interactivas
                 const cloudContainer = d3.select("#word-cloud");
                 cloudContainer.html("");
 
-                const palabrasIgnoradas = new Set(["ella", "también", "tambien", "menos"]);
-
-                let palabras = (data.nube_palabras || []).filter(item => {
-                    const textoLimpio = item.text.trim().toLowerCase();
-                    return !palabrasIgnoradas.has(textoLimpio);
-                });
-
-                palabras = palabras.slice(0, 10);
+                let palabras = (data.nube_palabras || []).slice(0, 10);
 
                 if (palabras.length > 0) {
                     const valores = palabras.map(p => p.value !== undefined ? p.value : p.size);
                     const minVal = d3.min(valores);
                     const maxVal = d3.max(valores);
 
-                    const fontScale = d3.scaleLinear()
-                        .domain([minVal, maxVal])
-                        .range([0.75, 1.15]);
-
-                    const colorScale = d3.scaleLinear()
-                        .domain([minVal, (minVal + maxVal) / 2, maxVal])
-                        .range(["#4c1d95", "#c026d3", "#f59e0b"]);
-
-                    const borderScale = d3.scaleLinear()
-                        .domain([minVal, maxVal])
-                        .range(["#7c3aed", "#fde047"]);
+                    const fontScale = d3.scaleLinear().domain([minVal, maxVal]).range([0.75, 1.15]);
+                    const colorScale = d3.scaleLinear().domain([minVal, (minVal + maxVal) / 2, maxVal]).range(["#818cf8", "#c026d3", "#ff0000"]);
 
                     palabras.forEach(item => {
                         const val = item.value !== undefined ? item.value : item.size;
                         const fontSizeRem = fontScale(val);
-                        const bgColor = colorScale(val);
-                        const borderColor = borderScale(val);
+                        const cBase = colorScale(val);
 
                         const badge = cloudContainer.append("span")
                             .attr("class", "word-badge")
                             .style("font-size", `${fontSizeRem}rem`)
-                            .style("background-color", bgColor)
-                            .style("border", `1px solid ${borderColor}`)
+                            .style("background", `linear-gradient(135deg, ${cBase}DD 0%, ${cBase}77 100%)`)
+                            .style("border", `1px solid ${cBase}`)
                             .style("color", "#ffffff")
-                            .attr("title", `Ver ejemplos de "${item.text}"`)
                             .text(item.text);
 
-                        // Evento Clic para desplegar modal
-                        badge.on("click", () => {
-                            abrirModal(item.text, item.ejemplos || []);
-                        });
+                        badge.on("click", () => abrirModal(item.text, item.ejemplos || []));
                     });
                 }
-            })
-            .catch(error => console.error("Error al cargar datos_visualizacion.json:", error));
+            });
 
-        // Lógica del Modal
         const modal = document.getElementById('comment-modal');
         const modalTitle = document.getElementById('modal-word-title');
         const modalCommentsList = document.getElementById('modal-comments-list');
@@ -600,44 +460,33 @@
         function abrirModal(palabra, comentarios) {
             modalTitle.innerText = `Ejemplos: "${palabra}"`;
             modalCommentsList.innerHTML = '';
-
             if (!comentarios || comentarios.length === 0) {
-                modalCommentsList.innerHTML = '<p style="color:#9ca3af; font-size:0.8rem;">Sin ejemplos de texto disponibles.</p>';
+                modalCommentsList.innerHTML = '<p style="color:#94a3b8; font-size:0.8rem;">Sin ejemplos disponibles.</p>';
             } else {
                 comentarios.forEach(com => {
                     const regex = new RegExp(`(${palabra})`, 'gi');
                     const textoResaltado = com.replace(regex, '<mark>$1</mark>');
-
                     const div = document.createElement('div');
                     div.className = 'comment-item';
                     div.innerHTML = `💬 "${textoResaltado}"`;
                     modalCommentsList.appendChild(div);
                 });
             }
-
             modal.classList.add('active');
         }
 
         btnCloseModal.addEventListener('click', () => modal.classList.remove('active'));
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) modal.classList.remove('active');
-        });
+        modal.addEventListener('click', (e) => { if (e.target === modal) modal.classList.remove('active'); });
 
-        // Evento Botón de Exportación PNG
         document.getElementById('btn-exportar-mapa').addEventListener('click', () => {
             const contenedor = document.getElementById('report-container');
             const botonExportar = document.getElementById('btn-exportar-mapa');
-
             botonExportar.style.visibility = 'hidden';
 
-            html2canvas(contenedor, {
-                backgroundColor: '#0b0f19',
-                scale: 2
-            }).then(canvas => {
+            html2canvas(contenedor, { backgroundColor: '#080b11', scale: 2 }).then(canvas => {
                 botonExportar.style.visibility = 'visible';
-
                 const enlace = document.createElement('a');
-                enlace.download = `mapa_emocional_reporte.png`;
+                enlace.download = `mapa_emocional_hdlab.png`;
                 enlace.href = canvas.toDataURL('image/png');
                 enlace.click();
             });

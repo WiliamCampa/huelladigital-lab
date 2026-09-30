@@ -1,177 +1,177 @@
 {
     "metricas_generales": {
         "porcentaje_bots": 0.0,
-        "total_comentarios": 150
+        "total_comentarios": 171
     },
     "mapa_emociones": {
         "name": "Emociones",
         "children": [
             {
                 "name": "Admiracion y Apoyo",
-                "value": 11,
+                "value": 27,
                 "color": "#10B981"
             },
             {
                 "name": "Informativo / Neutro",
-                "value": 15,
-                "color": "#3B82F6"
+                "value": 13,
+                "color": "#38BDF8"
             },
             {
                 "name": "Critica e Indignacion",
-                "value": 119,
-                "color": "#EF4444"
+                "value": 121,
+                "color": "#FF0000"
             }
         ]
     },
     "nube_palabras": [
         {
-            "text": "encuestas",
+            "text": "julio",
             "size": 18,
-            "value": 28,
+            "value": 39,
             "ejemplos": [
-                "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                "Pasan los días y las encuestas no aparecen. Que ocultan ese par de señoras?"
+                "Excelente análisis Julio",
+                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero"
             ]
         },
         {
-            "text": "morena",
-            "size": 16,
-            "value": 22,
+            "text": "ejército",
+            "size": 14,
+            "value": 26,
             "ejemplos": [
-                "La unidad con los que ellos pusieron a modo, únanse con los que pusimos, todos ! Hasta los no encuestados. Que mal está Morena, espero y Baja California no vote por Morena, con esto que le hicieron a nuestra representante, dejaré de Ser y ayudar a Morena.",
-                "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora."
+                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano"
             ]
         },
         {
-            "text": "citlali",
-            "size": 15,
-            "value": 21,
-            "ejemplos": [
-                "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                "La regaste y en grande citlali",
-                "Esa no fue la pregunta Citlali"
-            ]
-        },
-        {
-            "text": "monreal",
+            "text": "poder",
             "size": 12,
-            "value": 12,
+            "value": 18,
             "ejemplos": [
-                "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
+                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano",
+                "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
             ]
         },
         {
-            "text": "partido",
+            "text": "méxico",
             "size": 12,
-            "value": 11,
+            "value": 18,
             "ejemplos": [
-                "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                "Citlalli muy interesante sus puntos de vista, pero en un partido que se están matando entre ellos por los cargos 😢",
-                "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
+                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                "En tiempos de Trump, debilitar a las fuerzas armadas con acusaciones de crimen de estado (el último del PRI antes de dejar la presidencia) podría poner en riesgo la seguridad de los mexicanos. ¿Es disyuntiva para un líder de nación 43 vs 130M? Supongo que seguiremos esperando por muchos años más ese esclarecimiento…",
+                "Es una verdadera decepción ver lo podrido de las personas que liderean un gran país y un gran pueblo."
             ]
         },
         {
-            "text": "pueblo",
+            "text": "verdad",
             "size": 12,
-            "value": 11,
+            "value": 17,
             "ejemplos": [
-                "La cúpula de morena está dividiendo al pueblo con sus candidatos prianistas y perredistas",
-                "CITLA, LO PÚBLICO DEBE SER PÚBLICO, LAS ENCUESTAS SON PÚBLICAS, SOMOS DE IZQUIERDA, NO LO OLVIDES. EL PUEBLO SOMOS Y ESTAMOS MUY BIEN INFORMADOS, Y ESTAMOS VIGILÁNDOLOS.",
-                "Ojalá y el pueblo este valorando está .....mujer bono a hechar a perder lo que se abia construido.que fácil explica sus narrativas.pero yo quisiera que ella sintiera lo que se siente estar en el otro lado.y que te digan ya no Agan berrinches ya vengase para acá."
+                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!",
+                "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
             ]
         },
         {
-            "text": "puro",
+            "text": "estado",
             "size": 12,
-            "value": 10,
+            "value": 17,
             "ejemplos": [
-                "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                "Puro Circo las encuestas, son puras cortinas de humo.",
-                "Puro bla bla Julio no pierdas el tiempo no van a reconocer son maestras del bla bla bla"
+                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
             ]
         },
         {
-            "text": "quieren",
+            "text": "peña",
             "size": 12,
-            "value": 10,
+            "value": 17,
             "ejemplos": [
-                "Citlali, \"no veo ruptura\", que eleccion organizaste en Guerrero? Se nota que no has hablado con la militancia en Guerrero, no quieren a una PANISTA!!!",
-                "Todos lo que quieren es mas dinero esa es la cuestión él dinero saben los millones que manejan si llegan ha ser gobernador Y TODOS ROBAN UNOS MAS OTROS MENOS PERO TODOS ROBAN",
-                "Engañan a las personas ponen a los que quieren."
+                "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
+                "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
+                "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
             ]
         },
         {
-            "text": "transparencia",
+            "text": "caso",
+            "size": 12,
+            "value": 16,
+            "ejemplos": [
+                "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
+                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena"
+            ]
+        },
+        {
+            "text": "ayotzinapa",
+            "size": 12,
+            "value": 15,
+            "ejemplos": [
+                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
+            ]
+        },
+        {
+            "text": "gobierno",
             "size": 11,
-            "value": 8,
+            "value": 14,
             "ejemplos": [
-                "Dice transparencia y todo lo hacen oculto 🤡",
-                "Jajaja qué pobres argumentos para no dar a conocer las encuestas, puros dedazos, nada de transparencia.",
-                "Julio un gusto escucharte y como dices transparencia"
-            ]
-        },
-        {
-            "text": "encuesta",
-            "size": 11,
-            "value": 7,
-            "ejemplos": [
-                "Cómo vas a aceptar una encuesta en donde nunca te metieron ?",
-                "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                "Soy de Tijuana líder social y no se trata de pedir revisión, se trata de que la tenían que meter en la encuesta"
-            ]
-        },
-        {
-            "text": "claro",
-            "size": 11,
-            "value": 7,
-            "ejemplos": [
-                "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                "…al puro estilo de Ricardo Anaya, Marco Cortes, Alito, tal parece que Citlali se servirá así misma y encabezará la candidatura para la alcaldía CUAHUTEMOC. Claro hay que esperar que ella nos enderece la plana y nos informe que no aspirará a algún cargo en estas elecciones"
-            ]
-        },
-        {
-            "text": "mario",
-            "size": 11,
-            "value": 7,
-            "ejemplos": [
-                "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                "Gracias a Andres Lopez Obrador nl ustedes. Citlaly es igual que Monrreal  y Mario delgado  corruptos",
-                "Mientes porque en BC cuando gano marina del pilar no hubo encuestas y Mario delgado la puso por dedaso aun así jaime Bonilla y AMLO no lo aprobaron"
+                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                "Como comemtario. Carrillo Puerto decía que el que gobierna tiene un compromiso con la transformación de la\" realidad concreta \", en cambio,\" el conductor de multitudes \" busca\" propagar ciertas doctrinas \"\nÉl entendía qie no es lo mismo ser opositor que ser gobierno. \nSaludos.",
+                "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
             ]
         },
         {
             "text": "amlo",
             "size": 11,
-            "value": 7,
+            "value": 14,
             "ejemplos": [
-                "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                "Que regrese AMLO",
-                "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
+                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                "Eres patético astillero, eres de los que han promovido eso precisamente, con tu silencio, avalando esa lealtad a ciegas en nombre de la dizque cuarta transformación. Dime cuántas veces has criticado directamente ésas lealtades? Con tu silencio las avalas y las perpetuan ya que han contribuido con ese silencio, a criminalizar a quien osa cuestionar al poder, eres de los que han contribuido al lema de amlo; O ESTÁS CONMIGO O ESTÁS EN MI CONTRA!",
+                "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
             ]
         },
         {
-            "text": "delgado",
+            "text": "análisis",
             "size": 11,
-            "value": 7,
+            "value": 13,
             "ejemplos": [
-                "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                "Gracias a Andres Lopez Obrador nl ustedes. Citlaly es igual que Monrreal  y Mario delgado  corruptos",
-                "Mientes porque en BC cuando gano marina del pilar no hubo encuestas y Mario delgado la puso por dedaso aun así jaime Bonilla y AMLO no lo aprobaron"
+                "Excelente análisis Julio",
+                "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
             ]
         },
         {
-            "text": "julio",
+            "text": "nieto",
             "size": 11,
-            "value": 7,
+            "value": 13,
             "ejemplos": [
-                "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                "Puro bla bla Julio no pierdas el tiempo no van a reconocer son maestras del bla bla bla"
+                "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes",
+                "Claro que como mexicano siento lo que paso con estos hermanos si la herida no cierra tan solo me imagino el dolor de estos seres que les desaparecieron a sus hijos y claro solo que hay un culpable si el estado .y peña nieto está al frente",
+                "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
+            ]
+        },
+        {
+            "text": "excelente",
+            "size": 11,
+            "value": 12,
+            "ejemplos": [
+                "Excelente análisis Julio",
+                "Sr Julio, me ecanto escucher su analysis. Excelente programa",
+                "Excelente reflexión y exposición sobre este hecho que no acaba de cerrar pese a que nos prometieron no mentir.  Doloroso y decepcionante."
+            ]
+        },
+        {
+            "text": "gracias",
+            "size": 11,
+            "value": 11,
+            "ejemplos": [
+                "Gracias querido Julio.",
+                "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
+                "Gracias 🫂 Julio 👍"
             ]
         }
     ]

@@ -1,116 +1,184 @@
 {
+    "metadatos": {
+        "fuente": "YouTube",
+        "canal_video": "Astillero Informa",
+        "laboratorio": "HuellaDigital.Lab"
+    },
     "estadisticas": {
-        "total_comentarios": 150,
-        "pct_positivo": 7.3,
-        "pct_negativo": 80.7,
-        "pct_neutro": 12.0
+        "total_comentarios": 206,
+        "pct_positivo": 5.3,
+        "pct_negativo": 80.6,
+        "pct_neutro": 14.1
     },
     "global": {
         "top_5": [
             {
                 "palabra": "ENCUESTAS",
-                "frecuencia": 28,
-                "porcentaje": 15.8,
+                "frecuencia": 41,
+                "porcentaje": 16.9,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Pasan los días y las encuestas no aparecen. Que ocultan ese par de señoras?"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
                 ]
             },
             {
                 "palabra": "MORENA",
-                "frecuencia": 22,
-                "porcentaje": 12.4,
+                "frecuencia": 32,
+                "porcentaje": 13.2,
                 "ejemplos": [
-                    "La unidad con los que ellos pusieron a modo, únanse con los que pusimos, todos ! Hasta los no encuestados. Que mal está Morena, espero y Baja California no vote por Morena, con esto que le hicieron a nuestra representante, dejaré de Ser y ayudar a Morena.",
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora."
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
                 ]
             },
             {
                 "palabra": "CITLALI",
-                "frecuencia": 22,
-                "porcentaje": 12.4,
+                "frecuencia": 27,
+                "porcentaje": 11.1,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "La regaste y en grande citlali",
-                    "Esa no fue la pregunta Citlali"
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
+                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
                 ]
             },
             {
-                "palabra": "MONREAL",
-                "frecuencia": 12,
-                "porcentaje": 6.8,
-                "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "PARTIDO",
-                "frecuencia": 11,
+                "palabra": "ENCUESTA",
+                "frecuencia": 15,
                 "porcentaje": 6.2,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Citlalli muy interesante sus puntos de vista, pero en un partido que se están matando entre ellos por los cargos 😢",
-                    "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "Cuánto por el resultado de la encuesta."
+                ]
+            },
+            {
+                "palabra": "PUEBLO",
+                "frecuencia": 15,
+                "porcentaje": 6.2,
+                "ejemplos": [
+                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
+                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
+                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
                 ]
             }
         ],
         "top_15": [
             {
                 "palabra": "ENCUESTAS",
-                "frecuencia": 28,
+                "frecuencia": 41,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Pasan los días y las encuestas no aparecen. Que ocultan ese par de señoras?"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
                 ]
             },
             {
                 "palabra": "MORENA",
-                "frecuencia": 22,
+                "frecuencia": 32,
                 "ejemplos": [
-                    "La unidad con los que ellos pusieron a modo, únanse con los que pusimos, todos ! Hasta los no encuestados. Que mal está Morena, espero y Baja California no vote por Morena, con esto que le hicieron a nuestra representante, dejaré de Ser y ayudar a Morena.",
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora."
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
                 ]
             },
             {
                 "palabra": "CITLALI",
-                "frecuencia": 22,
+                "frecuencia": 27,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "La regaste y en grande citlali",
-                    "Esa no fue la pregunta Citlali"
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
+                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
                 ]
             },
             {
-                "palabra": "MONREAL",
-                "frecuencia": 12,
+                "palabra": "ENCUESTA",
+                "frecuencia": 15,
                 "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "PARTIDO",
-                "frecuencia": 11,
-                "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Citlalli muy interesante sus puntos de vista, pero en un partido que se están matando entre ellos por los cargos 😢",
-                    "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "Cuánto por el resultado de la encuesta."
                 ]
             },
             {
                 "palabra": "PUEBLO",
+                "frecuencia": 15,
+                "ejemplos": [
+                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
+                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
+                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
+                ]
+            },
+            {
+                "palabra": "PARTIDO",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Citlalli Hernández miente como respira, y con tanta seguridad que mucha gente le cree. Hay Sentencias del Tribunal Electoral por impugnaciones a la designación de candidaturas en las que el mismo partido reconoce que NO HAY ENCUESTAS."
+                ]
+            },
+            {
+                "palabra": "TRANSPARENCIA",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "¿Y la transparencia?",
+                    "“Cuando hay transparencia” pero no muestran la encuesta al público … cuál transparencia ??",
+                    "solo era que des a conocer la encuesta y ya, se pide transparencia por que le das mucha vuelta, si es vedad lo que dices con lo que se pide les das la vuelta"
+                ]
+            },
+            {
+                "palabra": "MONREAL",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal.",
+                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
+                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal."
+                ]
+            },
+            {
+                "palabra": "AMLO",
+                "frecuencia": 12,
+                "ejemplos": [
+                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto...",
+                    "Acá en Guerrero, ganó como es lógico, la que tenía meses haciendo pintas y haciendo dispendio de recursos en  su campaña ¿ A poco eso no lo vieron, no lo valoraron ? Dijeron que se iban a valorar los antecedentes y perfiles, por lo que se ve, no fue así. La verdad nos impusieron a una chucha, odiadora de AMLO y abiertamente seguidora de Anaya.",
+                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas ."
+                ]
+            },
+            {
+                "palabra": "CITLALLI",
                 "frecuencia": 11,
                 "ejemplos": [
-                    "La cúpula de morena está dividiendo al pueblo con sus candidatos prianistas y perredistas",
-                    "CITLA, LO PÚBLICO DEBE SER PÚBLICO, LAS ENCUESTAS SON PÚBLICAS, SOMOS DE IZQUIERDA, NO LO OLVIDES. EL PUEBLO SOMOS Y ESTAMOS MUY BIEN INFORMADOS, Y ESTAMOS VIGILÁNDOLOS.",
-                    "Ojalá y el pueblo este valorando está .....mujer bono a hechar a perder lo que se abia construido.que fácil explica sus narrativas.pero yo quisiera que ella sintiera lo que se siente estar en el otro lado.y que te digan ya no Agan berrinches ya vengase para acá."
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlalli tienes tada la actitud d mentirosa...",
+                    "Citlalli se te nota LA mentiras en tus ojos...."
+                ]
+            },
+            {
+                "palabra": "MARIO",
+                "frecuencia": 10,
+                "ejemplos": [
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
+                ]
+            },
+            {
+                "palabra": "DELGADO",
+                "frecuencia": 10,
+                "ejemplos": [
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
+                ]
+            },
+            {
+                "palabra": "CLARO",
+                "frecuencia": 10,
+                "ejemplos": [
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "Citllalli;que muy claro muy transparente????? Mentirosa nadie quiere que Morena se corrompa màs..",
+                    "Esta claro. Los participantes si conocen plenamente los resultados de las encuestas, por lo tanto, deben someterse a los resultados. Saludos desde Puebla."
                 ]
             },
             {
@@ -129,69 +197,6 @@
                     "Citlali, \"no veo ruptura\", que eleccion organizaste en Guerrero? Se nota que no has hablado con la militancia en Guerrero, no quieren a una PANISTA!!!",
                     "Todos lo que quieren es mas dinero esa es la cuestión él dinero saben los millones que manejan si llegan ha ser gobernador Y TODOS ROBAN UNOS MAS OTROS MENOS PERO TODOS ROBAN",
                     "Engañan a las personas ponen a los que quieren."
-                ]
-            },
-            {
-                "palabra": "TRANSPARENCIA",
-                "frecuencia": 9,
-                "ejemplos": [
-                    "Dice transparencia y todo lo hacen oculto 🤡",
-                    "Jajaja qué pobres argumentos para no dar a conocer las encuestas, puros dedazos, nada de transparencia.",
-                    "Julio un gusto escucharte y como dices transparencia"
-                ]
-            },
-            {
-                "palabra": "ENCUESTA",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Cómo vas a aceptar una encuesta en donde nunca te metieron ?",
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Soy de Tijuana líder social y no se trata de pedir revisión, se trata de que la tenían que meter en la encuesta"
-                ]
-            },
-            {
-                "palabra": "CLARO",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                    "…al puro estilo de Ricardo Anaya, Marco Cortes, Alito, tal parece que Citlali se servirá así misma y encabezará la candidatura para la alcaldía CUAHUTEMOC. Claro hay que esperar que ella nos enderece la plana y nos informe que no aspirará a algún cargo en estas elecciones"
-                ]
-            },
-            {
-                "palabra": "DELGADO",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Gracias a Andres Lopez Obrador nl ustedes. Citlaly es igual que Monrreal  y Mario delgado  corruptos",
-                    "Mientes porque en BC cuando gano marina del pilar no hubo encuestas y Mario delgado la puso por dedaso aun así jaime Bonilla y AMLO no lo aprobaron"
-                ]
-            },
-            {
-                "palabra": "MARIO",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Gracias a Andres Lopez Obrador nl ustedes. Citlaly es igual que Monrreal  y Mario delgado  corruptos",
-                    "Mientes porque en BC cuando gano marina del pilar no hubo encuestas y Mario delgado la puso por dedaso aun así jaime Bonilla y AMLO no lo aprobaron"
-                ]
-            },
-            {
-                "palabra": "JULIO",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                    "Puro bla bla Julio no pierdas el tiempo no van a reconocer son maestras del bla bla bla"
-                ]
-            },
-            {
-                "palabra": "AMLO",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Que regrese AMLO",
-                    "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
                 ]
             }
         ]
@@ -219,21 +224,21 @@
                 ]
             },
             {
-                "palabra": "ERES",
-                "frecuencia": 2,
-                "porcentaje": 8.3,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
-                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
-                ]
-            },
-            {
                 "palabra": "JOVEN",
                 "frecuencia": 2,
                 "porcentaje": 8.3,
                 "ejemplos": [
                     "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
                     "Creo que es la primera vez que veo a esta Sra. sin su playera o blusa guinda, hay un avance.  De hecho se ve muy bien con esa blusa, le sienta muy bien, se ve mas joven, y su cabello y su cutiz se le ve bonito.     Ojala se siga arreglando, se ve muy bien."
+                ]
+            },
+            {
+                "palabra": "ERES",
+                "frecuencia": 2,
+                "porcentaje": 8.3,
+                "ejemplos": [
+                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
+                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
                 ]
             },
             {
@@ -266,19 +271,19 @@
                 ]
             },
             {
-                "palabra": "ERES",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
-                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
-                ]
-            },
-            {
                 "palabra": "JOVEN",
                 "frecuencia": 2,
                 "ejemplos": [
                     "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
                     "Creo que es la primera vez que veo a esta Sra. sin su playera o blusa guinda, hay un avance.  De hecho se ve muy bien con esa blusa, le sienta muy bien, se ve mas joven, y su cabello y su cutiz se le ve bonito.     Ojala se siga arreglando, se ve muy bien."
+                ]
+            },
+            {
+                "palabra": "ERES",
+                "frecuencia": 2,
+                "ejemplos": [
+                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
+                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
                 ]
             },
             {
@@ -311,7 +316,14 @@
                 ]
             },
             {
-                "palabra": "PROPIO",
+                "palabra": "PROGRESISMO",
+                "frecuencia": 1,
+                "ejemplos": [
+                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
+                ]
+            },
+            {
+                "palabra": "CITLA",
                 "frecuencia": 1,
                 "ejemplos": [
                     "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
@@ -325,14 +337,14 @@
                 ]
             },
             {
-                "palabra": "BIENESTAR",
+                "palabra": "PUBLICO",
                 "frecuencia": 1,
                 "ejemplos": [
                     "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
                 ]
             },
             {
-                "palabra": "PUBLICO",
+                "palabra": "RECTITUD",
                 "frecuencia": 1,
                 "ejemplos": [
                     "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
@@ -346,14 +358,7 @@
                 ]
             },
             {
-                "palabra": "CONSEGUIR",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "TIENES",
+                "palabra": "PUDRAS",
                 "frecuencia": 1,
                 "ejemplos": [
                     "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
@@ -365,99 +370,126 @@
         "top_5": [
             {
                 "palabra": "ENCUESTAS",
-                "frecuencia": 25,
-                "porcentaje": 15.9,
+                "frecuencia": 36,
+                "porcentaje": 17.0,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Pasan los días y las encuestas no aparecen. Que ocultan ese par de señoras?"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
                 ]
             },
             {
                 "palabra": "MORENA",
-                "frecuencia": 22,
-                "porcentaje": 14.0,
+                "frecuencia": 32,
+                "porcentaje": 15.1,
                 "ejemplos": [
-                    "La unidad con los que ellos pusieron a modo, únanse con los que pusimos, todos ! Hasta los no encuestados. Que mal está Morena, espero y Baja California no vote por Morena, con esto que le hicieron a nuestra representante, dejaré de Ser y ayudar a Morena.",
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora."
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
                 ]
             },
             {
                 "palabra": "CITLALI",
-                "frecuencia": 16,
-                "porcentaje": 10.2,
+                "frecuencia": 21,
+                "porcentaje": 9.9,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Porque para guerrero no fue Estela Damian.ya se disculpo citlali de que el verde se va a quedar",
-                    "Creo que Citlali está mintiendo"
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
+                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
+                ]
+            },
+            {
+                "palabra": "PUEBLO",
+                "frecuencia": 13,
+                "porcentaje": 6.1,
+                "ejemplos": [
+                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
+                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
+                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
                 ]
             },
             {
                 "palabra": "PARTIDO",
-                "frecuencia": 10,
-                "porcentaje": 6.4,
+                "frecuencia": 13,
+                "porcentaje": 6.1,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Citlalli muy interesante sus puntos de vista, pero en un partido que se están matando entre ellos por los cargos 😢",
-                    "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
-                ]
-            },
-            {
-                "palabra": "MONREAL",
-                "frecuencia": 10,
-                "porcentaje": 6.4,
-                "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Dale un descanso a tus muelas tapando a Monreal para tapar a David es la escencia ulises Gano y punto"
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Citlalli Hernández miente como respira, y con tanta seguridad que mucha gente le cree. Hay Sentencias del Tribunal Electoral por impugnaciones a la designación de candidaturas en las que el mismo partido reconoce que NO HAY ENCUESTAS."
                 ]
             }
         ],
         "top_15": [
             {
                 "palabra": "ENCUESTAS",
-                "frecuencia": 25,
+                "frecuencia": 36,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Pasan los días y las encuestas no aparecen. Que ocultan ese par de señoras?"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
                 ]
             },
             {
                 "palabra": "MORENA",
-                "frecuencia": 22,
+                "frecuencia": 32,
                 "ejemplos": [
-                    "La unidad con los que ellos pusieron a modo, únanse con los que pusimos, todos ! Hasta los no encuestados. Que mal está Morena, espero y Baja California no vote por Morena, con esto que le hicieron a nuestra representante, dejaré de Ser y ayudar a Morena.",
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora."
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
                 ]
             },
             {
                 "palabra": "CITLALI",
-                "frecuencia": 16,
+                "frecuencia": 21,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Porque para guerrero no fue Estela Damian.ya se disculpo citlali de que el verde se va a quedar",
-                    "Creo que Citlali está mintiendo"
+                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
+                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
+                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
+                ]
+            },
+            {
+                "palabra": "PUEBLO",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
+                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
+                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
                 ]
             },
             {
                 "palabra": "PARTIDO",
-                "frecuencia": 10,
+                "frecuencia": 13,
                 "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Citlalli muy interesante sus puntos de vista, pero en un partido que se están matando entre ellos por los cargos 😢",
-                    "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Citlalli Hernández miente como respira, y con tanta seguridad que mucha gente le cree. Hay Sentencias del Tribunal Electoral por impugnaciones a la designación de candidaturas en las que el mismo partido reconoce que NO HAY ENCUESTAS."
+                ]
+            },
+            {
+                "palabra": "AMLO",
+                "frecuencia": 12,
+                "ejemplos": [
+                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto...",
+                    "Acá en Guerrero, ganó como es lógico, la que tenía meses haciendo pintas y haciendo dispendio de recursos en  su campaña ¿ A poco eso no lo vieron, no lo valoraron ? Dijeron que se iban a valorar los antecedentes y perfiles, por lo que se ve, no fue así. La verdad nos impusieron a una chucha, odiadora de AMLO y abiertamente seguidora de Anaya.",
+                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas ."
                 ]
             },
             {
                 "palabra": "MONREAL",
+                "frecuencia": 11,
+                "ejemplos": [
+                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal.",
+                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
+                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal."
+                ]
+            },
+            {
+                "palabra": "ENCUESTA",
                 "frecuencia": 10,
                 "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Dale un descanso a tus muelas tapando a Monreal para tapar a David es la escencia ulises Gano y punto"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
+                    "“Cuando hay transparencia” pero no muestran la encuesta al público … cuál transparencia ??"
                 ]
             },
             {
@@ -479,75 +511,48 @@
                 ]
             },
             {
-                "palabra": "PUEBLO",
+                "palabra": "CITLALLI",
                 "frecuencia": 9,
                 "ejemplos": [
-                    "La cúpula de morena está dividiendo al pueblo con sus candidatos prianistas y perredistas",
-                    "Ojalá y el pueblo este valorando está .....mujer bono a hechar a perder lo que se abia construido.que fácil explica sus narrativas.pero yo quisiera que ella sintiera lo que se siente estar en el otro lado.y que te digan ya no Agan berrinches ya vengase para acá.",
-                    "ES TONTO,QUIEN PIENSA QUE EL PUEBLO ES TONTO ( AMLO) ."
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Citlalli tienes tada la actitud d mentirosa...",
+                    "Citlalli se te nota LA mentiras en tus ojos...."
                 ]
             },
             {
-                "palabra": "AMLO",
-                "frecuencia": 7,
+                "palabra": "MARIO",
+                "frecuencia": 9,
                 "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Que regrese AMLO",
-                    "El principio del fin de MORENA, los mareó el poder. Actualmente no hay un solo miembro del partido que se respete como a AMLO y Claudia"
-                ]
-            },
-            {
-                "palabra": "ZACATECAS",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "La xitlali buena para enrredar las cosas a su favor  toda una buena prianista xitlali ya lo convirtieron en conflicto interno.  La bronca es que en Zacatecas no se deben de sentir tan seguros pues en el 24 se perdieron 4 municipios electorales muy importante. Más los que ya no tenía morena.    A como defiendes a Vero diaz.  Xitlali",
-                    "Yo no soy de Guerrero ni de Zacatecas, solo soy un simpatizante de Morena, y me da coraje que en esos estados hayan quedado personajes que por sus antecedentes NO debieron de ser elegidos, y entonces me cuesta trabajo creer que si mucha gente con la que platico y discuto de estos asuntos y que NO somos de esos estados, nos resistimos a creer que tanto los guerrerenses como los zacatecanos prefieran esos perfiles, por estás prácticas tan opacas Morena está perdiendo fuerza y credibilidad...."
-                ]
-            },
-            {
-                "palabra": "MUJER",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Corrupticima esta mujer cuando pierdan no se quejen",
-                    "Ojalá y el pueblo este valorando está .....mujer bono a hechar a perder lo que se abia construido.que fácil explica sus narrativas.pero yo quisiera que ella sintiera lo que se siente estar en el otro lado.y que te digan ya no Agan berrinches ya vengase para acá.",
-                    "Alguien que me explique que dijo la mujer esta?"
-                ]
-            },
-            {
-                "palabra": "ENCUESTA",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "Cómo vas a aceptar una encuesta en donde nunca te metieron ?",
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Cuál encuesta? Nadie la conoce...o más bien dicho, todo mundo la desconoce, excepto el ungido por las cúpulas del partido. Esa es la verdadera encuesta."
-                ]
-            },
-            {
-                "palabra": "CLARO",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "…al puro estilo de Ricardo Anaya, Marco Cortes, Alito, tal parece que Citlali se servirá así misma y encabezará la candidatura para la alcaldía CUAHUTEMOC. Claro hay que esperar que ella nos enderece la plana y nos informe que no aspirará a algún cargo en estas elecciones",
-                    "No justifiques lo de Zacatecas y realizas una porquería lo que existe y no puede ser que todavía lo sigas justificando Claro que es familiares cuñada o ex cuñada y tiene vínculos familiares a cuarto nivel si quieres pero eso es nepotismo Y claro que va a seguir en el mismo lo quieres ocultar no lo hagas que todo mundo lo sabemos y lo vemos de manera clara si Monreal es un traidor y lo tienen en coordinador de diputados no puede ser"
-                ]
-            },
-            {
-                "palabra": "CORRUPTOS",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "Queremos a Eva Moreno de coordinadora. Claro que si la excluyeron, no hay encuestas, son corruptos los de mi partido Morena, que contestación tan pdeja dio Citlali, ahorita no vale entregar una encuesta, pues la pueden alterar no señores que asco mi partido Morena,",
-                    "Gracias a Andres Lopez Obrador nl ustedes. Citlaly es igual que Monrreal  y Mario delgado  corruptos",
-                    "Citlaly  es el espejo de Monrreal  corruptos"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
                 ]
             },
             {
                 "palabra": "DELGADO",
-                "frecuencia": 6,
+                "frecuencia": 9,
                 "ejemplos": [
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Gracias a Andres Lopez Obrador nl ustedes. Citlaly es igual que Monrreal  y Mario delgado  corruptos",
-                    "Mientes porque en BC cuando gano marina del pilar no hubo encuestas y Mario delgado la puso por dedaso aun así jaime Bonilla y AMLO no lo aprobaron"
+                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
+                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
+                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
+                ]
+            },
+            {
+                "palabra": "HACIENDO",
+                "frecuencia": 9,
+                "ejemplos": [
+                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
+                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora.",
+                    "Acá en Guerrero, ganó como es lógico, la que tenía meses haciendo pintas y haciendo dispendio de recursos en  su campaña ¿ A poco eso no lo vieron, no lo valoraron ? Dijeron que se iban a valorar los antecedentes y perfiles, por lo que se ve, no fue así. La verdad nos impusieron a una chucha, odiadora de AMLO y abiertamente seguidora de Anaya."
+                ]
+            },
+            {
+                "palabra": "MUJER",
+                "frecuencia": 8,
+                "ejemplos": [
+                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
+                    "Corrupticima esta mujer cuando pierdan no se quejen",
+                    "Ojalá y el pueblo este valorando está .....mujer bono a hechar a perder lo que se abia construido.que fácil explica sus narrativas.pero yo quisiera que ella sintiera lo que se siente estar en el otro lado.y que te digan ya no Agan berrinches ya vengase para acá."
                 ]
             }
         ]
