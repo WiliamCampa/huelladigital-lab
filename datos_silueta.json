@@ -5,198 +5,198 @@
         "laboratorio": "HuellaDigital.Lab"
     },
     "estadisticas": {
-        "total_comentarios": 206,
-        "pct_positivo": 5.3,
-        "pct_negativo": 80.6,
-        "pct_neutro": 14.1
+        "total_comentarios": 177,
+        "pct_positivo": 16.4,
+        "pct_negativo": 74.6,
+        "pct_neutro": 9.0
     },
     "global": {
         "top_5": [
             {
-                "palabra": "ENCUESTAS",
-                "frecuencia": 41,
-                "porcentaje": 16.9,
+                "palabra": "JULIO",
+                "frecuencia": 39,
+                "porcentaje": 13.5,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
+                    "Excelente análisis Julio",
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero"
                 ]
             },
             {
-                "palabra": "MORENA",
+                "palabra": "EJERCITO",
                 "frecuencia": 32,
-                "porcentaje": 13.2,
-                "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
-                ]
-            },
-            {
-                "palabra": "CITLALI",
-                "frecuencia": 27,
                 "porcentaje": 11.1,
                 "ejemplos": [
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
-                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano"
                 ]
             },
             {
-                "palabra": "ENCUESTA",
-                "frecuencia": 15,
-                "porcentaje": 6.2,
+                "palabra": "ESTADO",
+                "frecuencia": 21,
+                "porcentaje": 7.3,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "Cuánto por el resultado de la encuesta."
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
                 ]
             },
             {
-                "palabra": "PUEBLO",
-                "frecuencia": 15,
-                "porcentaje": 6.2,
+                "palabra": "PODER",
+                "frecuencia": 20,
+                "porcentaje": 6.9,
                 "ejemplos": [
-                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
-                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
-                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano",
+                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
+                ]
+            },
+            {
+                "palabra": "CASO",
+                "frecuencia": 19,
+                "porcentaje": 6.6,
+                "ejemplos": [
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "ENCUESTAS",
-                "frecuencia": 41,
+                "palabra": "JULIO",
+                "frecuencia": 39,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
+                    "Excelente análisis Julio",
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero"
                 ]
             },
             {
-                "palabra": "MORENA",
+                "palabra": "EJERCITO",
                 "frecuencia": 32,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano"
                 ]
             },
             {
-                "palabra": "CITLALI",
-                "frecuencia": 27,
+                "palabra": "ESTADO",
+                "frecuencia": 21,
                 "ejemplos": [
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
-                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
                 ]
             },
             {
-                "palabra": "ENCUESTA",
-                "frecuencia": 15,
+                "palabra": "PODER",
+                "frecuencia": 20,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "Cuánto por el resultado de la encuesta."
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano",
+                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
                 ]
             },
             {
-                "palabra": "PUEBLO",
-                "frecuencia": 15,
+                "palabra": "CASO",
+                "frecuencia": 19,
                 "ejemplos": [
-                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
-                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
-                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
                 ]
             },
             {
-                "palabra": "PARTIDO",
-                "frecuencia": 14,
+                "palabra": "PENA",
+                "frecuencia": 19,
                 "ejemplos": [
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Citlalli Hernández miente como respira, y con tanta seguridad que mucha gente le cree. Hay Sentencias del Tribunal Electoral por impugnaciones a la designación de candidaturas en las que el mismo partido reconoce que NO HAY ENCUESTAS."
+                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
+                    "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
+                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
                 ]
             },
             {
-                "palabra": "TRANSPARENCIA",
-                "frecuencia": 13,
+                "palabra": "VERDAD",
+                "frecuencia": 18,
                 "ejemplos": [
-                    "¿Y la transparencia?",
-                    "“Cuando hay transparencia” pero no muestran la encuesta al público … cuál transparencia ??",
-                    "solo era que des a conocer la encuesta y ya, se pide transparencia por que le das mucha vuelta, si es vedad lo que dices con lo que se pide les das la vuelta"
-                ]
-            },
-            {
-                "palabra": "MONREAL",
-                "frecuencia": 13,
-                "ejemplos": [
-                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal.",
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal."
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!"
                 ]
             },
             {
                 "palabra": "AMLO",
-                "frecuencia": 12,
+                "frecuencia": 18,
                 "ejemplos": [
-                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto...",
-                    "Acá en Guerrero, ganó como es lógico, la que tenía meses haciendo pintas y haciendo dispendio de recursos en  su campaña ¿ A poco eso no lo vieron, no lo valoraron ? Dijeron que se iban a valorar los antecedentes y perfiles, por lo que se ve, no fue así. La verdad nos impusieron a una chucha, odiadora de AMLO y abiertamente seguidora de Anaya.",
-                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas ."
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
                 ]
             },
             {
-                "palabra": "CITLALLI",
-                "frecuencia": 11,
+                "palabra": "GOBIERNO",
+                "frecuencia": 17,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlalli tienes tada la actitud d mentirosa...",
-                    "Citlalli se te nota LA mentiras en tus ojos...."
+                    "No lo hará el actual gobierno. Seguirá a cuentagotas, suministraran la justicia seguirán las heridas abiertas. Saludos desde Tixtla de Guerrero. Egresado y activista que apoya a los padres de los 43.",
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Como comemtario. Carrillo Puerto decía que el que gobierna tiene un compromiso con la transformación de la\" realidad concreta \", en cambio,\" el conductor de multitudes \" busca\" propagar ciertas doctrinas \"\nÉl entendía qie no es lo mismo ser opositor que ser gobierno. \nSaludos."
                 ]
             },
             {
-                "palabra": "MARIO",
-                "frecuencia": 10,
+                "palabra": "ANALISIS",
+                "frecuencia": 16,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
+                    "Excelente análisis Julio",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "Excelente análisis"
                 ]
             },
             {
-                "palabra": "DELGADO",
-                "frecuencia": 10,
+                "palabra": "AYOTZINAPA",
+                "frecuencia": 15,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
                 ]
             },
             {
-                "palabra": "CLARO",
-                "frecuencia": 10,
+                "palabra": "EXCELENTE",
+                "frecuencia": 14,
                 "ejemplos": [
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "Citllalli;que muy claro muy transparente????? Mentirosa nadie quiere que Morena se corrompa màs..",
-                    "Esta claro. Los participantes si conocen plenamente los resultados de las encuestas, por lo tanto, deben someterse a los resultados. Saludos desde Puebla."
+                    "Excelente análisis Julio",
+                    "Excelente análisis",
+                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
                 ]
             },
             {
-                "palabra": "PURO",
-                "frecuencia": 10,
+                "palabra": "NIETO",
+                "frecuencia": 14,
                 "ejemplos": [
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Puro Circo las encuestas, son puras cortinas de humo.",
-                    "Puro bla bla Julio no pierdas el tiempo no van a reconocer son maestras del bla bla bla"
+                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes",
+                    "Claro que como mexicano siento lo que paso con estos hermanos si la herida no cierra tan solo me imagino el dolor de estos seres que les desaparecieron a sus hijos y claro solo que hay un culpable si el estado .y peña nieto está al frente",
+                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
                 ]
             },
             {
-                "palabra": "QUIEREN",
-                "frecuencia": 10,
+                "palabra": "GRACIAS",
+                "frecuencia": 13,
                 "ejemplos": [
-                    "Citlali, \"no veo ruptura\", que eleccion organizaste en Guerrero? Se nota que no has hablado con la militancia en Guerrero, no quieren a una PANISTA!!!",
-                    "Todos lo que quieren es mas dinero esa es la cuestión él dinero saben los millones que manejan si llegan ha ser gobernador Y TODOS ROBAN UNOS MAS OTROS MENOS PERO TODOS ROBAN",
-                    "Engañan a las personas ponen a los que quieren."
+                    "Gracias querido Julio.",
+                    "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
+                    "Gracias"
+                ]
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "México, el país de la simulación.",
+                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
                 ]
             }
         ]
@@ -204,164 +204,183 @@
     "positivo": {
         "top_5": [
             {
-                "palabra": "CITLALI",
-                "frecuencia": 5,
-                "porcentaje": 20.8,
-                "ejemplos": [
-                    "La regaste y en grande citlali",
-                    "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
-                ]
-            },
-            {
                 "palabra": "JULIO",
+                "frecuencia": 18,
+                "porcentaje": 25.0,
+                "ejemplos": [
+                    "Excelente análisis Julio",
+                    "Gracias querido Julio.",
+                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                ]
+            },
+            {
+                "palabra": "ANALISIS",
+                "frecuencia": 11,
+                "porcentaje": 15.3,
+                "ejemplos": [
+                    "Excelente análisis Julio",
+                    "Excelente análisis",
+                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
+                ]
+            },
+            {
+                "palabra": "EXCELENTE",
+                "frecuencia": 10,
+                "porcentaje": 13.9,
+                "ejemplos": [
+                    "Excelente análisis Julio",
+                    "Excelente análisis",
+                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                ]
+            },
+            {
+                "palabra": "GRACIAS",
+                "frecuencia": 7,
+                "porcentaje": 9.7,
+                "ejemplos": [
+                    "Gracias querido Julio.",
+                    "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
+                    "Gracias 🫂 Julio 👍"
+                ]
+            },
+            {
+                "palabra": "COMENTARIOS",
                 "frecuencia": 3,
-                "porcentaje": 12.5,
+                "porcentaje": 4.2,
                 "ejemplos": [
-                    "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                    "Julio un gusto escucharte y como dices transparencia",
-                    "Gracias Julio por entrevistar a Citlalli Hernández."
-                ]
-            },
-            {
-                "palabra": "JOVEN",
-                "frecuencia": 2,
-                "porcentaje": 8.3,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
-                    "Creo que es la primera vez que veo a esta Sra. sin su playera o blusa guinda, hay un avance.  De hecho se ve muy bien con esa blusa, le sienta muy bien, se ve mas joven, y su cabello y su cutiz se le ve bonito.     Ojala se siga arreglando, se ve muy bien."
-                ]
-            },
-            {
-                "palabra": "ERES",
-                "frecuencia": 2,
-                "porcentaje": 8.3,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
-                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
-                ]
-            },
-            {
-                "palabra": "CITLALLI",
-                "frecuencia": 2,
-                "porcentaje": 8.3,
-                "ejemplos": [
-                    "Gracias Julio por entrevistar a Citlalli Hernández.",
-                    "Citlalli te amoooo😊"
+                    "Excelentes tus comentarios",
+                    "Todos los comentarios muy buenos, los tuyos y los de la gente. Esto es elemental; no se necesita gritonear únicamente un poco de honestidad personal en todos.",
+                    "Grandes comentarios maestro Julio!"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "CITLALI",
-                "frecuencia": 5,
+                "palabra": "JULIO",
+                "frecuencia": 18,
                 "ejemplos": [
-                    "La regaste y en grande citlali",
-                    "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
+                    "Excelente análisis Julio",
+                    "Gracias querido Julio.",
+                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
                 ]
             },
             {
-                "palabra": "JULIO",
+                "palabra": "ANALISIS",
+                "frecuencia": 11,
+                "ejemplos": [
+                    "Excelente análisis Julio",
+                    "Excelente análisis",
+                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
+                ]
+            },
+            {
+                "palabra": "EXCELENTE",
+                "frecuencia": 10,
+                "ejemplos": [
+                    "Excelente análisis Julio",
+                    "Excelente análisis",
+                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                ]
+            },
+            {
+                "palabra": "GRACIAS",
+                "frecuencia": 7,
+                "ejemplos": [
+                    "Gracias querido Julio.",
+                    "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
+                    "Gracias 🫂 Julio 👍"
+                ]
+            },
+            {
+                "palabra": "COMENTARIOS",
                 "frecuencia": 3,
                 "ejemplos": [
-                    "Citlali siempre me había parecido frontal y que contestaba claro … hoy le dio muchas vueltas .\n\nÁnimo camarada ! Recuerde a quienes les están hablando a través de Julio",
-                    "Julio un gusto escucharte y como dices transparencia",
-                    "Gracias Julio por entrevistar a Citlalli Hernández."
+                    "Excelentes tus comentarios",
+                    "Todos los comentarios muy buenos, los tuyos y los de la gente. Esto es elemental; no se necesita gritonear únicamente un poco de honestidad personal en todos.",
+                    "Grandes comentarios maestro Julio!"
                 ]
             },
             {
-                "palabra": "JOVEN",
+                "palabra": "ESTADO",
+                "frecuencia": 3,
+                "ejemplos": [
+                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\".",
+                    "Muy sólidos y certeros tus diez puntos sobre este terrorismo de Estado llamado Ayotzinapa, Julio. 👍👍",
+                    "Muy lucido su análisis de Julio sobre el crimen de Estado llamado Ayotzinapa"
+                ]
+            },
+            {
+                "palabra": "NECESARIA",
+                "frecuencia": 3,
+                "ejemplos": [
+                    "Muy buena reflexión muy necesaria en estos momentos, es la mejor que he escuchado👍",
+                    "Saludos estimado Julio, soy defensor de la 4T, pero es necesaria tu crítica al poder militar, tu claridad para exponer la impunidad del ejército. Te felicito por tu compromiso con el periodismo.",
+                    "Estupenda crónica crítica política. Recmiendo también la relacionada a Sor Juana Inés & la política Trumpista titulada: \"¡Coscorrones de Sor Juana a Trump! Lo que sus versos le responderían\". Gracias por esta video charla aguda, triste, necesaria. Gracias por este periodismo de memoria, periodismo históriico, periodismo necesarioo..."
+                ]
+            },
+            {
+                "palabra": "PERIODISMO",
+                "frecuencia": 3,
+                "ejemplos": [
+                    "Saludos estimado Julio, soy defensor de la 4T, pero es necesaria tu crítica al poder militar, tu claridad para exponer la impunidad del ejército. Te felicito por tu compromiso con el periodismo.",
+                    "Estupenda crónica crítica política. Recmiendo también la relacionada a Sor Juana Inés & la política Trumpista titulada: \"¡Coscorrones de Sor Juana a Trump! Lo que sus versos le responderían\". Gracias por esta video charla aguda, triste, necesaria. Gracias por este periodismo de memoria, periodismo históriico, periodismo necesarioo...",
+                    "Extraordinaria  disertación.  Mis respetos Julio, excelente análisis periodismo."
+                ]
+            },
+            {
+                "palabra": "ABRAZO",
                 "frecuencia": 2,
                 "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
-                    "Creo que es la primera vez que veo a esta Sra. sin su playera o blusa guinda, hay un avance.  De hecho se ve muy bien con esa blusa, le sienta muy bien, se ve mas joven, y su cabello y su cutiz se le ve bonito.     Ojala se siga arreglando, se ve muy bien."
+                    "Totalmente de acuerdo contigo Julio, fuerte abrazo! :goodvibes::goodvibes::goodvibes:",
+                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco."
                 ]
             },
             {
-                "palabra": "ERES",
+                "palabra": "ASTILLERO",
                 "frecuencia": 2,
                 "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO.",
-                    "Que bonita “Bety” habla con todas las personas, que bonita. Eres muy “inocente “ Citlali."
+                    "La introducción musical es agradable a los sentidos sr. Astillero... Felicidades muchas...",
+                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco."
                 ]
             },
             {
-                "palabra": "CITLALLI",
+                "palabra": "MUCHAS",
                 "frecuencia": 2,
                 "ejemplos": [
-                    "Gracias Julio por entrevistar a Citlalli Hernández.",
-                    "Citlalli te amoooo😊"
+                    "La introducción musical es agradable a los sentidos sr. Astillero... Felicidades muchas...",
+                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco."
                 ]
             },
             {
-                "palabra": "GRANDE",
-                "frecuencia": 1,
+                "palabra": "CRONICA",
+                "frecuencia": 2,
                 "ejemplos": [
-                    "La regaste y en grande citlali"
+                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco.",
+                    "Estupenda crónica crítica política. Recmiendo también la relacionada a Sor Juana Inés & la política Trumpista titulada: \"¡Coscorrones de Sor Juana a Trump! Lo que sus versos le responderían\". Gracias por esta video charla aguda, triste, necesaria. Gracias por este periodismo de memoria, periodismo históriico, periodismo necesarioo..."
                 ]
             },
             {
-                "palabra": "REGASTE",
-                "frecuencia": 1,
+                "palabra": "MAESTRO",
+                "frecuencia": 2,
                 "ejemplos": [
-                    "La regaste y en grande citlali"
+                    "Grandes comentarios maestro Julio!",
+                    "Híjole... valiente, maestro Julio. Hay veces que asombra, cómo las cosas tienen un sentido, que si bien está (casi) a la vista de todos, no puede asirse, más que por medio de un análisis hecho por alguien que sea capaz de leer entre líneas, que pueda discriminar la información verdadera de las mentiras y de la simulación y con gran elocuencia, hacer visible la verdad a los ojos de la multitud. Larga vida al Prometeo-Astillero."
                 ]
             },
             {
-                "palabra": "PROGRESO",
-                "frecuencia": 1,
+                "palabra": "REFLEXION",
+                "frecuencia": 2,
                 "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
+                    "Muy buena reflexión muy necesaria en estos momentos, es la mejor que he escuchado👍",
+                    "Julio, excelente reflexión, gracias mil!"
                 ]
             },
             {
-                "palabra": "PROGRESISMO",
-                "frecuencia": 1,
+                "palabra": "GRAN",
+                "frecuencia": 2,
                 "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "CITLA",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "POLITICO",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "PUBLICO",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "RECTITUD",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "NUESTRO",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
-                ]
-            },
-            {
-                "palabra": "PUDRAS",
-                "frecuencia": 1,
-                "ejemplos": [
-                    "ERES MUY JOVEN CITLA, NO TE PUDRAS COMO MONREAL, TIENES FUTURO, SI TRABAJAS CON RECTITUD. CUIDA TU FUTURO POLÍTICO, DEBEMOS CONSEGUIR EL PROGRESISMO, EL BIENESTAR PÚBLICO, NO NUESTRO PROPIO PROGRESO."
+                    "Bravo, Don Julio, es usted un gran periodista",
+                    "Híjole... valiente, maestro Julio. Hay veces que asombra, cómo las cosas tienen un sentido, que si bien está (casi) a la vista de todos, no puede asirse, más que por medio de un análisis hecho por alguien que sea capaz de leer entre líneas, que pueda discriminar la información verdadera de las mentiras y de la simulación y con gran elocuencia, hacer visible la verdad a los ojos de la multitud. Larga vida al Prometeo-Astillero."
                 ]
             }
         ]
@@ -369,190 +388,190 @@
     "negativo": {
         "top_5": [
             {
-                "palabra": "ENCUESTAS",
-                "frecuencia": 36,
-                "porcentaje": 17.0,
+                "palabra": "EJERCITO",
+                "frecuencia": 27,
+                "porcentaje": 11.5,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "El ejército sigue siendo intocable."
                 ]
             },
             {
-                "palabra": "MORENA",
-                "frecuencia": 32,
-                "porcentaje": 15.1,
+                "palabra": "JULIO",
+                "frecuencia": 20,
+                "porcentaje": 8.5,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
                 ]
             },
             {
-                "palabra": "CITLALI",
-                "frecuencia": 21,
-                "porcentaje": 9.9,
+                "palabra": "PENA",
+                "frecuencia": 19,
+                "porcentaje": 8.1,
                 "ejemplos": [
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
-                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
+                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
+                    "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
+                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
                 ]
             },
             {
-                "palabra": "PUEBLO",
-                "frecuencia": 13,
-                "porcentaje": 6.1,
+                "palabra": "AMLO",
+                "frecuencia": 18,
+                "porcentaje": 7.7,
                 "ejemplos": [
-                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
-                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
-                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
                 ]
             },
             {
-                "palabra": "PARTIDO",
-                "frecuencia": 13,
-                "porcentaje": 6.1,
+                "palabra": "ESTADO",
+                "frecuencia": 18,
+                "porcentaje": 7.7,
                 "ejemplos": [
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Citlalli Hernández miente como respira, y con tanta seguridad que mucha gente le cree. Hay Sentencias del Tribunal Electoral por impugnaciones a la designación de candidaturas en las que el mismo partido reconoce que NO HAY ENCUESTAS."
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "En tiempos de Trump, debilitar a las fuerzas armadas con acusaciones de crimen de estado (el último del PRI antes de dejar la presidencia) podría poner en riesgo la seguridad de los mexicanos. ¿Es disyuntiva para un líder de nación 43 vs 130M? Supongo que seguiremos esperando por muchos años más ese esclarecimiento…"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "ENCUESTAS",
-                "frecuencia": 36,
+                "palabra": "EJERCITO",
+                "frecuencia": 27,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto..."
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "El ejército sigue siendo intocable."
                 ]
             },
             {
-                "palabra": "MORENA",
-                "frecuencia": 32,
+                "palabra": "JULIO",
+                "frecuencia": 20,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora."
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
                 ]
             },
             {
-                "palabra": "CITLALI",
-                "frecuencia": 21,
+                "palabra": "PENA",
+                "frecuencia": 19,
                 "ejemplos": [
-                    "Citlali y la presidenta de Morena promoviendo el dedaso antidemocrático en algunas designaciones a gobernadores, al estiló priísta, y lo peor no publicar las encuestas, en Morena se está desmoronando con estás desiciones practicadas del pasado antidemocrático",
-                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas .",
-                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal."
-                ]
-            },
-            {
-                "palabra": "PUEBLO",
-                "frecuencia": 13,
-                "ejemplos": [
-                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
-                    "Yo tampoco veo  Rotura lokuebeo eskue como ustedes no podemos poner el país en ustedes y dela manera kue loestan asindo no estamos de uerdo kueremos trasparensi porkue nuestro país está desconfiando porkue ay muchos traidores por unos  cuantos  pesos se venden. Y sino ban buscando intereses personales y nomás el pueblo no está para estar asetamos traidores si ok",
-                    "Nadie, nadie, pero nadie le llega a AMLO que si ama al pueblo de México."
-                ]
-            },
-            {
-                "palabra": "PARTIDO",
-                "frecuencia": 13,
-                "ejemplos": [
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Citlalli Hernández miente como respira, y con tanta seguridad que mucha gente le cree. Hay Sentencias del Tribunal Electoral por impugnaciones a la designación de candidaturas en las que el mismo partido reconoce que NO HAY ENCUESTAS."
+                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
+                    "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
+                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
                 ]
             },
             {
                 "palabra": "AMLO",
+                "frecuencia": 18,
+                "ejemplos": [
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
+                ]
+            },
+            {
+                "palabra": "ESTADO",
+                "frecuencia": 18,
+                "ejemplos": [
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "En tiempos de Trump, debilitar a las fuerzas armadas con acusaciones de crimen de estado (el último del PRI antes de dejar la presidencia) podría poner en riesgo la seguridad de los mexicanos. ¿Es disyuntiva para un líder de nación 43 vs 130M? Supongo que seguiremos esperando por muchos años más ese esclarecimiento…"
+                ]
+            },
+            {
+                "palabra": "PODER",
+                "frecuencia": 18,
+                "ejemplos": [
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS.",
+                    "La 4T solo usa esta tragedia como bandera y luego se burla al seguir solapando estos crímenes‼️\n¿Cómo es que Claudia se mantiene en el poder sin correr ningún riesgo⁉️ Pues porque los malos saben que están protegidos!\n Otra hipótesis…??"
+                ]
+            },
+            {
+                "palabra": "CASO",
+                "frecuencia": 17,
+                "ejemplos": [
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena"
+                ]
+            },
+            {
+                "palabra": "VERDAD",
+                "frecuencia": 16,
+                "ejemplos": [
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                    "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!"
+                ]
+            },
+            {
+                "palabra": "GOBIERNO",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS.",
+                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
+                ]
+            },
+            {
+                "palabra": "NIETO",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes",
+                    "Claro que como mexicano siento lo que paso con estos hermanos si la herida no cierra tan solo me imagino el dolor de estos seres que les desaparecieron a sus hijos y claro solo que hay un culpable si el estado .y peña nieto está al frente",
+                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
+                ]
+            },
+            {
+                "palabra": "AYOTZINAPA",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
+                ]
+            },
+            {
+                "palabra": "MÉXICO",
                 "frecuencia": 12,
                 "ejemplos": [
-                    "Tan facil que es mostrar las encuestas... Pero a cambio tenemos una verborrea maldita que tiene estructura ni forma... AMLO debe estar molesto...",
-                    "Acá en Guerrero, ganó como es lógico, la que tenía meses haciendo pintas y haciendo dispendio de recursos en  su campaña ¿ A poco eso no lo vieron, no lo valoraron ? Dijeron que se iban a valorar los antecedentes y perfiles, por lo que se ve, no fue así. La verdad nos impusieron a una chucha, odiadora de AMLO y abiertamente seguidora de Anaya.",
-                    "Citlali, trabaje casa por casa por morena, genere cambios a favor de los ciudadanos por morena en la Administración Pública, crei en morena, pero los procesos que mencionas son incoherentes, no estoy en contra de morena, estoy a favor de la Democracia y de la legalidad. No olvides que vivimos 3 robos a AMLO, no es lógico que no muestren las encuestas ."
+                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
+                    "México, el país de la simulación.",
+                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
                 ]
             },
             {
-                "palabra": "MONREAL",
-                "frecuencia": 11,
-                "ejemplos": [
-                    "Citlali has actuado con una irresponsabilidad imperdonable, en Zacatecas nos volviste a entregar a los  Monreal.",
-                    "Alaberga, parece que entrevistó el maestro Julio a Monreal, madre santa, se pudrió más rápido que Noroña esta amiga de Andy. Quiero mucho a AMLO y Claudia y a la 4T pero estos no ayudan a Morena. Resulta que si trae la escuela de Mario Delgado, tronco de fundadora.",
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal."
-                ]
-            },
-            {
-                "palabra": "ENCUESTA",
+                "palabra": "DESDE",
                 "frecuencia": 10,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Está muy claro y entendible el por qué no se entregan los resultados de la encuesta. Tu insistencia es sospechosa, respetemos los procesos de cada partido y celebremos la apertura que muestran los dirigentes a responder y acudir a estás entrevistas. Quiero ver a los de la oposición sentados ahí contigo.",
-                    "“Cuando hay transparencia” pero no muestran la encuesta al público … cuál transparencia ??"
+                    "Se resolvió desde un principio, los mataron narcos y narco policías locales, pero el Peje le quiso hacer a la mamada y exprimir la tragedia.",
+                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
+                    "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
                 ]
             },
             {
-                "palabra": "PURO",
+                "palabra": "MUCHO",
                 "frecuencia": 10,
                 "ejemplos": [
-                    "Muestren las encuestas señora, puro bla,bla,bla,bla,bla. Y en Zacatecas? La Monreal iba en tercer lugar, no nos quieran engañar, ustedes ya son parte de la mafia de Monreal.",
-                    "Puro Circo las encuestas, son puras cortinas de humo.",
-                    "Puro bla bla Julio no pierdas el tiempo no van a reconocer son maestras del bla bla bla"
+                    "Mucho rollo al toro",
+                    "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!",
+                    "De nuevo. Fue el ejército. AMLO les tuvo miedo, por eso tantas concesiones y funciones no competentes a ellos. Aquí el responsable fue el que lo ofreció al iniciar el sexenio, Toda le cae y doña Claudia nomás nada de a muertito sobre la responsabilidad de AMLO. Quedó mucho a deber"
                 ]
             },
             {
-                "palabra": "QUIEREN",
-                "frecuencia": 10,
-                "ejemplos": [
-                    "Citlali, \"no veo ruptura\", que eleccion organizaste en Guerrero? Se nota que no has hablado con la militancia en Guerrero, no quieren a una PANISTA!!!",
-                    "Todos lo que quieren es mas dinero esa es la cuestión él dinero saben los millones que manejan si llegan ha ser gobernador Y TODOS ROBAN UNOS MAS OTROS MENOS PERO TODOS ROBAN",
-                    "Engañan a las personas ponen a los que quieren."
-                ]
-            },
-            {
-                "palabra": "CITLALLI",
+                "palabra": "PUEBLO",
                 "frecuencia": 9,
                 "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Citlalli tienes tada la actitud d mentirosa...",
-                    "Citlalli se te nota LA mentiras en tus ojos...."
-                ]
-            },
-            {
-                "palabra": "MARIO",
-                "frecuencia": 9,
-                "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
-                ]
-            },
-            {
-                "palabra": "DELGADO",
-                "frecuencia": 9,
-                "ejemplos": [
-                    "Citlalli fue secretaria de MORENA con Mario Delgado por una encuesta abierta a todo el público que hizo el INE de Lencho Cordova y ahora no quiere que las encuestas sean abiertas a toda la militancia. Eso se llama dedazo aquí y en China",
-                    "Sobre todo se les da la autocrítica (ironía). Habría que aclarar que no es un partido de izquierda, sino que es un partido populista con una ideología nacionalista. Todos los nacionalismos tienden a imponer una sola narrativa: tengo otros datos, la historia es solamente verdadera tal y como ellos la conciben, descalifican cualquier idea distinta bajo el membrete generalizado de opositores, fomentan discursos paranoicos de buenos y malos. El concepto de izquierda se confunde entre la retórica de \"primero los pobres\" y la reaparición de una clase política privilegiada. Sabemos que esos políticos son Bartlett, Mario Delgado, Adán Augusto, Yunes, Ignacio Mier, etc.",
-                    "Mal muy mal , están haciendo un cochinero desde  mario delgado a la fecha , pensaré mi voto a futuro , corrijan por favor"
-                ]
-            },
-            {
-                "palabra": "HACIENDO",
-                "frecuencia": 9,
-                "ejemplos": [
-                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
-                    "Cuando un proceso no es transparente y sencillo, es porque está amañado. A ver si el 2do piso de la 4T no se derrumba en este sexenio. Se confían a que no hay mejor opcion que ellos. Lo que va a pasar es que Morena se va a desintegrar en otro u otros partidos porque muchas personas en puestos claves están haciendo puras mamadas... Asi como esta ñora.",
-                    "Acá en Guerrero, ganó como es lógico, la que tenía meses haciendo pintas y haciendo dispendio de recursos en  su campaña ¿ A poco eso no lo vieron, no lo valoraron ? Dijeron que se iban a valorar los antecedentes y perfiles, por lo que se ve, no fue así. La verdad nos impusieron a una chucha, odiadora de AMLO y abiertamente seguidora de Anaya."
-                ]
-            },
-            {
-                "palabra": "MUJER",
-                "frecuencia": 8,
-                "ejemplos": [
-                    "Cuando el río suena es por algo es lo que no entiende está mujer tarde o temprano tiene sus consecuencias no respetan las decisiones del pueblo y como coordinadora que tiene que andar haciendo entre los elegidos si ella queda voto de castigo para que aprenda con el pueblo no se juega",
-                    "Corrupticima esta mujer cuando pierdan no se quejen",
-                    "Ojalá y el pueblo este valorando está .....mujer bono a hechar a perder lo que se abia construido.que fácil explica sus narrativas.pero yo quisiera que ella sintiera lo que se siente estar en el otro lado.y que te digan ya no Agan berrinches ya vengase para acá."
+                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
+                    "Es una verdadera decepción ver lo podrido de las personas que liderean un gran país y un gran pueblo."
                 ]
             }
         ]

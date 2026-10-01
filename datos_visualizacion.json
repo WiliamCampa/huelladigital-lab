@@ -1,7 +1,7 @@
 {
     "metricas_generales": {
         "porcentaje_bots": 0.0,
-        "total_comentarios": 171
+        "total_comentarios": 177
     },
     "mapa_emociones": {
         "name": "Emociones",
@@ -13,12 +13,12 @@
             },
             {
                 "name": "Informativo / Neutro",
-                "value": 13,
+                "value": 14,
                 "color": "#38BDF8"
             },
             {
                 "name": "Critica e Indignacion",
-                "value": 121,
+                "value": 123,
                 "color": "#FF0000"
             }
         ]
@@ -45,6 +45,16 @@
             ]
         },
         {
+            "text": "verdad",
+            "size": 12,
+            "value": 18,
+            "ejemplos": [
+                "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
+                "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!"
+            ]
+        },
+        {
             "text": "poder",
             "size": 12,
             "value": 18,
@@ -65,13 +75,13 @@
             ]
         },
         {
-            "text": "verdad",
+            "text": "caso",
             "size": 12,
             "value": 17,
             "ejemplos": [
-                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!",
-                "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
+                "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
+                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
             ]
         },
         {
@@ -95,13 +105,23 @@
             ]
         },
         {
-            "text": "caso",
+            "text": "amlo",
             "size": 12,
             "value": 16,
             "ejemplos": [
-                "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
-                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena"
+                "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
+                "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
+                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
+            ]
+        },
+        {
+            "text": "gobierno",
+            "size": 12,
+            "value": 15,
+            "ejemplos": [
+                "No lo hará el actual gobierno. Seguirá a cuentagotas, suministraran la justicia seguirán las heridas abiertas. Saludos desde Tixtla de Guerrero. Egresado y activista que apoya a los padres de los 43.",
+                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
+                "Como comemtario. Carrillo Puerto decía que el que gobierna tiene un compromiso con la transformación de la\" realidad concreta \", en cambio,\" el conductor de multitudes \" busca\" propagar ciertas doctrinas \"\nÉl entendía qie no es lo mismo ser opositor que ser gobierno. \nSaludos."
             ]
         },
         {
@@ -112,26 +132,6 @@
                 "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
                 "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
                 "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
-            ]
-        },
-        {
-            "text": "gobierno",
-            "size": 11,
-            "value": 14,
-            "ejemplos": [
-                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                "Como comemtario. Carrillo Puerto decía que el que gobierna tiene un compromiso con la transformación de la\" realidad concreta \", en cambio,\" el conductor de multitudes \" busca\" propagar ciertas doctrinas \"\nÉl entendía qie no es lo mismo ser opositor que ser gobierno. \nSaludos.",
-                "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
-            ]
-        },
-        {
-            "text": "amlo",
-            "size": 11,
-            "value": 14,
-            "ejemplos": [
-                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                "Eres patético astillero, eres de los que han promovido eso precisamente, con tu silencio, avalando esa lealtad a ciegas en nombre de la dizque cuarta transformación. Dime cuántas veces has criticado directamente ésas lealtades? Con tu silencio las avalas y las perpetuan ya que han contribuido con ese silencio, a criminalizar a quien osa cuestionar al poder, eres de los que han contribuido al lema de amlo; O ESTÁS CONMIGO O ESTÁS EN MI CONTRA!",
-                "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
             ]
         },
         {
@@ -165,13 +165,13 @@
             ]
         },
         {
-            "text": "gracias",
+            "text": "desde",
             "size": 11,
             "value": 11,
             "ejemplos": [
-                "Gracias querido Julio.",
-                "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
-                "Gracias 🫂 Julio 👍"
+                "No lo hará el actual gobierno. Seguirá a cuentagotas, suministraran la justicia seguirán las heridas abiertas. Saludos desde Tixtla de Guerrero. Egresado y activista que apoya a los padres de los 43.",
+                "Se resolvió desde un principio, los mataron narcos y narco policías locales, pero el Peje le quiso hacer a la mamada y exprimir la tragedia.",
+                "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo."
             ]
         }
     ]
