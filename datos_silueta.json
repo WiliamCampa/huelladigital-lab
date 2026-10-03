@@ -1,202 +1,202 @@
 {
     "metadatos": {
         "fuente": "YouTube",
-        "canal_video": "Astillero Informa",
+        "url_analizada": "https://www.youtube.com/watch?v=mMbRNUnBtv0",
         "laboratorio": "HuellaDigital.Lab"
     },
     "estadisticas": {
-        "total_comentarios": 177,
-        "pct_positivo": 16.4,
-        "pct_negativo": 74.6,
-        "pct_neutro": 9.0
+        "total_comentarios": 380,
+        "pct_positivo": 55.5,
+        "pct_negativo": 26.3,
+        "pct_neutro": 18.2
     },
     "global": {
         "top_5": [
             {
-                "palabra": "JULIO",
-                "frecuencia": 39,
-                "porcentaje": 13.5,
+                "palabra": "PRESIDENTE",
+                "frecuencia": 109,
+                "porcentaje": 19.1,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero"
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
                 ]
             },
             {
-                "palabra": "EJERCITO",
-                "frecuencia": 32,
-                "porcentaje": 11.1,
+                "palabra": "MÉXICO",
+                "frecuencia": 67,
+                "porcentaje": 11.8,
                 "ejemplos": [
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano"
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
                 ]
             },
             {
-                "palabra": "ESTADO",
-                "frecuencia": 21,
-                "porcentaje": 7.3,
+                "palabra": "AMLO",
+                "frecuencia": 48,
+                "porcentaje": 8.4,
                 "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
+                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                    "Adios mi presidente amlo desde carolina del norte",
+                    "From London 🇬🇧 we love you AMLO!"
                 ]
             },
             {
-                "palabra": "PODER",
-                "frecuencia": 20,
-                "porcentaje": 6.9,
+                "palabra": "MEJOR",
+                "frecuencia": 45,
+                "porcentaje": 7.9,
                 "ejemplos": [
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano",
-                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
                 ]
             },
             {
-                "palabra": "CASO",
-                "frecuencia": 19,
-                "porcentaje": 6.6,
+                "palabra": "USTED",
+                "frecuencia": 41,
+                "porcentaje": 7.2,
                 "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "JULIO",
-                "frecuencia": 39,
+                "palabra": "PRESIDENTE",
+                "frecuencia": 109,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero"
-                ]
-            },
-            {
-                "palabra": "EJERCITO",
-                "frecuencia": 32,
-                "ejemplos": [
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano"
-                ]
-            },
-            {
-                "palabra": "ESTADO",
-                "frecuencia": 21,
-                "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
-                ]
-            },
-            {
-                "palabra": "PODER",
-                "frecuencia": 20,
-                "ejemplos": [
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                    "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano",
-                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
-                ]
-            },
-            {
-                "palabra": "CASO",
-                "frecuencia": 19,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
-                ]
-            },
-            {
-                "palabra": "PENA",
-                "frecuencia": 19,
-                "ejemplos": [
-                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
-                    "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
-                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
-                ]
-            },
-            {
-                "palabra": "VERDAD",
-                "frecuencia": 18,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!"
-                ]
-            },
-            {
-                "palabra": "AMLO",
-                "frecuencia": 18,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
-                ]
-            },
-            {
-                "palabra": "GOBIERNO",
-                "frecuencia": 17,
-                "ejemplos": [
-                    "No lo hará el actual gobierno. Seguirá a cuentagotas, suministraran la justicia seguirán las heridas abiertas. Saludos desde Tixtla de Guerrero. Egresado y activista que apoya a los padres de los 43.",
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Como comemtario. Carrillo Puerto decía que el que gobierna tiene un compromiso con la transformación de la\" realidad concreta \", en cambio,\" el conductor de multitudes \" busca\" propagar ciertas doctrinas \"\nÉl entendía qie no es lo mismo ser opositor que ser gobierno. \nSaludos."
-                ]
-            },
-            {
-                "palabra": "ANALISIS",
-                "frecuencia": 16,
-                "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "Excelente análisis"
-                ]
-            },
-            {
-                "palabra": "AYOTZINAPA",
-                "frecuencia": 15,
-                "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
-                ]
-            },
-            {
-                "palabra": "EXCELENTE",
-                "frecuencia": 14,
-                "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Excelente análisis",
-                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
-                ]
-            },
-            {
-                "palabra": "NIETO",
-                "frecuencia": 14,
-                "ejemplos": [
-                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes",
-                    "Claro que como mexicano siento lo que paso con estos hermanos si la herida no cierra tan solo me imagino el dolor de estos seres que les desaparecieron a sus hijos y claro solo que hay un culpable si el estado .y peña nieto está al frente",
-                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
-                ]
-            },
-            {
-                "palabra": "GRACIAS",
-                "frecuencia": 13,
-                "ejemplos": [
-                    "Gracias querido Julio.",
-                    "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
-                    "Gracias"
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
                 ]
             },
             {
                 "palabra": "MÉXICO",
-                "frecuencia": 13,
+                "frecuencia": 67,
                 "ejemplos": [
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "México, el país de la simulación.",
-                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                ]
+            },
+            {
+                "palabra": "AMLO",
+                "frecuencia": 48,
+                "ejemplos": [
+                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                    "Adios mi presidente amlo desde carolina del norte",
+                    "From London 🇬🇧 we love you AMLO!"
+                ]
+            },
+            {
+                "palabra": "MEJOR",
+                "frecuencia": 45,
+                "ejemplos": [
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                ]
+            },
+            {
+                "palabra": "USTED",
+                "frecuencia": 41,
+                "ejemplos": [
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹"
+                ]
+            },
+            {
+                "palabra": "DIOS",
+                "frecuencia": 38,
+                "ejemplos": [
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                    "Que bueno que salió a las camaras bendito Dios y bendita redes sociales porque los corruptos no pueden Aser más fraude físicamente",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+                ]
+            },
+            {
+                "palabra": "OBRADOR",
+                "frecuencia": 29,
+                "ejemplos": [
+                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                ]
+            },
+            {
+                "palabra": "NARCOPOLITICO",
+                "frecuencia": 27,
+                "ejemplos": [
+                    "Gracias por el NARCOPOLITICO",
+                    "Gracias por el NARCOPOLITICO",
+                    "Gracias por el NARCOPOLITICO"
+                ]
+            },
+            {
+                "palabra": "MUCHO",
+                "frecuencia": 25,
+                "ejemplos": [
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                    "Mi gran PRESIDENTE,QUE GUSTO VOLVER A VERLO,LO QUEREMOS MUCHO"
+                ]
+            },
+            {
+                "palabra": "HISTORIA",
+                "frecuencia": 25,
+                "ejemplos": [
+                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+                ]
+            },
+            {
+                "palabra": "ANDRES",
+                "frecuencia": 24,
+                "ejemplos": [
+                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                    "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!",
+                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+                ]
+            },
+            {
+                "palabra": "BENDIGA",
+                "frecuencia": 24,
+                "ejemplos": [
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "Dios lo Bendiga ❤❤❤❤",
+                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+                ]
+            },
+            {
+                "palabra": "GRAN",
+                "frecuencia": 23,
+                "ejemplos": [
+                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                ]
+            },
+            {
+                "palabra": "GUSTO",
+                "frecuencia": 23,
+                "ejemplos": [
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                ]
+            },
+            {
+                "palabra": "LÓPEZ",
+                "frecuencia": 22,
+                "ejemplos": [
+                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
                 ]
             }
         ]
@@ -204,183 +204,190 @@
     "positivo": {
         "top_5": [
             {
-                "palabra": "JULIO",
-                "frecuencia": 18,
-                "porcentaje": 25.0,
+                "palabra": "PRESIDENTE",
+                "frecuencia": 91,
+                "porcentaje": 19.8,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Gracias querido Julio.",
-                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
                 ]
             },
             {
-                "palabra": "ANALISIS",
-                "frecuencia": 11,
-                "porcentaje": 15.3,
+                "palabra": "MÉXICO",
+                "frecuencia": 46,
+                "porcentaje": 10.0,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Excelente análisis",
-                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
                 ]
             },
             {
-                "palabra": "EXCELENTE",
-                "frecuencia": 10,
-                "porcentaje": 13.9,
+                "palabra": "MEJOR",
+                "frecuencia": 40,
+                "porcentaje": 8.7,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Excelente análisis",
-                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
                 ]
             },
             {
-                "palabra": "GRACIAS",
-                "frecuencia": 7,
-                "porcentaje": 9.7,
+                "palabra": "DIOS",
+                "frecuencia": 34,
+                "porcentaje": 7.4,
                 "ejemplos": [
-                    "Gracias querido Julio.",
-                    "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
-                    "Gracias 🫂 Julio 👍"
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "Dios lo Bendiga ❤❤❤❤"
                 ]
             },
             {
-                "palabra": "COMENTARIOS",
-                "frecuencia": 3,
-                "porcentaje": 4.2,
+                "palabra": "AMLO",
+                "frecuencia": 32,
+                "porcentaje": 7.0,
                 "ejemplos": [
-                    "Excelentes tus comentarios",
-                    "Todos los comentarios muy buenos, los tuyos y los de la gente. Esto es elemental; no se necesita gritonear únicamente un poco de honestidad personal en todos.",
-                    "Grandes comentarios maestro Julio!"
+                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "!! VIVAN !!\n💚🤍❤️\nCSP\nAMLO\nUn fuerte abrazo \nMuchas Gracias"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "JULIO",
-                "frecuencia": 18,
+                "palabra": "PRESIDENTE",
+                "frecuencia": 91,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Gracias querido Julio.",
-                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
                 ]
             },
             {
-                "palabra": "ANALISIS",
-                "frecuencia": 11,
+                "palabra": "MÉXICO",
+                "frecuencia": 46,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Excelente análisis",
-                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
                 ]
             },
             {
-                "palabra": "EXCELENTE",
-                "frecuencia": 10,
+                "palabra": "MEJOR",
+                "frecuencia": 40,
                 "ejemplos": [
-                    "Excelente análisis Julio",
-                    "Excelente análisis",
-                    "Sr Julio, me ecanto escucher su analysis. Excelente programa"
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
                 ]
             },
             {
-                "palabra": "GRACIAS",
-                "frecuencia": 7,
+                "palabra": "DIOS",
+                "frecuencia": 34,
                 "ejemplos": [
-                    "Gracias querido Julio.",
-                    "Ante el montón de opinadores que se dicen analistas es refrescante escuchar un análisis tan sobrio como el tuyo, Julio. Gracias.",
-                    "Gracias 🫂 Julio 👍"
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "Dios lo Bendiga ❤❤❤❤"
                 ]
             },
             {
-                "palabra": "COMENTARIOS",
-                "frecuencia": 3,
+                "palabra": "AMLO",
+                "frecuencia": 32,
                 "ejemplos": [
-                    "Excelentes tus comentarios",
-                    "Todos los comentarios muy buenos, los tuyos y los de la gente. Esto es elemental; no se necesita gritonear únicamente un poco de honestidad personal en todos.",
-                    "Grandes comentarios maestro Julio!"
+                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "!! VIVAN !!\n💚🤍❤️\nCSP\nAMLO\nUn fuerte abrazo \nMuchas Gracias"
                 ]
             },
             {
-                "palabra": "ESTADO",
-                "frecuencia": 3,
+                "palabra": "USTED",
+                "frecuencia": 28,
                 "ejemplos": [
-                    "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\".",
-                    "Muy sólidos y certeros tus diez puntos sobre este terrorismo de Estado llamado Ayotzinapa, Julio. 👍👍",
-                    "Muy lucido su análisis de Julio sobre el crimen de Estado llamado Ayotzinapa"
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "Bendiciones para usted y su familia .\nGracias por el gran transformación que hizo y que aún sigue en México y para nosotros los del pueblo mexicano 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
+                    "Que gusto de ver a mi mejor presidente qué hemos tenido, que Dios lo llene de muchas bendiciones, gracias por enseñarme a confiar que todavía existen buenos seres humanos, gracias, gracias, gracias.\n\nQue Dios los bendigue a toda su familia.\nGracias por enseñarnos tantas historias de nuestra historia.\nSiempre estaré orgullosa de usted."
                 ]
             },
             {
-                "palabra": "NECESARIA",
-                "frecuencia": 3,
+                "palabra": "BENDIGA",
+                "frecuencia": 24,
                 "ejemplos": [
-                    "Muy buena reflexión muy necesaria en estos momentos, es la mejor que he escuchado👍",
-                    "Saludos estimado Julio, soy defensor de la 4T, pero es necesaria tu crítica al poder militar, tu claridad para exponer la impunidad del ejército. Te felicito por tu compromiso con el periodismo.",
-                    "Estupenda crónica crítica política. Recmiendo también la relacionada a Sor Juana Inés & la política Trumpista titulada: \"¡Coscorrones de Sor Juana a Trump! Lo que sus versos le responderían\". Gracias por esta video charla aguda, triste, necesaria. Gracias por este periodismo de memoria, periodismo históriico, periodismo necesarioo..."
-                ]
-            },
-            {
-                "palabra": "PERIODISMO",
-                "frecuencia": 3,
-                "ejemplos": [
-                    "Saludos estimado Julio, soy defensor de la 4T, pero es necesaria tu crítica al poder militar, tu claridad para exponer la impunidad del ejército. Te felicito por tu compromiso con el periodismo.",
-                    "Estupenda crónica crítica política. Recmiendo también la relacionada a Sor Juana Inés & la política Trumpista titulada: \"¡Coscorrones de Sor Juana a Trump! Lo que sus versos le responderían\". Gracias por esta video charla aguda, triste, necesaria. Gracias por este periodismo de memoria, periodismo históriico, periodismo necesarioo...",
-                    "Extraordinaria  disertación.  Mis respetos Julio, excelente análisis periodismo."
-                ]
-            },
-            {
-                "palabra": "ABRAZO",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "Totalmente de acuerdo contigo Julio, fuerte abrazo! :goodvibes::goodvibes::goodvibes:",
-                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco."
-                ]
-            },
-            {
-                "palabra": "ASTILLERO",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "La introducción musical es agradable a los sentidos sr. Astillero... Felicidades muchas...",
-                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco."
-                ]
-            },
-            {
-                "palabra": "MUCHAS",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "La introducción musical es agradable a los sentidos sr. Astillero... Felicidades muchas...",
-                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco."
-                ]
-            },
-            {
-                "palabra": "CRONICA",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "Muchas gracias por esta crónica y análisis, Julio Astillero. Un abrazo desde Tabasco.",
-                    "Estupenda crónica crítica política. Recmiendo también la relacionada a Sor Juana Inés & la política Trumpista titulada: \"¡Coscorrones de Sor Juana a Trump! Lo que sus versos le responderían\". Gracias por esta video charla aguda, triste, necesaria. Gracias por este periodismo de memoria, periodismo históriico, periodismo necesarioo..."
-                ]
-            },
-            {
-                "palabra": "MAESTRO",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "Grandes comentarios maestro Julio!",
-                    "Híjole... valiente, maestro Julio. Hay veces que asombra, cómo las cosas tienen un sentido, que si bien está (casi) a la vista de todos, no puede asirse, más que por medio de un análisis hecho por alguien que sea capaz de leer entre líneas, que pueda discriminar la información verdadera de las mentiras y de la simulación y con gran elocuencia, hacer visible la verdad a los ojos de la multitud. Larga vida al Prometeo-Astillero."
-                ]
-            },
-            {
-                "palabra": "REFLEXION",
-                "frecuencia": 2,
-                "ejemplos": [
-                    "Muy buena reflexión muy necesaria en estos momentos, es la mejor que he escuchado👍",
-                    "Julio, excelente reflexión, gracias mil!"
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "Dios lo Bendiga ❤❤❤❤",
+                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
                 ]
             },
             {
                 "palabra": "GRAN",
-                "frecuencia": 2,
+                "frecuencia": 23,
                 "ejemplos": [
-                    "Bravo, Don Julio, es usted un gran periodista",
-                    "Híjole... valiente, maestro Julio. Hay veces que asombra, cómo las cosas tienen un sentido, que si bien está (casi) a la vista de todos, no puede asirse, más que por medio de un análisis hecho por alguien que sea capaz de leer entre líneas, que pueda discriminar la información verdadera de las mentiras y de la simulación y con gran elocuencia, hacer visible la verdad a los ojos de la multitud. Larga vida al Prometeo-Astillero."
+                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                ]
+            },
+            {
+                "palabra": "GUSTO",
+                "frecuencia": 22,
+                "ejemplos": [
+                    "Eres el mejor presidente que a tenido México un gusto verte",
+                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                ]
+            },
+            {
+                "palabra": "HISTORIA",
+                "frecuencia": 22,
+                "ejemplos": [
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
+                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                    "El mejor presidente de la historia"
+                ]
+            },
+            {
+                "palabra": "OBRADOR",
+                "frecuencia": 21,
+                "ejemplos": [
+                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
+                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤",
+                    "Un placer y una alegría verlo de nuevo al mejor PRESIDENTE de México Andrés Manuel López Obrador. Qué se conserve siempre sano con la bendición de DIOS.\nViva AMLO y la 4ta transformación de México !!!!!! Y su digna heredera la\n Doctora CLAUDIA SHEINBAUN PARDO !!!!!!"
+                ]
+            },
+            {
+                "palabra": "VERLO",
+                "frecuencia": 20,
+                "ejemplos": [
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!",
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                ]
+            },
+            {
+                "palabra": "MUCHO",
+                "frecuencia": 20,
+                "ejemplos": [
+                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
+                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                    "Mi gran PRESIDENTE,QUE GUSTO VOLVER A VERLO,LO QUEREMOS MUCHO"
+                ]
+            },
+            {
+                "palabra": "VIDA",
+                "frecuencia": 19,
+                "ejemplos": [
+                    "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!",
+                    "Gracias Presidente Libertador UD es el transformador de muchos que sufrían de miseria Larga vida AMLO, le amamos le apreciamos bendiciones Presidente",
+                    "Gracias  AMLO  por usted seguimos  en la lucha de xuidar el movimiento  de transformación. \nEn cuanto salga el libro lo compraré \nLe envío un gran abrazo con todo mi agradecimiento  y cariño de seguirlo más de la mitad de mi vida ."
+                ]
+            },
+            {
+                "palabra": "BENDICIONES",
+                "frecuencia": 18,
+                "ejemplos": [
+                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!",
+                    "Que alegria y que gusto escucharlo , es un gran privilegio, michas bendiciones ❤😊",
+                    "Bendiciones para usted y su familia .\nGracias por el gran transformación que hizo y que aún sigue en México y para nosotros los del pueblo mexicano 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼"
                 ]
             }
         ]
@@ -388,190 +395,190 @@
     "negativo": {
         "top_5": [
             {
-                "palabra": "EJERCITO",
+                "palabra": "NARCOPOLITICO",
                 "frecuencia": 27,
-                "porcentaje": 11.5,
+                "porcentaje": 20.1,
                 "ejemplos": [
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "El ejército sigue siendo intocable."
+                    "Gracias por el NARCOPOLITICO",
+                    "Gracias por el NARCOPOLITICO",
+                    "Gracias por el NARCOPOLITICO"
                 ]
             },
             {
-                "palabra": "JULIO",
-                "frecuencia": 20,
-                "porcentaje": 8.5,
+                "palabra": "MÉXICO",
+                "frecuencia": 16,
+                "porcentaje": 11.9,
                 "ejemplos": [
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
+                    "Dosmil  ceis fui a mexico por mi madre muy grave y queue  porque abia elections y mi viejo estaba luchando por la presidential lo segui en dos  tempos Oaxaca y veracruz  pero perdimos",
+                    "53:26 \n¿QUE?\nQuiere decir que en México son 500mil, y en USA 70mil? \nEntoces vamos en decadencia, No diga mentiras 😂",
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal..."
                 ]
             },
             {
-                "palabra": "PENA",
-                "frecuencia": 19,
-                "porcentaje": 8.1,
+                "palabra": "PRESIDENTE",
+                "frecuencia": 13,
+                "porcentaje": 9.7,
                 "ejemplos": [
-                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
-                    "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
-                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
+                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\"."
                 ]
             },
             {
-                "palabra": "AMLO",
-                "frecuencia": 18,
-                "porcentaje": 7.7,
+                "palabra": "GOBIERNO",
+                "frecuencia": 9,
+                "porcentaje": 6.7,
                 "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
+                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Y porque no declara de toda la corrupción que arrastra su partido, sus hijos y todos los crímenes inhumanos que se han permitido durante su gobierno y el actual, MALDITOS CORRUPTOS"
                 ]
             },
             {
-                "palabra": "ESTADO",
-                "frecuencia": 18,
-                "porcentaje": 7.7,
+                "palabra": "USTED",
+                "frecuencia": 9,
+                "porcentaje": 6.7,
                 "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "En tiempos de Trump, debilitar a las fuerzas armadas con acusaciones de crimen de estado (el último del PRI antes de dejar la presidencia) podría poner en riesgo la seguridad de los mexicanos. ¿Es disyuntiva para un líder de nación 43 vs 130M? Supongo que seguiremos esperando por muchos años más ese esclarecimiento…"
+                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
+                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
+                    "Estimado Sr.Expresidente debo expresarle la frustracion y preocupacion del pueblo chihuahuense al ser robado y mentido por dos personas indignas de pertenecer a la 4T Citlali Hernandez y Arianna Montiel porque es bien sabido que Perez Cuellar manejo su campaña de manera deshonesta derrochando en propaganda y desapareciendo la de Andrea Chavez que se manejo de manera austera,ademas se utilizo al personal del bienestar para manipular a la poblacion en favor de Perez Cuellar,por otra parte una de las encuestad telefonicas de EL fue enmañada de tal manera que si no la analizabas bien de inmediato lo favorecia. Que detestable que estas mujeres esten hechando por la borda la lucha que a usted tanto le costo."
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "EJERCITO",
+                "palabra": "NARCOPOLITICO",
                 "frecuencia": 27,
                 "ejemplos": [
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "El ejército sigue siendo intocable."
-                ]
-            },
-            {
-                "palabra": "JULIO",
-                "frecuencia": 20,
-                "ejemplos": [
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "Pensé que nos compartiría algo nuevo don Julio, todo lo que mencionó lo escuchamos cada triste aniversario; lo que si veo muy claramente es que su énfasis es por la actitud del gobierno de AMLO, ESO, le debería dar mas que u a pista del porque López Obrador no pudo, porque para mi, fue claro que él sinceramente quería que se supiera la verdad y que hubiera justicia, NO PUDO, es una realidad; lo culpa usted como si él fuera el responsable de lo sucedido en Ayotzinapa \nFinalmente por todo lo mencionado por usted mismo, nunca se sabrá que pasó, punto final. Cada año escucharemos los mismos reclamos y discursos, sin nada mas que esperar, triste, pero cierto\nSaludos desde Puebla"
-                ]
-            },
-            {
-                "palabra": "PENA",
-                "frecuencia": 19,
-                "ejemplos": [
-                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
-                    "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
-                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
-                ]
-            },
-            {
-                "palabra": "AMLO",
-                "frecuencia": 18,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
-                ]
-            },
-            {
-                "palabra": "ESTADO",
-                "frecuencia": 18,
-                "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "En tiempos de Trump, debilitar a las fuerzas armadas con acusaciones de crimen de estado (el último del PRI antes de dejar la presidencia) podría poner en riesgo la seguridad de los mexicanos. ¿Es disyuntiva para un líder de nación 43 vs 130M? Supongo que seguiremos esperando por muchos años más ese esclarecimiento…"
-                ]
-            },
-            {
-                "palabra": "PODER",
-                "frecuencia": 18,
-                "ejemplos": [
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS.",
-                    "La 4T solo usa esta tragedia como bandera y luego se burla al seguir solapando estos crímenes‼️\n¿Cómo es que Claudia se mantiene en el poder sin correr ningún riesgo⁉️ Pues porque los malos saben que están protegidos!\n Otra hipótesis…??"
-                ]
-            },
-            {
-                "palabra": "CASO",
-                "frecuencia": 17,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena"
-                ]
-            },
-            {
-                "palabra": "VERDAD",
-                "frecuencia": 16,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                    "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!"
-                ]
-            },
-            {
-                "palabra": "GOBIERNO",
-                "frecuencia": 14,
-                "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS.",
-                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
-                ]
-            },
-            {
-                "palabra": "NIETO",
-                "frecuencia": 14,
-                "ejemplos": [
-                    "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes",
-                    "Claro que como mexicano siento lo que paso con estos hermanos si la herida no cierra tan solo me imagino el dolor de estos seres que les desaparecieron a sus hijos y claro solo que hay un culpable si el estado .y peña nieto está al frente",
-                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
-                ]
-            },
-            {
-                "palabra": "AYOTZINAPA",
-                "frecuencia": 13,
-                "ejemplos": [
-                    "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
+                    "Gracias por el NARCOPOLITICO",
+                    "Gracias por el NARCOPOLITICO",
+                    "Gracias por el NARCOPOLITICO"
                 ]
             },
             {
                 "palabra": "MÉXICO",
-                "frecuencia": 12,
+                "frecuencia": 16,
                 "ejemplos": [
-                    "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                    "México, el país de la simulación.",
-                    "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
+                    "Dosmil  ceis fui a mexico por mi madre muy grave y queue  porque abia elections y mi viejo estaba luchando por la presidential lo segui en dos  tempos Oaxaca y veracruz  pero perdimos",
+                    "53:26 \n¿QUE?\nQuiere decir que en México son 500mil, y en USA 70mil? \nEntoces vamos en decadencia, No diga mentiras 😂",
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal..."
+                ]
+            },
+            {
+                "palabra": "PRESIDENTE",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\"."
+                ]
+            },
+            {
+                "palabra": "GOBIERNO",
+                "frecuencia": 9,
+                "ejemplos": [
+                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Y porque no declara de toda la corrupción que arrastra su partido, sus hijos y todos los crímenes inhumanos que se han permitido durante su gobierno y el actual, MALDITOS CORRUPTOS"
+                ]
+            },
+            {
+                "palabra": "USTED",
+                "frecuencia": 9,
+                "ejemplos": [
+                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
+                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
+                    "Estimado Sr.Expresidente debo expresarle la frustracion y preocupacion del pueblo chihuahuense al ser robado y mentido por dos personas indignas de pertenecer a la 4T Citlali Hernandez y Arianna Montiel porque es bien sabido que Perez Cuellar manejo su campaña de manera deshonesta derrochando en propaganda y desapareciendo la de Andrea Chavez que se manejo de manera austera,ademas se utilizo al personal del bienestar para manipular a la poblacion en favor de Perez Cuellar,por otra parte una de las encuestad telefonicas de EL fue enmañada de tal manera que si no la analizabas bien de inmediato lo favorecia. Que detestable que estas mujeres esten hechando por la borda la lucha que a usted tanto le costo."
+                ]
+            },
+            {
+                "palabra": "MORENA",
+                "frecuencia": 8,
+                "ejemplos": [
+                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
+                    "HACEN MUCHA FALTA SUS DISCURSOS, PARA REFORZAR EL NACIONALISMO. MORENA SE ESTÁ DESVIANDO.",
+                    "Lo seguimos necesitando por favor RELIGASE porque esto no se acaba hasta que se acaba . Los prianistas no solo son ratas son traidores y siguen Ahi en primera fila ya hasta Morena va ahi con Doriga yasi como los sacamos. Regrese porfavor❤"
+                ]
+            },
+            {
+                "palabra": "AMLO",
+                "frecuencia": 8,
+                "ejemplos": [
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Viva Amlo, aunque le arda a los bots",
+                    "AMLO,... Prepárate para el Regreso,....para acabar de Sepultar al PRIAN.🥁💤💤.    🇲🇽🌴"
+                ]
+            },
+            {
+                "palabra": "FAVOR",
+                "frecuencia": 7,
+                "ejemplos": [
+                    "Lo extrañamos, vuelve, por favor mi presi",
+                    "Lo seguimos necesitando por favor RELIGASE porque esto no se acaba hasta que se acaba . Los prianistas no solo son ratas son traidores y siguen Ahi en primera fila ya hasta Morena va ahi con Doriga yasi como los sacamos. Regrese porfavor❤",
+                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota"
+                ]
+            },
+            {
+                "palabra": "VIEJO",
+                "frecuencia": 6,
+                "ejemplos": [
+                    "Dosmil  ceis fui a mexico por mi madre muy grave y queue  porque abia elections y mi viejo estaba luchando por la presidential lo segui en dos  tempos Oaxaca y veracruz  pero perdimos",
+                    "Se mira que no vive muy austero viejo mentirosa yo le crei y me decepciono resulto mas corrupto que los de antes y sus hijos unos huevones y ya millonarios pero hay le va trump",
+                    "Exacto!! Es un viejo mitómano!! Vean el estudio que hubo al respecto!! De 80 a 88 mentiras en cada mañanera.... Por qué yo... Si tengo otros datos!!"
+                ]
+            },
+            {
+                "palabra": "HUACHICOL",
+                "frecuencia": 6,
+                "ejemplos": [
+                    "Señor expresidente en su libro nos va a explicar el desfalco del huachicol fiscal? Nos cuenta de SEGALMEX? SUPONGO QUE EXPLICA TODOS Los fraudes y lavado de dinero del banco del BIENESTAR y los negocios del bienestar?  Espero con ansias el libro en el que expliqué todo el puerquero de su gobierno!",
+                    "Pues siiiiiii.... Ya viste cuántos millones de desfalco hubo del huachicol fiscal? Cómo no?",
+                    "Ojalá alguien se levantara así contra todos ustedes mentirosos. Saludos desde Tamaulipas donde el cobro de piso es tan descarado como tus cientos de pipas de huachicol que transitan a diario por aqui"
+                ]
+            },
+            {
+                "palabra": "BUENO",
+                "frecuencia": 5,
+                "ejemplos": [
+                    "Que bueno que salió a las camaras bendito Dios y bendita redes sociales porque los corruptos no pueden Aser más fraude físicamente",
+                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
+                    "Bueno mentiras no dijo, lo de la familia unida y con valores es un cimiento fuerte para que los jóvenes no consuman sustancias, y muchas cosas más que dijo, y desgraciadamente la corrupción todavía sigue, éso creo que está difícil erradicarla. Lo único que en lo personal no me gusta de éste periodo del gobierno es que se están haciendo muchas leyes feministas y que en lugar de que se busque igualdad de género lo único que están provocando es más odio a las mujeres, porque muchas de esas leyes ponen en desventaja a los hombres y ahora a los propios niños, como por ejemplo los concursos académicos que están poniendo como regla 50 % niños y 50% o más de niñas qué queden registrados como participantes y ganadores, entonces ahí ya tienen desventaja los niños ya que si 100 niños participan, 50 niñas y 50 niños y los más altos puntajes fueron 30 niños y después 20 niñas y tienen que ganar 10 entonces eligen 5 y 5 cuándo se supone que los 10 primeros lugares lo lograron niños."
+                ]
+            },
+            {
+                "palabra": "DEMAS",
+                "frecuencia": 5,
+                "ejemplos": [
+                    "No te fuiste para Europa ? Asi como todos los demás ex- presidentes",
+                    "Debería de darle vergüenza al decir que la corrupción y el huachicol acabó, cuándo fué su familia que privatizó ambas cosas con el huachicol fiscal. Además de qué su gobierno pactó con grupos criminales. Morena es solo la cúspide de la política grotesca que tiene México, y la base es y han sido el resto de los demás partidos políticos. La política mexicana es el peor de los carteles que tiene controlado este país 💩.",
+                    "Grácias AMLO,...los demás Presidentes  Conservadores  sólo han Recibido Puras Mentadas de Madre,...😩👀...VIVA. MEXICO🇲🇽🌴"
+                ]
+            },
+            {
+                "palabra": "PAÍS",
+                "frecuencia": 5,
+                "ejemplos": [
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
+                    "Debería de darle vergüenza al decir que la corrupción y el huachicol acabó, cuándo fué su familia que privatizó ambas cosas con el huachicol fiscal. Además de qué su gobierno pactó con grupos criminales. Morena es solo la cúspide de la política grotesca que tiene México, y la base es y han sido el resto de los demás partidos políticos. La política mexicana es el peor de los carteles que tiene controlado este país 💩."
+                ]
+            },
+            {
+                "palabra": "SIGUE",
+                "frecuencia": 5,
+                "ejemplos": [
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
+                    "Bueno mentiras no dijo, lo de la familia unida y con valores es un cimiento fuerte para que los jóvenes no consuman sustancias, y muchas cosas más que dijo, y desgraciadamente la corrupción todavía sigue, éso creo que está difícil erradicarla. Lo único que en lo personal no me gusta de éste periodo del gobierno es que se están haciendo muchas leyes feministas y que en lugar de que se busque igualdad de género lo único que están provocando es más odio a las mujeres, porque muchas de esas leyes ponen en desventaja a los hombres y ahora a los propios niños, como por ejemplo los concursos académicos que están poniendo como regla 50 % niños y 50% o más de niñas qué queden registrados como participantes y ganadores, entonces ahí ya tienen desventaja los niños ya que si 100 niños participan, 50 niñas y 50 niños y los más altos puntajes fueron 30 niños y después 20 niñas y tienen que ganar 10 entonces eligen 5 y 5 cuándo se supone que los 10 primeros lugares lo lograron niños."
                 ]
             },
             {
                 "palabra": "DESDE",
-                "frecuencia": 10,
+                "frecuencia": 5,
                 "ejemplos": [
-                    "Se resolvió desde un principio, los mataron narcos y narco policías locales, pero el Peje le quiso hacer a la mamada y exprimir la tragedia.",
-                    "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
-                    "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
-                ]
-            },
-            {
-                "palabra": "MUCHO",
-                "frecuencia": 10,
-                "ejemplos": [
-                    "Mucho rollo al toro",
-                    "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!",
-                    "De nuevo. Fue el ejército. AMLO les tuvo miedo, por eso tantas concesiones y funciones no competentes a ellos. Aquí el responsable fue el que lo ofreció al iniciar el sexenio, Toda le cae y doña Claudia nomás nada de a muertito sobre la responsabilidad de AMLO. Quedó mucho a deber"
-                ]
-            },
-            {
-                "palabra": "PUEBLO",
-                "frecuencia": 9,
-                "ejemplos": [
-                    "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                    "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                    "Es una verdadera decepción ver lo podrido de las personas que liderean un gran país y un gran pueblo."
+                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
+                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
+                    "Ojalá alguien se levantara así contra todos ustedes mentirosos. Saludos desde Tamaulipas donde el cobro de piso es tan descarado como tus cientos de pipas de huachicol que transitan a diario por aqui"
                 ]
             }
         ]

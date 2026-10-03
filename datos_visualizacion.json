@@ -1,177 +1,177 @@
 {
     "metricas_generales": {
-        "porcentaje_bots": 0.0,
-        "total_comentarios": 177
+        "porcentaje_bots": 11.1,
+        "total_comentarios": 380
     },
     "mapa_emociones": {
         "name": "Emociones",
         "children": [
             {
                 "name": "Admiracion y Apoyo",
-                "value": 27,
+                "value": 189,
                 "color": "#10B981"
             },
             {
                 "name": "Informativo / Neutro",
-                "value": 14,
+                "value": 49,
                 "color": "#38BDF8"
             },
             {
                 "name": "Critica e Indignacion",
-                "value": 123,
+                "value": 71,
                 "color": "#FF0000"
             }
         ]
     },
     "nube_palabras": [
         {
-            "text": "julio",
+            "text": "PRESIDENTE",
             "size": 18,
+            "value": 104,
+            "ejemplos": [
+                "Eres el mejor presidente que a tenido México un gusto verte",
+                "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+            ]
+        },
+        {
+            "text": "MÉXICO",
+            "size": 14,
+            "value": 65,
+            "ejemplos": [
+                "Eres el mejor presidente que a tenido México un gusto verte",
+                "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+            ]
+        },
+        {
+            "text": "AMLO",
+            "size": 13,
+            "value": 45,
+            "ejemplos": [
+                "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                "Adios mi presidente amlo desde carolina del norte",
+                "From London 🇬🇧 we love you AMLO!"
+            ]
+        },
+        {
+            "text": "MEJOR",
+            "size": 12,
+            "value": 44,
+            "ejemplos": [
+                "Eres el mejor presidente que a tenido México un gusto verte",
+                "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
+                "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+            ]
+        },
+        {
+            "text": "USTED",
+            "size": 12,
+            "value": 40,
+            "ejemplos": [
+                "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos."
+            ]
+        },
+        {
+            "text": "DIOS",
+            "size": 12,
             "value": 39,
             "ejemplos": [
-                "Excelente análisis Julio",
-                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero"
+                "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                "Que bueno que salió a las camaras bendito Dios y bendita redes sociales porque los corruptos no pueden Aser más fraude físicamente",
+                "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
             ]
         },
         {
-            "text": "ejército",
-            "size": 14,
-            "value": 26,
-            "ejemplos": [
-                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano"
-            ]
-        },
-        {
-            "text": "verdad",
-            "size": 12,
-            "value": 18,
-            "ejemplos": [
-                "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                "No me cabe duda que eres un gran periodista Julio... pero, por qué ni siquiera mencionas que está preso el ex gobernador Angel Aguirre... De verdad, no se ha hecho nada? Mmmmmm... Según tú , el ejército es el culpable, presenta las pruebas entonces.",
-                "Un resumen luminoso de estos 12 años de impunidad, donde caben la disciplina rigurosa de muchos años de periodismo, y ejercicio analítico muy valiente. \nYo me siento blindada, no creo que sepamos algún día la verdad. Me gustó mucho esta video charla. Duele!!"
-            ]
-        },
-        {
-            "text": "poder",
-            "size": 12,
-            "value": 18,
-            "ejemplos": [
-                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó",
-                "Tu eres el experto Julio pero en mi humilde opinión, pero la alianza y de enaltecimiento de las fuerzas armadas me ha parecido una estrategia de desenmascaramiento dulce. Si atacas al ego del carácter del ejército te topas con poder y resistencia.  Si les das la vuelta, ceden. Es el comportamiento humano",
-                "Pueden ser 1000 palabras rebuscados y calculadas para no golpear a su partido MORENA, pero el resultado es el misma. ¿Entonces para qué el cambio de gobierno? EL PODER CORROMPE A TODOS."
-            ]
-        },
-        {
-            "text": "méxico",
-            "size": 12,
-            "value": 18,
-            "ejemplos": [
-                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                "En tiempos de Trump, debilitar a las fuerzas armadas con acusaciones de crimen de estado (el último del PRI antes de dejar la presidencia) podría poner en riesgo la seguridad de los mexicanos. ¿Es disyuntiva para un líder de nación 43 vs 130M? Supongo que seguiremos esperando por muchos años más ese esclarecimiento…",
-                "Es una verdadera decepción ver lo podrido de las personas que liderean un gran país y un gran pueblo."
-            ]
-        },
-        {
-            "text": "caso",
-            "size": 12,
-            "value": 17,
-            "ejemplos": [
-                "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                "Grandes y certeras reflexiones. Muy interesante sería también unas reflexiones, sobre el caso de que se tomara la decisión  de esclarecer en su cabalidad,  el destino de los chavos. ¿Que escenarios se podrían dar?",
-                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
-            ]
-        },
-        {
-            "text": "estado",
-            "size": 12,
-            "value": 17,
-            "ejemplos": [
-                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
-            ]
-        },
-        {
-            "text": "peña",
-            "size": 12,
-            "value": 17,
-            "ejemplos": [
-                "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo.",
-                "Por qué los Padres no pueden demandar al Gob fed de ese sexenio ? Peña en sus vacaciones y Cienfuegos libre",
-                "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes"
-            ]
-        },
-        {
-            "text": "amlo",
-            "size": 12,
-            "value": 16,
-            "ejemplos": [
-                "Este caso es una herida muy profunda para el pueblo mexicano, es muy doloroso escuchar la verdad cuando soy pro AMLO.",
-                "De todos los últimos presidentes después de Echeverría, AMLO ha sido el más ruin.\nY sus hijos, una plaga nociva y perniciosa.",
-                "Para amlo solo le sirvió el caso de los normalistas como propaganda ya en el poder se le olvidó"
-            ]
-        },
-        {
-            "text": "gobierno",
-            "size": 12,
-            "value": 15,
-            "ejemplos": [
-                "No lo hará el actual gobierno. Seguirá a cuentagotas, suministraran la justicia seguirán las heridas abiertas. Saludos desde Tixtla de Guerrero. Egresado y activista que apoya a los padres de los 43.",
-                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                "Como comemtario. Carrillo Puerto decía que el que gobierna tiene un compromiso con la transformación de la\" realidad concreta \", en cambio,\" el conductor de multitudes \" busca\" propagar ciertas doctrinas \"\nÉl entendía qie no es lo mismo ser opositor que ser gobierno. \nSaludos."
-            ]
-        },
-        {
-            "text": "ayotzinapa",
-            "size": 12,
-            "value": 15,
-            "ejemplos": [
-                "Mientras no encuentren a los estudiantes y se haga justicia ante éste aberrante crimen de Estado. No hay nada que me haga aceptar que vivimos en un cambio de \"gobierno\". \"Ayotzinapa vive. Hasta que se haga justicia\".",
-                "Ayotzinapa es la mancha gubernamental más dolorosa en México 🇲🇽 \nHan pasado tres administraciones y no hay voluntad política para solucionar el caso. \nEs un crimen de estado y se defiende a la Sedena",
-                "Sr. Astillero desde Canadá muchas felicidades por su programa y excelentes precisiones en el triste y doloroso caso Ayotzinapa"
-            ]
-        },
-        {
-            "text": "análisis",
+            "text": "OBRADOR",
             "size": 11,
-            "value": 13,
+            "value": 29,
             "ejemplos": [
-                "Excelente análisis Julio",
-                "Ahora resulta que el problema surgió cuando se puso a trabajar al ejército y no cuando se mandaba a asesinar y ejecutar al pueblo. Vaya análisis Julio.\n\nSe azucenó el buen Artillero",
-                "Genial análisis Julio. Ahora que estamos cerca de conmemorar otro dos de octubre más, dejas ver una continuidad histórica en el Estado mexicano, como bien lo dices\"El sistema devora a sus propios hijos con tal de sobrevivir\"."
+                "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
             ]
         },
         {
-            "text": "nieto",
+            "text": "BENDIGA",
             "size": 11,
-            "value": 13,
+            "value": 25,
             "ejemplos": [
-                "Los responsables Peña Nieto y Murillo Karam los demás eran guarros que obedecían ordenes",
-                "Claro que como mexicano siento lo que paso con estos hermanos si la herida no cierra tan solo me imagino el dolor de estos seres que les desaparecieron a sus hijos y claro solo que hay un culpable si el estado .y peña nieto está al frente",
-                "La presion contra el IGEI se dio en el gobierno de rapiña nieto, cuando dio por terminada su mision y les pidio se retiraran del pais. No con López Obrador que fue el que los trajo de nuevo a México."
+                "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
+                "Dios lo Bendiga ❤❤❤❤",
+                "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
             ]
         },
         {
-            "text": "excelente",
+            "text": "GUSTO",
             "size": 11,
-            "value": 12,
+            "value": 24,
             "ejemplos": [
-                "Excelente análisis Julio",
-                "Sr Julio, me ecanto escucher su analysis. Excelente programa",
-                "Excelente reflexión y exposición sobre este hecho que no acaba de cerrar pese a que nos prometieron no mentir.  Doloroso y decepcionante."
+                "Eres el mejor presidente que a tenido México un gusto verte",
+                "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
+                "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
             ]
         },
         {
-            "text": "desde",
+            "text": "HISTORIA",
             "size": 11,
-            "value": 11,
+            "value": 24,
             "ejemplos": [
-                "No lo hará el actual gobierno. Seguirá a cuentagotas, suministraran la justicia seguirán las heridas abiertas. Saludos desde Tixtla de Guerrero. Egresado y activista que apoya a los padres de los 43.",
-                "Se resolvió desde un principio, los mataron narcos y narco policías locales, pero el Peje le quiso hacer a la mamada y exprimir la tragedia.",
-                "Solo en respuesta al título porque no he visto el video.\nLa razón que no se quiere resolver es porque no se quiere llegar a fondo. Es obvio que el ejercito Mexicano estuvo involucrado, Peña dio la orden. En fin todas las entodades desde arriba hasta abajo."
+                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
+                "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+            ]
+        },
+        {
+            "text": "MUCHO",
+            "size": 11,
+            "value": 24,
+            "ejemplos": [
+                "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
+                "Mi gran PRESIDENTE,QUE GUSTO VOLVER A VERLO,LO QUEREMOS MUCHO",
+                "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!"
+            ]
+        },
+        {
+            "text": "GRAN",
+            "size": 11,
+            "value": 23,
+            "ejemplos": [
+                "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
+                "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
+                "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+            ]
+        },
+        {
+            "text": "ANDRES",
+            "size": 11,
+            "value": 23,
+            "ejemplos": [
+                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!",
+                "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+            ]
+        },
+        {
+            "text": "LÓPEZ",
+            "size": 11,
+            "value": 22,
+            "ejemplos": [
+                "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
+                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
+                "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+            ]
+        },
+        {
+            "text": "PUEBLO",
+            "size": 11,
+            "value": 21,
+            "ejemplos": [
+                "Bendiciones para usted y su familia .\nGracias por el gran transformación que hizo y que aún sigue en México y para nosotros los del pueblo mexicano 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
+                "PRESIDENTE ADORADO AMLO POR SIEMPRE Y PARA SIEMPRE. LO MEJOR QUE LE HA SUCEDIDO A MÉXICO. INFINITAS GRACIAS POR SU AMOR Y APOYO AL PUEBLO MEXICANO. FELICIDADES POR SU LIBRO. ÉXITO!!",
+                "Gracias por compartirnos su sabiduría, exelente estratega, buena persona que en verdad ama al pueblo, siempre estará en nuestros corazones.\nSus libros deberían ser la base en las escuelas aprenderían a ser más patriotas y honestos\nVIVA ANDRES MANUEL LÓPEZ OBRADOR,‼️\n."
             ]
         }
     ]
