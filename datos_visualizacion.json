@@ -1,177 +1,179 @@
 {
     "metricas_generales": {
-        "porcentaje_bots": 11.1,
-        "total_comentarios": 380
+        "porcentaje_bots": 4.6,
+        "total_comentarios": 350,
+        "fuente": "YouTube",
+        "insight_narrativo": "Predominio favorable encabezado por expresiones de apoyo en torno a <strong>MESSI, MEJOR, ARGENTINA</strong>."
     },
     "mapa_emociones": {
         "name": "Emociones",
         "children": [
             {
                 "name": "Admiracion y Apoyo",
-                "value": 189,
+                "value": 161,
                 "color": "#10B981"
             },
             {
                 "name": "Informativo / Neutro",
-                "value": 49,
+                "value": 80,
                 "color": "#38BDF8"
             },
             {
                 "name": "Critica e Indignacion",
-                "value": 71,
+                "value": 109,
                 "color": "#FF0000"
             }
         ]
     },
     "nube_palabras": [
         {
-            "text": "PRESIDENTE",
-            "size": 18,
-            "value": 104,
-            "ejemplos": [
-                "Eres el mejor presidente que a tenido México un gusto verte",
-                "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
-            ]
-        },
-        {
-            "text": "MÉXICO",
+            "text": "MESSI",
             "size": 14,
-            "value": 65,
+            "value": 115,
             "ejemplos": [
-                "Eres el mejor presidente que a tenido México un gusto verte",
-                "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
-            ]
-        },
-        {
-            "text": "AMLO",
-            "size": 13,
-            "value": 45,
-            "ejemplos": [
-                "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                "Adios mi presidente amlo desde carolina del norte",
-                "From London 🇬🇧 we love you AMLO!"
+                "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                "😭😭😭😭😭😭😭😭😭😭😭😭Messi"
             ]
         },
         {
             "text": "MEJOR",
-            "size": 12,
-            "value": 44,
+            "size": 14,
+            "value": 41,
             "ejemplos": [
-                "Eres el mejor presidente que a tenido México un gusto verte",
-                "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                "El mejor de todos ❤",
+                "El mejor del mundo, grande Messi"
             ]
         },
         {
-            "text": "USTED",
-            "size": 12,
-            "value": 40,
+            "text": "ARGENTINA",
+            "size": 14,
+            "value": 38,
             "ejemplos": [
-                "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos."
+                "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍"
             ]
         },
         {
-            "text": "DIOS",
-            "size": 12,
-            "value": 39,
+            "text": "FUTBOL",
+            "size": 14,
+            "value": 33,
             "ejemplos": [
-                "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                "Que bueno que salió a las camaras bendito Dios y bendita redes sociales porque los corruptos no pueden Aser más fraude físicamente",
-                "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+                "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
+                "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
             ]
         },
         {
-            "text": "OBRADOR",
-            "size": 11,
-            "value": 29,
+            "text": "MUNDO",
+            "size": 14,
+            "value": 27,
             "ejemplos": [
-                "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤"
             ]
         },
         {
-            "text": "BENDIGA",
-            "size": 11,
+            "text": "JUGADOR",
+            "size": 14,
             "value": 25,
             "ejemplos": [
-                "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                "Dios lo Bendiga ❤❤❤❤",
-                "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+                "Esun muy buen jugador, pero eso no es para que se idriolate. El hombre en el discurso sono humilde, las acciones dejaran sver si es que si es.",
+                "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
+                "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭"
             ]
         },
         {
-            "text": "GUSTO",
-            "size": 11,
-            "value": 24,
+            "text": "GRANDE",
+            "size": 14,
+            "value": 22,
             "ejemplos": [
-                "Eres el mejor presidente que a tenido México un gusto verte",
-                "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
-                "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                "SOS UN GRANDE MESSI!! \nPERO NO NOS MIENTAN....\nNO LO PUSIERON A LAUTARO...ENTRE TANTAS OTRAS, DIGAMOS: ...EXTRAÑAS DESICIONES!!...PERO EN FIN, GRACIAS POR TODO!! 🎉❤",
+                "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                "El mejor del mundo, grande Messi"
+            ]
+        },
+        {
+            "text": "JUGAR",
+            "size": 14,
+            "value": 17,
+            "ejemplos": [
+                "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                "No entiendo por qué Messi no viene 1 o 2 años a jugar acá."
             ]
         },
         {
             "text": "HISTORIA",
-            "size": 11,
-            "value": 24,
+            "size": 14,
+            "value": 17,
             "ejemplos": [
-                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
-                "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+                "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                "❤️🙏 GRACIAS MESSI ERES HISTORIA",
+                "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia"
+            ]
+        },
+        {
+            "text": "DESDE",
+            "size": 14,
+            "value": 16,
+            "ejemplos": [
+                "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
+                "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                "Honor a quien honor merece! Con toda admiración desde México querido Leo Messi! Ejemplo mundial"
+            ]
+        },
+        {
+            "text": "LIONEL",
+            "size": 14,
+            "value": 16,
+            "ejemplos": [
+                "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
+                "Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias y más Gracias por todo Lionel Andres Messi.",
+                "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+            ]
+        },
+        {
+            "text": "DIOS",
+            "size": 14,
+            "value": 16,
+            "ejemplos": [
+                "Gracias a Dios que ya no estará en los medio ese pesado , no lo soporto",
+                "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
+                "Solo dios sabe el gran temor q yo tuve siempre porq no llegara este momento 😢😢"
             ]
         },
         {
             "text": "MUCHO",
-            "size": 11,
-            "value": 24,
+            "size": 14,
+            "value": 14,
             "ejemplos": [
-                "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                "Mi gran PRESIDENTE,QUE GUSTO VOLVER A VERLO,LO QUEREMOS MUCHO",
-                "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!"
+                "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                "Te queremos mucho Messi",
+                "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!"
             ]
         },
         {
-            "text": "GRAN",
-            "size": 11,
-            "value": 23,
+            "text": "ERES",
+            "size": 14,
+            "value": 14,
             "ejemplos": [
-                "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
-                "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                "❤️🙏 GRACIAS MESSI ERES HISTORIA",
+                "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
             ]
         },
         {
-            "text": "ANDRES",
-            "size": 11,
-            "value": 23,
+            "text": "SELECCION",
+            "size": 14,
+            "value": 13,
             "ejemplos": [
-                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!",
-                "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
-            ]
-        },
-        {
-            "text": "LÓPEZ",
-            "size": 11,
-            "value": 22,
-            "ejemplos": [
-                "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
-            ]
-        },
-        {
-            "text": "PUEBLO",
-            "size": 11,
-            "value": 21,
-            "ejemplos": [
-                "Bendiciones para usted y su familia .\nGracias por el gran transformación que hizo y que aún sigue en México y para nosotros los del pueblo mexicano 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
-                "PRESIDENTE ADORADO AMLO POR SIEMPRE Y PARA SIEMPRE. LO MEJOR QUE LE HA SUCEDIDO A MÉXICO. INFINITAS GRACIAS POR SU AMOR Y APOYO AL PUEBLO MEXICANO. FELICIDADES POR SU LIBRO. ÉXITO!!",
-                "Gracias por compartirnos su sabiduría, exelente estratega, buena persona que en verdad ama al pueblo, siempre estará en nuestros corazones.\nSus libros deberían ser la base en las escuelas aprenderían a ser más patriotas y honestos\nVIVA ANDRES MANUEL LÓPEZ OBRADOR,‼️\n."
+                "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
             ]
         }
     ]

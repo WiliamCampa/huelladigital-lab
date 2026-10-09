@@ -1,202 +1,202 @@
 {
     "metadatos": {
         "fuente": "YouTube",
-        "url_analizada": "https://www.youtube.com/watch?v=mMbRNUnBtv0",
+        "url_analizada": "https://www.youtube.com/watch?v=ti6HuyoU0LA",
         "laboratorio": "HuellaDigital.Lab"
     },
     "estadisticas": {
-        "total_comentarios": 380,
-        "pct_positivo": 55.5,
-        "pct_negativo": 26.3,
-        "pct_neutro": 18.2
+        "total_comentarios": 350,
+        "pct_positivo": 46.0,
+        "pct_negativo": 31.1,
+        "pct_neutro": 22.9
     },
     "global": {
         "top_5": [
             {
-                "palabra": "PRESIDENTE",
-                "frecuencia": 109,
-                "porcentaje": 19.1,
+                "palabra": "MESSI",
+                "frecuencia": 115,
+                "porcentaje": 27.1,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
-                ]
-            },
-            {
-                "palabra": "MÉXICO",
-                "frecuencia": 67,
-                "porcentaje": 11.8,
-                "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
-                ]
-            },
-            {
-                "palabra": "AMLO",
-                "frecuencia": 48,
-                "porcentaje": 8.4,
-                "ejemplos": [
-                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                    "Adios mi presidente amlo desde carolina del norte",
-                    "From London 🇬🇧 we love you AMLO!"
+                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi"
                 ]
             },
             {
                 "palabra": "MEJOR",
-                "frecuencia": 45,
-                "porcentaje": 7.9,
+                "frecuencia": 41,
+                "porcentaje": 9.7,
                 "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "El mejor de todos ❤",
+                    "El mejor del mundo, grande Messi"
                 ]
             },
             {
-                "palabra": "USTED",
-                "frecuencia": 41,
-                "porcentaje": 7.2,
+                "palabra": "ARGENTINA",
+                "frecuencia": 38,
+                "porcentaje": 9.0,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹"
+                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍"
+                ]
+            },
+            {
+                "palabra": "FUTBOL",
+                "frecuencia": 33,
+                "porcentaje": 7.8,
+                "ejemplos": [
+                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                ]
+            },
+            {
+                "palabra": "MUNDO",
+                "frecuencia": 27,
+                "porcentaje": 6.4,
+                "ejemplos": [
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "PRESIDENTE",
-                "frecuencia": 109,
+                "palabra": "MESSI",
+                "frecuencia": 115,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
-                ]
-            },
-            {
-                "palabra": "MÉXICO",
-                "frecuencia": 67,
-                "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
-                ]
-            },
-            {
-                "palabra": "AMLO",
-                "frecuencia": 48,
-                "ejemplos": [
-                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                    "Adios mi presidente amlo desde carolina del norte",
-                    "From London 🇬🇧 we love you AMLO!"
+                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi"
                 ]
             },
             {
                 "palabra": "MEJOR",
-                "frecuencia": 45,
-                "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
-                ]
-            },
-            {
-                "palabra": "USTED",
                 "frecuencia": 41,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹"
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "El mejor de todos ❤",
+                    "El mejor del mundo, grande Messi"
                 ]
             },
             {
-                "palabra": "DIOS",
+                "palabra": "ARGENTINA",
                 "frecuencia": 38,
                 "ejemplos": [
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                    "Que bueno que salió a las camaras bendito Dios y bendita redes sociales porque los corruptos no pueden Aser más fraude físicamente",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍"
                 ]
             },
             {
-                "palabra": "OBRADOR",
-                "frecuencia": 29,
+                "palabra": "FUTBOL",
+                "frecuencia": 33,
                 "ejemplos": [
-                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
                 ]
             },
             {
-                "palabra": "NARCOPOLITICO",
+                "palabra": "MUNDO",
                 "frecuencia": 27,
                 "ejemplos": [
-                    "Gracias por el NARCOPOLITICO",
-                    "Gracias por el NARCOPOLITICO",
-                    "Gracias por el NARCOPOLITICO"
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤"
                 ]
             },
             {
-                "palabra": "MUCHO",
+                "palabra": "JUGADOR",
                 "frecuencia": 25,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                    "Mi gran PRESIDENTE,QUE GUSTO VOLVER A VERLO,LO QUEREMOS MUCHO"
+                    "Esun muy buen jugador, pero eso no es para que se idriolate. El hombre en el discurso sono humilde, las acciones dejaran sver si es que si es.",
+                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
+                    "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭"
+                ]
+            },
+            {
+                "palabra": "GRANDE",
+                "frecuencia": 22,
+                "ejemplos": [
+                    "SOS UN GRANDE MESSI!! \nPERO NO NOS MIENTAN....\nNO LO PUSIERON A LAUTARO...ENTRE TANTAS OTRAS, DIGAMOS: ...EXTRAÑAS DESICIONES!!...PERO EN FIN, GRACIAS POR TODO!! 🎉❤",
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "El mejor del mundo, grande Messi"
+                ]
+            },
+            {
+                "palabra": "JUGAR",
+                "frecuencia": 17,
+                "ejemplos": [
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "No entiendo por qué Messi no viene 1 o 2 años a jugar acá."
                 ]
             },
             {
                 "palabra": "HISTORIA",
-                "frecuencia": 25,
+                "frecuencia": 17,
                 "ejemplos": [
-                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤"
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
+                    "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia"
                 ]
             },
             {
-                "palabra": "ANDRES",
-                "frecuencia": 24,
+                "palabra": "DESDE",
+                "frecuencia": 16,
                 "ejemplos": [
-                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                    "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!",
-                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "Honor a quien honor merece! Con toda admiración desde México querido Leo Messi! Ejemplo mundial"
                 ]
             },
             {
-                "palabra": "BENDIGA",
-                "frecuencia": 24,
+                "palabra": "LIONEL",
+                "frecuencia": 16,
                 "ejemplos": [
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "Dios lo Bendiga ❤❤❤❤",
-                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
+                    "Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias y más Gracias por todo Lionel Andres Messi.",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
                 ]
             },
             {
-                "palabra": "GRAN",
-                "frecuencia": 23,
+                "palabra": "DIOS",
+                "frecuencia": 16,
                 "ejemplos": [
-                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                    "Gracias a Dios que ya no estará en los medio ese pesado , no lo soporto",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
+                    "Solo dios sabe el gran temor q yo tuve siempre porq no llegara este momento 😢😢"
                 ]
             },
             {
-                "palabra": "GUSTO",
-                "frecuencia": 23,
+                "palabra": "MUCHO",
+                "frecuencia": 14,
                 "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                    "Te queremos mucho Messi",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!"
                 ]
             },
             {
-                "palabra": "LÓPEZ",
-                "frecuencia": 22,
+                "palabra": "ERES",
+                "frecuencia": 14,
                 "ejemplos": [
-                    "MH,Andrés Manuel López Obrador ,compré por Amazon ,su libro GRACIAS/THANK-YOU ,...nunca me llegó (eso si Amazon ..ufff!,me devolvió el dinero)...Me dirijo a usted,desde la bella ciudad de Tarragona (Catalunya),en la costa este,del sur del continente europeo.Salud y larga vida para usted .",
-                    "🇩🇴🇩🇴🇩🇴🇩🇴UN DOMINICANO EN USA🇺🇸🇺🇸 SR. ANDRÉS M. LÓPEZ OBRADOR LA HISTORIA YA LO ENJUICIÓ Y EL VEREDICTO FUE QUE USTED PASARA A LA HISTORIA COMO EL PADRE DE LA 4ta TRANSFORMACIÓN DE MÉXICO Y COMO EL PADRE DE MILLONES DE MEXICANOS QUE SALIERON DE LA POBREZA GRACIAS A USTED🇮🇹MIS MÁS SINCEROS RESPECTO A USTED ME QUITÓ EL SOMBRERO ANTES SU PRESENCIA, AHORA ES DE LOS MEXICANOS MANTENER SU LEGADO🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹🇮🇹",
-                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+                ]
+            },
+            {
+                "palabra": "SELECCION",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
                 ]
             }
         ]
@@ -204,190 +204,190 @@
     "positivo": {
         "top_5": [
             {
-                "palabra": "PRESIDENTE",
-                "frecuencia": 91,
-                "porcentaje": 19.8,
+                "palabra": "MESSI",
+                "frecuencia": 75,
+                "porcentaje": 26.4,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
-                ]
-            },
-            {
-                "palabra": "MÉXICO",
-                "frecuencia": 46,
-                "porcentaje": 10.0,
-                "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                    "Llorando por tristeza, emoción y amor gracias Messi por darnos alegría, esperanza, fe y fuerza, lealtad y compromiso gracias por todo crack 🩵🇦🇷🩵",
+                    "Te queremos mucho Messi",
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
                 ]
             },
             {
                 "palabra": "MEJOR",
-                "frecuencia": 40,
-                "porcentaje": 8.7,
+                "frecuencia": 29,
+                "porcentaje": 10.2,
                 "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "El mejor de todos ❤",
+                    "El mejor del mundo, grande Messi"
                 ]
             },
             {
-                "palabra": "DIOS",
-                "frecuencia": 34,
-                "porcentaje": 7.4,
+                "palabra": "FUTBOL",
+                "frecuencia": 23,
+                "porcentaje": 8.1,
                 "ejemplos": [
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "Dios lo Bendiga ❤❤❤❤"
+                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
+                    "Cómo es la vida , recuerdo que no fue hace mucho que vi a Messi extrenarse en el barca y ahora se está despidiendo del fútbol , \nMuy buenos momentos compartimos viéndolo !!"
                 ]
             },
             {
-                "palabra": "AMLO",
-                "frecuencia": 32,
-                "porcentaje": 7.0,
+                "palabra": "ARGENTINA",
+                "frecuencia": 17,
+                "porcentaje": 6.0,
                 "ejemplos": [
-                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "!! VIVAN !!\n💚🤍❤️\nCSP\nAMLO\nUn fuerte abrazo \nMuchas Gracias"
+                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "Antes de Messi Argentina ya tenía dos del mundo y 14 de América. Segui envidiado que Argentina sigue ganando"
+                ]
+            },
+            {
+                "palabra": "JUGADOR",
+                "frecuencia": 17,
+                "porcentaje": 6.0,
+                "ejemplos": [
+                    "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭",
+                    "Gracias Messi yo soy peruana siempre donde tu jugabas yo era por ti Barcelona Argentina 🇦🇷 y maimi excellence por ser mejor jugador yo todos los demás te vamos extranar mucho abrazos y Que dios te bendiga mucho a ti toda tu familia 🫶🫶🫶🥇🥇🥇❤️❤️❤️🏆🏆🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷",
+                    "Felicidades Messi por ser tu buen jugador del fulbol por salir adelante con tus propias fuerzas  y tu sudor de tu frente  yo y todos te vamos a extranar gracias Messi 🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷❤️❤️❤️☀️☀️☀️🍀🍀🍀☘️☘️☘️☘️🦚🦚🦚🦚"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "PRESIDENTE",
-                "frecuencia": 91,
+                "palabra": "MESSI",
+                "frecuencia": 75,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\""
-                ]
-            },
-            {
-                "palabra": "MÉXICO",
-                "frecuencia": 46,
-                "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                    "Llorando por tristeza, emoción y amor gracias Messi por darnos alegría, esperanza, fe y fuerza, lealtad y compromiso gracias por todo crack 🩵🇦🇷🩵",
+                    "Te queremos mucho Messi",
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
                 ]
             },
             {
                 "palabra": "MEJOR",
-                "frecuencia": 40,
+                "frecuencia": 29,
                 "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "He aquí al mejor presidente que México tuvo, ni más ni menos.\"",
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes"
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "El mejor de todos ❤",
+                    "El mejor del mundo, grande Messi"
                 ]
             },
             {
-                "palabra": "DIOS",
-                "frecuencia": 34,
-                "ejemplos": [
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "Dios lo Bendiga ❤❤❤❤"
-                ]
-            },
-            {
-                "palabra": "AMLO",
-                "frecuencia": 32,
-                "ejemplos": [
-                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "!! VIVAN !!\n💚🤍❤️\nCSP\nAMLO\nUn fuerte abrazo \nMuchas Gracias"
-                ]
-            },
-            {
-                "palabra": "USTED",
-                "frecuencia": 28,
-                "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "Bendiciones para usted y su familia .\nGracias por el gran transformación que hizo y que aún sigue en México y para nosotros los del pueblo mexicano 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼",
-                    "Que gusto de ver a mi mejor presidente qué hemos tenido, que Dios lo llene de muchas bendiciones, gracias por enseñarme a confiar que todavía existen buenos seres humanos, gracias, gracias, gracias.\n\nQue Dios los bendigue a toda su familia.\nGracias por enseñarnos tantas historias de nuestra historia.\nSiempre estaré orgullosa de usted."
-                ]
-            },
-            {
-                "palabra": "BENDIGA",
-                "frecuencia": 24,
-                "ejemplos": [
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "Dios lo Bendiga ❤❤❤❤",
-                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤"
-                ]
-            },
-            {
-                "palabra": "GRAN",
+                "palabra": "FUTBOL",
                 "frecuencia": 23,
                 "ejemplos": [
-                    "Gran maestro de la política con justicia social. Ejemplar y digno de ser conocido un gobierno maravilloso. AMLO GRANDE. Nos enseña el valor del ejercicio democrático en la Política.",
-                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!"
+                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
+                    "Cómo es la vida , recuerdo que no fue hace mucho que vi a Messi extrenarse en el barca y ahora se está despidiendo del fútbol , \nMuy buenos momentos compartimos viéndolo !!"
                 ]
             },
             {
-                "palabra": "GUSTO",
-                "frecuencia": 22,
+                "palabra": "ARGENTINA",
+                "frecuencia": 17,
                 "ejemplos": [
-                    "Eres el mejor presidente que a tenido México un gusto verte",
-                    "Un gran honor y gusto verle señor!! 🎉🎉🎉y saber que se encuentra bien 🎉🎉🎉",
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "Antes de Messi Argentina ya tenía dos del mundo y 14 de América. Segui envidiado que Argentina sigue ganando"
+                ]
+            },
+            {
+                "palabra": "JUGADOR",
+                "frecuencia": 17,
+                "ejemplos": [
+                    "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭",
+                    "Gracias Messi yo soy peruana siempre donde tu jugabas yo era por ti Barcelona Argentina 🇦🇷 y maimi excellence por ser mejor jugador yo todos los demás te vamos extranar mucho abrazos y Que dios te bendiga mucho a ti toda tu familia 🫶🫶🫶🥇🥇🥇❤️❤️❤️🏆🏆🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷",
+                    "Felicidades Messi por ser tu buen jugador del fulbol por salir adelante con tus propias fuerzas  y tu sudor de tu frente  yo y todos te vamos a extranar gracias Messi 🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷❤️❤️❤️☀️☀️☀️🍀🍀🍀☘️☘️☘️☘️🦚🦚🦚🦚"
+                ]
+            },
+            {
+                "palabra": "MUNDO",
+                "frecuencia": 16,
+                "ejemplos": [
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "El mejor del mundo, grande Messi"
+                ]
+            },
+            {
+                "palabra": "GRANDE",
+                "frecuencia": 15,
+                "ejemplos": [
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "El mejor del mundo, grande Messi",
+                    "GRANDE MESSI"
+                ]
+            },
+            {
+                "palabra": "DESDE",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "Honor a quien honor merece! Con toda admiración desde México querido Leo Messi! Ejemplo mundial"
+                ]
+            },
+            {
+                "palabra": "ERES",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
+                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
                 ]
             },
             {
                 "palabra": "HISTORIA",
-                "frecuencia": 22,
+                "frecuencia": 14,
                 "ejemplos": [
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
-                    "Mi presidente querido, me alegra verlo tan bien tan tranquilo. \nNo nos abandone tanto,.\n hermoso lugar, gracias por ayudar a nuestro pais,  siempre aprendo historia con Ud, es grato escucharlo.\nY compraré su bello libro.\nQue Dios lo Bendiga enormemente  mi querido presidente  AMLO ❤",
-                    "El mejor presidente de la historia"
+                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
+                    "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia",
+                    "Yo lo ví al Diego me hizo llorar a mis 8 años en el 86 perobesye tipo nos dió 20 años de pura magia gracias Dios por darnos estos angeles y seguro vendrá otro para aguantar la historia de este deporte Gracias Lionel gracia ...totales !!!"
                 ]
             },
             {
-                "palabra": "OBRADOR",
-                "frecuencia": 21,
+                "palabra": "LIONEL",
+                "frecuencia": 12,
                 "ejemplos": [
-                    "Con obrador empezó la historia el mejor presidente q tenemos y en nuestros corazones seguirá siendo el mejor de los q nos gobernaron antes",
-                    "Regrese aunque sea aqui en youtube porque verlo nos da fuerza y nos pone feliz. Dios bendiga grandemente a mi Presidente Andres Manuel Lopez Obrador ❤",
-                    "Un placer y una alegría verlo de nuevo al mejor PRESIDENTE de México Andrés Manuel López Obrador. Qué se conserve siempre sano con la bendición de DIOS.\nViva AMLO y la 4ta transformación de México !!!!!! Y su digna heredera la\n Doctora CLAUDIA SHEINBAUN PARDO !!!!!!"
+                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
+                    "Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias y más Gracias por todo Lionel Andres Messi.",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
                 ]
             },
             {
-                "palabra": "VERLO",
-                "frecuencia": 20,
+                "palabra": "DIOS",
+                "frecuencia": 12,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!",
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤"
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
+                    "Yo lo ví al Diego me hizo llorar a mis 8 años en el 86 perobesye tipo nos dió 20 años de pura magia gracias Dios por darnos estos angeles y seguro vendrá otro para aguantar la historia de este deporte Gracias Lionel gracia ...totales !!!",
+                    "Gracias Messi yo soy peruana siempre donde tu jugabas yo era por ti Barcelona Argentina 🇦🇷 y maimi excellence por ser mejor jugador yo todos los demás te vamos extranar mucho abrazos y Que dios te bendiga mucho a ti toda tu familia 🫶🫶🫶🥇🥇🥇❤️❤️❤️🏆🏆🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷"
                 ]
             },
             {
                 "palabra": "MUCHO",
-                "frecuencia": 20,
+                "frecuencia": 9,
                 "ejemplos": [
-                    "Quien diría que nuestro Sr Presidente a pesar de todo siga dando de que hablar y de que sea tan importante como para mover aguas profundas!\n\nRecuerdo como yo de niño mi abuelitaa me llevaba a verlo en el zócalo, y como siempre tuvo ese espíritu de lucha y a pesar de todo, jamás se rindió....\n\n\nNo hay mas claro ejemplo de que quien persevera alcanza el no vio para atrás el no desistió el sigue con la frente en alto!\n\nFue muy bonito ver como una sola persona reunida a todo un país cansado de 30 años siempre estando estancados...\n\nFue bonito ver como su victoria reunió a tantos Mexicanos que hasta parecía la celebración del Mundial de este 2026.\n\n\nGracias TOCAYO \nTodo el pueblo lo quiere mucho!!!!\nUsted",
-                    "MUCHO GUSTO VERLO Y SABER QUE ESTA BIEN,GRACIAS POR TODO QUE DIOS LO CUIDE SIEMPRE UN SALUDO A BEATRIZ❤❤",
-                    "Mi gran PRESIDENTE,QUE GUSTO VOLVER A VERLO,LO QUEREMOS MUCHO"
+                    "Te queremos mucho Messi",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
                 ]
             },
             {
-                "palabra": "VIDA",
-                "frecuencia": 19,
+                "palabra": "JUGAR",
+                "frecuencia": 9,
                 "ejemplos": [
-                    "Mi querido Andrés Manuel, siempre estás tan vigente en nuestra vida cotidiana.,!!! Es muy grato verte siempre vestido de honra, dignidad, generosidad y amor. Un abrazo  con Mucho amor!!",
-                    "Gracias Presidente Libertador UD es el transformador de muchos que sufrían de miseria Larga vida AMLO, le amamos le apreciamos bendiciones Presidente",
-                    "Gracias  AMLO  por usted seguimos  en la lucha de xuidar el movimiento  de transformación. \nEn cuanto salga el libro lo compraré \nLe envío un gran abrazo con todo mi agradecimiento  y cariño de seguirlo más de la mitad de mi vida ."
+                    "Los quiero mucho no puedo dejar que se vaya Messi él fue mi ídolo desde mi infancia cuando lo vi jugar en 2018 yo quería ser como él un gran jugador muy bonito",
+                    "primeramente felicidades Dios te vendiga que siempre sacaste adelante à Argentina  gracias por los momentos felines que pasamos al verte  jugar",
+                    "Gracias Messi, por todo. Tú me inspiraste a jugar fútbol tú eras mi ídolo para siempre"
                 ]
             },
             {
-                "palabra": "BENDICIONES",
-                "frecuencia": 18,
+                "palabra": "TODA",
+                "frecuencia": 8,
                 "ejemplos": [
-                    "Que felicidad verlo bien, escribiendo sobre nuestro gran país, gracias por amarlo y protegerlo contra esos neoliberales que dicen amar a México pero en realidad lo odian son falsos doble cara, gracias por abrir los ojos de Millones.. BENDICIONES QUERIDO PRESIDENTE!",
-                    "Que alegria y que gusto escucharlo , es un gran privilegio, michas bendiciones ❤😊",
-                    "Bendiciones para usted y su familia .\nGracias por el gran transformación que hizo y que aún sigue en México y para nosotros los del pueblo mexicano 👏🏼👏🏼👏🏼👏🏼👏🏼👏🏼"
+                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
+                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
+                    "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia"
                 ]
             }
         ]
@@ -395,190 +395,190 @@
     "negativo": {
         "top_5": [
             {
-                "palabra": "NARCOPOLITICO",
-                "frecuencia": 27,
-                "porcentaje": 20.1,
+                "palabra": "MESSI",
+                "frecuencia": 31,
+                "porcentaje": 24.6,
                 "ejemplos": [
-                    "Gracias por el NARCOPOLITICO",
-                    "Gracias por el NARCOPOLITICO",
-                    "Gracias por el NARCOPOLITICO"
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi",
+                    "Messi no te vayas por favor no te vayas 😢😢😢😢"
                 ]
             },
             {
-                "palabra": "MÉXICO",
-                "frecuencia": 16,
-                "porcentaje": 11.9,
+                "palabra": "ARGENTINA",
+                "frecuencia": 12,
+                "porcentaje": 9.5,
                 "ejemplos": [
-                    "Dosmil  ceis fui a mexico por mi madre muy grave y queue  porque abia elections y mi viejo estaba luchando por la presidential lo segui en dos  tempos Oaxaca y veracruz  pero perdimos",
-                    "53:26 \n¿QUE?\nQuiere decir que en México son 500mil, y en USA 70mil? \nEntoces vamos en decadencia, No diga mentiras 😂",
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal..."
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
                 ]
             },
             {
-                "palabra": "PRESIDENTE",
-                "frecuencia": 13,
-                "porcentaje": 9.7,
+                "palabra": "SELECCION",
+                "frecuencia": 10,
+                "porcentaje": 7.9,
                 "ejemplos": [
-                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\"."
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Quien quiere ver mal la selección?",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
                 ]
             },
             {
-                "palabra": "GOBIERNO",
+                "palabra": "FUTBOL",
                 "frecuencia": 9,
-                "porcentaje": 6.7,
+                "porcentaje": 7.1,
                 "ejemplos": [
-                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Y porque no declara de toda la corrupción que arrastra su partido, sus hijos y todos los crímenes inhumanos que se han permitido durante su gobierno y el actual, MALDITOS CORRUPTOS"
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "Toda latinoamerica y gran part del mundo le tiene envidia a Argentina en fútbol"
                 ]
             },
             {
-                "palabra": "USTED",
-                "frecuencia": 9,
-                "porcentaje": 6.7,
+                "palabra": "MUNDIAL",
+                "frecuencia": 8,
+                "porcentaje": 6.3,
                 "ejemplos": [
-                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
-                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
-                    "Estimado Sr.Expresidente debo expresarle la frustracion y preocupacion del pueblo chihuahuense al ser robado y mentido por dos personas indignas de pertenecer a la 4T Citlali Hernandez y Arianna Montiel porque es bien sabido que Perez Cuellar manejo su campaña de manera deshonesta derrochando en propaganda y desapareciendo la de Andrea Chavez que se manejo de manera austera,ademas se utilizo al personal del bienestar para manipular a la poblacion en favor de Perez Cuellar,por otra parte una de las encuestad telefonicas de EL fue enmañada de tal manera que si no la analizabas bien de inmediato lo favorecia. Que detestable que estas mujeres esten hechando por la borda la lucha que a usted tanto le costo."
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Ya no va ganar nada argentina XK ya no está mesi con Argentina ya le dio un mundial la fifa.gracias FIFA x darle todo a mesi.."
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "NARCOPOLITICO",
-                "frecuencia": 27,
+                "palabra": "MESSI",
+                "frecuencia": 31,
                 "ejemplos": [
-                    "Gracias por el NARCOPOLITICO",
-                    "Gracias por el NARCOPOLITICO",
-                    "Gracias por el NARCOPOLITICO"
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi",
+                    "Messi no te vayas por favor no te vayas 😢😢😢😢"
                 ]
             },
             {
-                "palabra": "MÉXICO",
-                "frecuencia": 16,
+                "palabra": "ARGENTINA",
+                "frecuencia": 12,
                 "ejemplos": [
-                    "Dosmil  ceis fui a mexico por mi madre muy grave y queue  porque abia elections y mi viejo estaba luchando por la presidential lo segui en dos  tempos Oaxaca y veracruz  pero perdimos",
-                    "53:26 \n¿QUE?\nQuiere decir que en México son 500mil, y en USA 70mil? \nEntoces vamos en decadencia, No diga mentiras 😂",
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal..."
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
                 ]
             },
             {
-                "palabra": "PRESIDENTE",
-                "frecuencia": 13,
+                "palabra": "SELECCION",
+                "frecuencia": 10,
                 "ejemplos": [
-                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\"."
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Quien quiere ver mal la selección?",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
                 ]
             },
             {
-                "palabra": "GOBIERNO",
+                "palabra": "FUTBOL",
                 "frecuencia": 9,
                 "ejemplos": [
-                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Y porque no declara de toda la corrupción que arrastra su partido, sus hijos y todos los crímenes inhumanos que se han permitido durante su gobierno y el actual, MALDITOS CORRUPTOS"
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "Toda latinoamerica y gran part del mundo le tiene envidia a Argentina en fútbol"
                 ]
             },
             {
-                "palabra": "USTED",
-                "frecuencia": 9,
-                "ejemplos": [
-                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
-                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota",
-                    "Estimado Sr.Expresidente debo expresarle la frustracion y preocupacion del pueblo chihuahuense al ser robado y mentido por dos personas indignas de pertenecer a la 4T Citlali Hernandez y Arianna Montiel porque es bien sabido que Perez Cuellar manejo su campaña de manera deshonesta derrochando en propaganda y desapareciendo la de Andrea Chavez que se manejo de manera austera,ademas se utilizo al personal del bienestar para manipular a la poblacion en favor de Perez Cuellar,por otra parte una de las encuestad telefonicas de EL fue enmañada de tal manera que si no la analizabas bien de inmediato lo favorecia. Que detestable que estas mujeres esten hechando por la borda la lucha que a usted tanto le costo."
-                ]
-            },
-            {
-                "palabra": "MORENA",
+                "palabra": "MUNDIAL",
                 "frecuencia": 8,
                 "ejemplos": [
-                    "Nadie niega su buen gobierno pero no puede negar que dejo que sus hijos se dedicará a ganar dinero en contratos al amparo del gobierno. Por otro lado dejo que robara en Segalmex su amigo Ignacio Ovalle y por desgracia sus buenas acciones se vieron manchadas por la impunidad que prevalece en Morena. Se asevera que de las prerrogativas que recibió Morena Usted las repartió entre sus hijos que no hacían nada. La Chocolatería Rocio fue una fachada para no sospechar de los abusos de sus hijos.",
-                    "HACEN MUCHA FALTA SUS DISCURSOS, PARA REFORZAR EL NACIONALISMO. MORENA SE ESTÁ DESVIANDO.",
-                    "Lo seguimos necesitando por favor RELIGASE porque esto no se acaba hasta que se acaba . Los prianistas no solo son ratas son traidores y siguen Ahi en primera fila ya hasta Morena va ahi con Doriga yasi como los sacamos. Regrese porfavor❤"
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Ya no va ganar nada argentina XK ya no está mesi con Argentina ya le dio un mundial la fifa.gracias FIFA x darle todo a mesi.."
                 ]
             },
             {
-                "palabra": "AMLO",
-                "frecuencia": 8,
-                "ejemplos": [
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Viva Amlo, aunque le arda a los bots",
-                    "AMLO,... Prepárate para el Regreso,....para acabar de Sepultar al PRIAN.🥁💤💤.    🇲🇽🌴"
-                ]
-            },
-            {
-                "palabra": "FAVOR",
+                "palabra": "JUGAR",
                 "frecuencia": 7,
                 "ejemplos": [
-                    "Lo extrañamos, vuelve, por favor mi presi",
-                    "Lo seguimos necesitando por favor RELIGASE porque esto no se acaba hasta que se acaba . Los prianistas no solo son ratas son traidores y siguen Ahi en primera fila ya hasta Morena va ahi con Doriga yasi como los sacamos. Regrese porfavor❤",
-                    "Señor presidente,no me importa que tenga usted en sus manos,sea rico o lo que tenga, usteded fue el mejor presidente de México,por favor no nos deje solos , Claudia nos está fallando,,no queremos a Israel ni que nos pase lo de Palestina,muchos sabemos que poco a poco no se siente pero si siente cuando es uno patriota"
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "No entiendo por qué Messi no viene 1 o 2 años a jugar acá."
                 ]
             },
             {
-                "palabra": "VIEJO",
+                "palabra": "SERA",
+                "frecuencia": 7,
+                "ejemplos": [
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "Por fin arjenfifa no será nada, hasta nunca pecho frío pessi",
+                    "20 años con Argentina merecen respeto, pero esta no es la despedida de Messi del fútbol, tiene contrato con Inter Miami hasta 2028 y todavía queda tiempo para verlo jugar y marcar goles. Como excapitán de la Selección Argentina, también debe asumir las consecuencias, en el Mundial lo dio todo, pero no siempre estuvo al nivel que exigía una final. Su ciclo con Argentina termina, su carrera todavía no. El verdadero adiós será cuando cuelgue los botines."
+                ]
+            },
+            {
+                "palabra": "LLORANDO",
                 "frecuencia": 6,
                 "ejemplos": [
-                    "Dosmil  ceis fui a mexico por mi madre muy grave y queue  porque abia elections y mi viejo estaba luchando por la presidential lo segui en dos  tempos Oaxaca y veracruz  pero perdimos",
-                    "Se mira que no vive muy austero viejo mentirosa yo le crei y me decepciono resulto mas corrupto que los de antes y sus hijos unos huevones y ya millonarios pero hay le va trump",
-                    "Exacto!! Es un viejo mitómano!! Vean el estudio que hubo al respecto!! De 80 a 88 mentiras en cada mañanera.... Por qué yo... Si tengo otros datos!!"
+                    "Muchas gracias Messi Adiós capitán te voy a extrañar ya estoy llorando",
+                    "Creo que me entro una basurita en el ojo , corte cebolla , no me alcanzan las excusas ya esta dos dias llorando ,😢gracias capitan lpm !! Ejemplo dejaste a los pibes armaste y contagiaste humildad capitan a los pibes que crecieron y te vieron jugar!!",
+                    "Veo el video después de ayer y sigo llorando como nene chiquito"
                 ]
             },
             {
-                "palabra": "HUACHICOL",
+                "palabra": "GRANDE",
                 "frecuencia": 6,
                 "ejemplos": [
-                    "Señor expresidente en su libro nos va a explicar el desfalco del huachicol fiscal? Nos cuenta de SEGALMEX? SUPONGO QUE EXPLICA TODOS Los fraudes y lavado de dinero del banco del BIENESTAR y los negocios del bienestar?  Espero con ansias el libro en el que expliqué todo el puerquero de su gobierno!",
-                    "Pues siiiiiii.... Ya viste cuántos millones de desfalco hubo del huachicol fiscal? Cómo no?",
-                    "Ojalá alguien se levantara así contra todos ustedes mentirosos. Saludos desde Tamaulipas donde el cobro de piso es tan descarado como tus cientos de pipas de huachicol que transitan a diario por aqui"
+                    "SOS UN GRANDE MESSI!! \nPERO NO NOS MIENTAN....\nNO LO PUSIERON A LAUTARO...ENTRE TANTAS OTRAS, DIGAMOS: ...EXTRAÑAS DESICIONES!!...PERO EN FIN, GRACIAS POR TODO!! 🎉❤",
+                    "Gracias totales messi!!!! Te vamos a extrañar muchisimo!!! Nunca olvidaremos tus jugadas y tus goles grande messi 😢💙",
+                    "soy yo el unico que piensa esto? o me parese que hubieran podido hacer algo mucho mejor para leo, empezando por el rival,, y los demas festejos me parecieron muy poco,, pense  que iba a ser algo mas emotivo... al mejor jugador de la historia tenian que haberle hecho algo mas grande"
                 ]
             },
             {
-                "palabra": "BUENO",
-                "frecuencia": 5,
+                "palabra": "NUNCA",
+                "frecuencia": 6,
                 "ejemplos": [
-                    "Que bueno que salió a las camaras bendito Dios y bendita redes sociales porque los corruptos no pueden Aser más fraude físicamente",
-                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
-                    "Bueno mentiras no dijo, lo de la familia unida y con valores es un cimiento fuerte para que los jóvenes no consuman sustancias, y muchas cosas más que dijo, y desgraciadamente la corrupción todavía sigue, éso creo que está difícil erradicarla. Lo único que en lo personal no me gusta de éste periodo del gobierno es que se están haciendo muchas leyes feministas y que en lugar de que se busque igualdad de género lo único que están provocando es más odio a las mujeres, porque muchas de esas leyes ponen en desventaja a los hombres y ahora a los propios niños, como por ejemplo los concursos académicos que están poniendo como regla 50 % niños y 50% o más de niñas qué queden registrados como participantes y ganadores, entonces ahí ya tienen desventaja los niños ya que si 100 niños participan, 50 niñas y 50 niños y los más altos puntajes fueron 30 niños y después 20 niñas y tienen que ganar 10 entonces eligen 5 y 5 cuándo se supone que los 10 primeros lugares lo lograron niños."
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
+                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
+                    "Por fin arjenfifa no será nada, hasta nunca pecho frío pessi"
                 ]
             },
             {
-                "palabra": "DEMAS",
-                "frecuencia": 5,
+                "palabra": "JUGADOR",
+                "frecuencia": 6,
                 "ejemplos": [
-                    "No te fuiste para Europa ? Asi como todos los demás ex- presidentes",
-                    "Debería de darle vergüenza al decir que la corrupción y el huachicol acabó, cuándo fué su familia que privatizó ambas cosas con el huachicol fiscal. Además de qué su gobierno pactó con grupos criminales. Morena es solo la cúspide de la política grotesca que tiene México, y la base es y han sido el resto de los demás partidos políticos. La política mexicana es el peor de los carteles que tiene controlado este país 💩.",
-                    "Grácias AMLO,...los demás Presidentes  Conservadores  sólo han Recibido Puras Mentadas de Madre,...😩👀...VIVA. MEXICO🇲🇽🌴"
+                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
+                    "Aunke caiga gordo y argentina tambien no cabe duda que  fue un verdadero jugador se acaba una era , una epoca se va mesii se va la cabra 🐐 cristiano a ver quien llega a tomar esos lugares bye segundon  aunke te regalaron todo y tuviste un buen padrino fifantino también se acaba esa era de ratas 🐀  ya verán de aqui en adelante no será lo mismo fifantino fuera de su cargo no mas argentina una selección de pura corrupción  😂😂😂 1,2 3 llorones presentense 😂😂😂",
+                    "Lionel Andrés Messi Cuccitini lo voy a extrañar 😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😊😢😢😢😢😢😢😢😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😢😢😢😔👋\n\n\n\n\n\n\nBye leo😭😭👋😔😔😔😔😔\n\n\nJugador 10 eliminado 😢"
                 ]
             },
             {
-                "palabra": "PAÍS",
+                "palabra": "EXTRANAR",
                 "frecuencia": 5,
                 "ejemplos": [
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
-                    "Debería de darle vergüenza al decir que la corrupción y el huachicol acabó, cuándo fué su familia que privatizó ambas cosas con el huachicol fiscal. Además de qué su gobierno pactó con grupos criminales. Morena es solo la cúspide de la política grotesca que tiene México, y la base es y han sido el resto de los demás partidos políticos. La política mexicana es el peor de los carteles que tiene controlado este país 💩."
+                    "Muchas gracias Messi Adiós capitán te voy a extrañar ya estoy llorando",
+                    "te voy a extrañar messi gracias por todo y que nos diste alegría con tus penales❤❤❤😢😢",
+                    "Gracias totales messi!!!! Te vamos a extrañar muchisimo!!! Nunca olvidaremos tus jugadas y tus goles grande messi 😢💙"
                 ]
             },
             {
-                "palabra": "SIGUE",
+                "palabra": "MEJOR",
                 "frecuencia": 5,
                 "ejemplos": [
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
-                    "Bueno mentiras no dijo, lo de la familia unida y con valores es un cimiento fuerte para que los jóvenes no consuman sustancias, y muchas cosas más que dijo, y desgraciadamente la corrupción todavía sigue, éso creo que está difícil erradicarla. Lo único que en lo personal no me gusta de éste periodo del gobierno es que se están haciendo muchas leyes feministas y que en lugar de que se busque igualdad de género lo único que están provocando es más odio a las mujeres, porque muchas de esas leyes ponen en desventaja a los hombres y ahora a los propios niños, como por ejemplo los concursos académicos que están poniendo como regla 50 % niños y 50% o más de niñas qué queden registrados como participantes y ganadores, entonces ahí ya tienen desventaja los niños ya que si 100 niños participan, 50 niñas y 50 niños y los más altos puntajes fueron 30 niños y después 20 niñas y tienen que ganar 10 entonces eligen 5 y 5 cuándo se supone que los 10 primeros lugares lo lograron niños."
+                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
+                    "se va el mejor del mundo",
+                    "soy yo el unico que piensa esto? o me parese que hubieran podido hacer algo mucho mejor para leo, empezando por el rival,, y los demas festejos me parecieron muy poco,, pense  que iba a ser algo mas emotivo... al mejor jugador de la historia tenian que haberle hecho algo mas grande"
                 ]
             },
             {
-                "palabra": "DESDE",
-                "frecuencia": 5,
+                "palabra": "FINAL",
+                "frecuencia": 4,
                 "ejemplos": [
-                    "Resplandores de Historia y apariciones Ad hoc de AMLO\n(@infoCatorcemx esperemos no censura por texto como ya lo tuvo un texto bromista y uno de disculpa... tonta).\n\nDícese que el sentido político es altamente demandante de ocupar lo que el Poder busca retener. Las reparaciones de AMLO ya se han vuelto copiosas y lo han sido por premura, por necesidad y por demanda. La Delfin de AMLO parece a veces no llevar con suficiencia el timón y otras parece hacer agua. El pretexto de 3 Libros ha coincidido en dos con el estancamiento de Sheimbaum en la preferencia y en la satisfacción publica. Sea esta opinión con 67% en su segundo año un % que debería estar al alza precisamente por ser el segundo año. \n\nMás allá de los resultados de Sheimbaum y de que parece ser el Kit de su gobierno el inagurar obras e inversiones, el gobierno se ha entrampado en la cuestión policial insatisfecha en todo el país y de que esa voluntad hace ya una Segunda Guerra vs Narco que absorbe el 80% de la gestión de gobierno. \n\nEntonces aparece AMLO concordante con todo y queremos pensar como principal asesor del rumbo Shaumbinista. No cacique, no hombre fuerte, no maximato rezó el Expresidente pero aparece por tercera vez; el libro un ejercicio más discursivo. \n\nEntonces si tiene que aparecer para refrendar el rumbo correcto de la historia y de paso de la gestión de Sheimbaum. Pero no aparece sólo para respaldar o soportar a la Presidencia de Sheimbaum, aparece para tirar riendas en todo MORENA. \n\nEs un refresh o recarga del partido y de fortificar lo que podría ya empezar a desgastar y recordar también que Andrés sigue aquí muy presente y muy observador de la conducta no sólo para la Presidencia sino para todos los gobiernos locales y municipales que no puede controlar o dirigir la Presidencia. \n\nUn discurso como el del día 30 de Septiembre, tan largo como reiterativo no hace sino advertir a propios que es muy poco lo que ha avanzado la 4T en todo el país y que con guerra versión II y con rasgos de descuido el respaldo público no ha crecido mucho en el resto de la República. \n\nTodo el contenido de la hora y veinte minutos de su discurso no hace sino volver a recordar la raíz, la radical inicial de un Movimiento que debe obedecer y tener presente los valores y la ética de AMLO reinagurada en este nuevo tomo histórico. Pero también sirve de carnada esperanzadora para las Huestes de Obradoristas, público en general y partidarios a no distraerse o recomponer la ruta y las demandas que deben seguir solicitando. \n\nEl tono afable y la postura no hace sino reconocer que no una crisis pero la aparición si es preocupación del Ex que desde la finca no puede sino reforzar su movimiento por el liderazgo que lo obliga a no desentender lo que se está ejerciendo en el Poder. \n\nQuiero pensar que si hay preocupación en el Presidente y que la presidencia actual no está mostrando suficiente fibra para entusiasmar y hacer el recorrido faltante algo despreocúpante... por ello tiene que reaparecer inocentemente para no fortalecer a la caida oposición desarmada. \n\nEsta guerra interna y obediencia ciega a Trump tiene que terminar y dejar el país y a la fuerza armada indistinta descansar de ese desgaste que parece ocupar todas las noticias desde hace varias semanas y meses. \n\nQuién sabe si la guerra carnicera deba terminar y mostrar un poco de Soberanía de México para no seguir con la servidumbre a los dictados del sr. vecino de eu y su nivel tan retrógrado como estúpido de inventar todos los días una acusación y ataque a la supuesta postración del gobierno de México a los Carteles. \n\nFinalmente, México y Sheimbaum han comprado esta argucias reprochativa para aumentar una guerra que le sale gratis al vecino del norte... pero que es guerra con patrocinio y aplauso a favor del mandatario anaranjado. \n\nHasta aquí vamos y más no se ve que vaya avanzar este gobierno y su asesor dar otra orientación con su aparición fantasmal...",
-                    "Ah, ya decía yo...\nHe estado buscando a los burros que se me perdieron dando clases.\n¡Ya los encontré! En los comentarios alabando al EX presidente que dejó al país con mayor inflación desde el 2000.\n\n¡Qué bueno que sigan rebuznando como siempre!\n\nPor personas como ustedes, sigue vigente el dicho: \"Al pueblo, pan y circo\".",
-                    "Ojalá alguien se levantara así contra todos ustedes mentirosos. Saludos desde Tamaulipas donde el cobro de piso es tan descarado como tus cientos de pipas de huachicol que transitan a diario por aqui"
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                ]
+            },
+            {
+                "palabra": "PARTIDO",
+                "frecuencia": 4,
+                "ejemplos": [
+                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
+                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
+                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
                 ]
             }
         ]
