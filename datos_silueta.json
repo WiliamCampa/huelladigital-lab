@@ -1,202 +1,202 @@
 {
     "metadatos": {
         "fuente": "YouTube",
-        "url_analizada": "https://www.youtube.com/watch?v=ti6HuyoU0LA",
+        "url_analizada": "https://www.youtube.com/watch?v=ZTcqu224vHw",
         "laboratorio": "HuellaDigital.Lab"
     },
     "estadisticas": {
-        "total_comentarios": 350,
-        "pct_positivo": 46.0,
-        "pct_negativo": 31.1,
-        "pct_neutro": 22.9
+        "total_comentarios": 996,
+        "pct_positivo": 41.2,
+        "pct_negativo": 25.5,
+        "pct_neutro": 33.3
     },
     "global": {
         "top_5": [
             {
-                "palabra": "MESSI",
-                "frecuencia": 115,
-                "porcentaje": 27.1,
+                "palabra": "TIGRES",
+                "frecuencia": 144,
+                "porcentaje": 15.0,
                 "ejemplos": [
-                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Ya diganlo como es, eliminaron ese discurso por quedar bien, así como ahorita lo están devolviendo solo para quedar bien pero sin aceptar que fue CENSURA. Si ya van a lucrar con la imagen de Los Tigres al menos tengan la vergüenza o agradecimiento paro dejar difundir su mensaje.",
+                    "Vamos que vamos.\n\n\nGrandes los tigres."
                 ]
             },
             {
-                "palabra": "MEJOR",
-                "frecuencia": 41,
+                "palabra": "NORTE",
+                "frecuencia": 113,
+                "porcentaje": 11.8,
+                "ejemplos": [
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "arriba los tigres del norte y viva México!!!",
+                    "Escuchando a Los Tigres del Norte desde mi infancia, ustedes llenaron mi vida de momentos lindos en familia, volverlos a escuchar me llena de nostalgia.\nAguante Los Tigres del Norte y aguante para nuestros hermanos migrantes y todo mexicano en el mundo!"
+                ]
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 111,
+                "porcentaje": 11.6,
+                "ejemplos": [
+                    "No somos ilegales en tierras robadas viva  México 🇲🇽🇲🇽",
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽"
+                ]
+            },
+            {
+                "palabra": "VIVA",
+                "frecuencia": 93,
                 "porcentaje": 9.7,
                 "ejemplos": [
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "El mejor de todos ❤",
-                    "El mejor del mundo, grande Messi"
+                    "It doesn't matter if you do not \"typically publish introductions\" THIS ONE MUST BE ON THE VIDEO.  BECAUSE IS THE TRUTH AND THE TRUTH DESERVES TO BE SHARED. Viva Latinoamérica!!!!!",
+                    "No somos ilegales en tierras robadas viva  México 🇲🇽🇲🇽",
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽"
                 ]
             },
             {
-                "palabra": "ARGENTINA",
-                "frecuencia": 38,
-                "porcentaje": 9.0,
+                "palabra": "TINY",
+                "frecuencia": 63,
+                "porcentaje": 6.6,
                 "ejemplos": [
-                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍"
-                ]
-            },
-            {
-                "palabra": "FUTBOL",
-                "frecuencia": 33,
-                "porcentaje": 7.8,
-                "ejemplos": [
-                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
-                ]
-            },
-            {
-                "palabra": "MUNDO",
-                "frecuencia": 27,
-                "porcentaje": 6.4,
-                "ejemplos": [
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤"
+                    "As our longtime fans of Tiny Desk know, we don’t typically publish introductions for our concerts. We’ve restored the full introduction on NPR.org and here on YouTube after temporarily removing it for editorial review, acknowledging the topic shared is emotional and complex and something many listeners and newsroom staff are grappling with.",
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Fue lo correcto. Gracias NPR Tiny Desk"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "MESSI",
-                "frecuencia": 115,
+                "palabra": "TIGRES",
+                "frecuencia": 144,
                 "ejemplos": [
-                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Ya diganlo como es, eliminaron ese discurso por quedar bien, así como ahorita lo están devolviendo solo para quedar bien pero sin aceptar que fue CENSURA. Si ya van a lucrar con la imagen de Los Tigres al menos tengan la vergüenza o agradecimiento paro dejar difundir su mensaje.",
+                    "Vamos que vamos.\n\n\nGrandes los tigres."
                 ]
             },
             {
-                "palabra": "MEJOR",
-                "frecuencia": 41,
+                "palabra": "NORTE",
+                "frecuencia": 113,
                 "ejemplos": [
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "El mejor de todos ❤",
-                    "El mejor del mundo, grande Messi"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "arriba los tigres del norte y viva México!!!",
+                    "Escuchando a Los Tigres del Norte desde mi infancia, ustedes llenaron mi vida de momentos lindos en familia, volverlos a escuchar me llena de nostalgia.\nAguante Los Tigres del Norte y aguante para nuestros hermanos migrantes y todo mexicano en el mundo!"
                 ]
             },
             {
-                "palabra": "ARGENTINA",
-                "frecuencia": 38,
+                "palabra": "MÉXICO",
+                "frecuencia": 111,
                 "ejemplos": [
-                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍"
+                    "No somos ilegales en tierras robadas viva  México 🇲🇽🇲🇽",
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽"
                 ]
             },
             {
-                "palabra": "FUTBOL",
-                "frecuencia": 33,
+                "palabra": "VIVA",
+                "frecuencia": 93,
                 "ejemplos": [
-                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                    "It doesn't matter if you do not \"typically publish introductions\" THIS ONE MUST BE ON THE VIDEO.  BECAUSE IS THE TRUTH AND THE TRUTH DESERVES TO BE SHARED. Viva Latinoamérica!!!!!",
+                    "No somos ilegales en tierras robadas viva  México 🇲🇽🇲🇽",
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽"
                 ]
             },
             {
-                "palabra": "MUNDO",
-                "frecuencia": 27,
+                "palabra": "TINY",
+                "frecuencia": 63,
                 "ejemplos": [
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤"
+                    "As our longtime fans of Tiny Desk know, we don’t typically publish introductions for our concerts. We’ve restored the full introduction on NPR.org and here on YouTube after temporarily removing it for editorial review, acknowledging the topic shared is emotional and complex and something many listeners and newsroom staff are grappling with.",
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Fue lo correcto. Gracias NPR Tiny Desk"
                 ]
             },
             {
-                "palabra": "JUGADOR",
-                "frecuencia": 25,
+                "palabra": "BACK",
+                "frecuencia": 55,
                 "ejemplos": [
-                    "Esun muy buen jugador, pero eso no es para que se idriolate. El hombre en el discurso sono humilde, las acciones dejaran sver si es que si es.",
-                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
-                    "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭"
+                    "Should have never been deleted in the first place but I'm grateful Felix's speech is back!",
+                    "And now, go and check on your new audience numbers and feel the love that the great hispanic community will deliver as pay back for doing the right thing !",
+                    "The decision NPR needs to examine is the decision to temporary ROMOVE the clip in the first place. Why not just leave it up while it’s under ‘additional editorial review’? and then if you decide to remove it then you can release your editorial reasoning behind it. Instead, you remove first, only to put it back (and only half back at first, still not including the most significant portion). Now you look like you don’t know what you’re doing. Y’all are my most trusted publication here, don’t do this to us."
                 ]
             },
             {
-                "palabra": "GRANDE",
-                "frecuencia": 22,
+                "palabra": "SPEECH",
+                "frecuencia": 54,
                 "ejemplos": [
-                    "SOS UN GRANDE MESSI!! \nPERO NO NOS MIENTAN....\nNO LO PUSIERON A LAUTARO...ENTRE TANTAS OTRAS, DIGAMOS: ...EXTRAÑAS DESICIONES!!...PERO EN FIN, GRACIAS POR TODO!! 🎉❤",
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "El mejor del mundo, grande Messi"
+                    "Should have never been deleted in the first place but I'm grateful Felix's speech is back!",
+                    "Wow got here just in time for that great speech! ❤",
+                    "While your add it edit the MLK I have a dream speech and call it an editing review, what a joke ."
                 ]
             },
             {
-                "palabra": "JUGAR",
-                "frecuencia": 17,
+                "palabra": "THIS",
+                "frecuencia": 54,
                 "ejemplos": [
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "No entiendo por qué Messi no viene 1 o 2 años a jugar acá."
+                    "It doesn't matter if you do not \"typically publish introductions\" THIS ONE MUST BE ON THE VIDEO.  BECAUSE IS THE TRUTH AND THE TRUTH DESERVES TO BE SHARED. Viva Latinoamérica!!!!!",
+                    "@La_Bateleuse  this",
+                    "Thank you , and please remember Music es freedom , don’t let them control this. 🚫🧊"
                 ]
             },
             {
-                "palabra": "HISTORIA",
-                "frecuencia": 17,
+                "palabra": "DESK",
+                "frecuencia": 53,
                 "ejemplos": [
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
-                    "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia"
+                    "As our longtime fans of Tiny Desk know, we don’t typically publish introductions for our concerts. We’ve restored the full introduction on NPR.org and here on YouTube after temporarily removing it for editorial review, acknowledging the topic shared is emotional and complex and something many listeners and newsroom staff are grappling with.",
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Fue lo correcto. Gracias NPR Tiny Desk"
                 ]
             },
             {
                 "palabra": "DESDE",
-                "frecuencia": 16,
+                "frecuencia": 48,
                 "ejemplos": [
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "Honor a quien honor merece! Con toda admiración desde México querido Leo Messi! Ejemplo mundial"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽",
+                    "Escuchando a Los Tigres del Norte desde mi infancia, ustedes llenaron mi vida de momentos lindos en familia, volverlos a escuchar me llena de nostalgia.\nAguante Los Tigres del Norte y aguante para nuestros hermanos migrantes y todo mexicano en el mundo!"
                 ]
             },
             {
-                "palabra": "LIONEL",
-                "frecuencia": 16,
+                "palabra": "SOMOS",
+                "frecuencia": 39,
                 "ejemplos": [
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
-                    "Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias y más Gracias por todo Lionel Andres Messi.",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+                    "No somos ilegales en tierras robadas viva  México 🇲🇽🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽",
+                    "MUCHAS GRACIAS POR PONERLO COMPLETO, PARA NOSOTROS LOS MEXICANOS , QUIENES SOMOS HIJOS DE LA MIGRACIÓN EL DISCURSO INICIAL ES SUPER IMPORTANTE, LA MIGRACIÓN A CREADO UN MUNDO, CADA PAÍS HAY UN MIGRANTE, PERO EN POCOS SON PERSEGUIDOS COMO SI FUERAN DELINCUENTES, SOY NIETA DE UNA MUJER SALVADOREÑA QUE VINO HUYENDO DE LAS GUERRILLAS , Y MÉXICO LE ABRIO LAS PUERTAS Y GRACIAS A ELLO , HOY TENGO LA OPURTUNIDAD DE VIVIR EN LIBERTAD,PORQUE CUANDO UNA PERSONA LLEGA UN PAÍS CON LA UNICA INTENCION DE TRABAJAR Y SALIR ADELANTE .... \"SE LE DEBERIA LLAMAR SOÑADOY Y NO DELINCUENTE\" GRACIAS NPRMUSIC POR ESTE TINY DESK"
                 ]
             },
             {
-                "palabra": "DIOS",
-                "frecuencia": 16,
+                "palabra": "THEY",
+                "frecuencia": 38,
                 "ejemplos": [
-                    "Gracias a Dios que ya no estará en los medio ese pesado , no lo soporto",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
-                    "Solo dios sabe el gran temor q yo tuve siempre porq no llegara este momento 😢😢"
+                    "They felt the pressure, but don’t forget that at first they removed it!!!!!!",
+                    "BS excuse. How can you not know this topic is emotional and complex for our community? Our community is being terrorized and it's all OVER the news. The only reason you brought it back it's because of the backlash. Our voices won't be silenced. \n\nMi gente. Pay attention to what these companies are doing. Stop supporting them once they give you a reason.",
+                    "Good that it was restored but I do have some mixed feelings about npr now. I saw the video before was partialy removed and realize that was removed felt as if they would take away our humanity!"
                 ]
             },
             {
-                "palabra": "MUCHO",
-                "frecuencia": 14,
+                "palabra": "HAVE",
+                "frecuencia": 31,
                 "ejemplos": [
-                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
-                    "Te queremos mucho Messi",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!"
+                    "Should have never been deleted in the first place but I'm grateful Felix's speech is back!",
+                    "You initially chose to leave in the girl and Felix's tears but specifically cut out his denunciation of state-sponsored racism. For that reason, it's obvious that your we-don't-usually-leave-in-intros excuse has no legs to stand on. *Don't insult our intelligence.* The option to simply acknowledge your wrong without trying to save face was always on the table. \n\nFans have been seeing you as the wronged party to circle the wagons around ever since the Trump regime decided to come after you. If you start becoming complicit with your own oppression, we will notice. La raza are watching how you move at times like these, @nprmusic",
+                    "The truth is that some Americans can't handle hearing and accepting the repeating atrocities Anglo-Americans have inflicted and continue to do to oppress and limit minorities. Very sad, but it's a reality even in the 21st century."
                 ]
             },
             {
-                "palabra": "ERES",
-                "frecuencia": 14,
+                "palabra": "THAT",
+                "frecuencia": 31,
                 "ejemplos": [
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+                    "You initially chose to leave in the girl and Felix's tears but specifically cut out his denunciation of state-sponsored racism. For that reason, it's obvious that your we-don't-usually-leave-in-intros excuse has no legs to stand on. *Don't insult our intelligence.* The option to simply acknowledge your wrong without trying to save face was always on the table. \n\nFans have been seeing you as the wronged party to circle the wagons around ever since the Trump regime decided to come after you. If you start becoming complicit with your own oppression, we will notice. La raza are watching how you move at times like these, @nprmusic",
+                    "They felt the pressure, but don’t forget that at first they removed it!!!!!!",
+                    "The truth is that some Americans can't handle hearing and accepting the repeating atrocities Anglo-Americans have inflicted and continue to do to oppress and limit minorities. Very sad, but it's a reality even in the 21st century."
                 ]
             },
             {
-                "palabra": "SELECCION",
-                "frecuencia": 13,
+                "palabra": "DISCURSO",
+                "frecuencia": 31,
                 "ejemplos": [
-                    "No te vayas a la selección Argentina, te extrañamos mucho. Te amo Messi, soy tu número fan de parte de Aitana, soy de México, pero estoy en Estados Unidos tres año Messi. Te extraño Messi",
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
+                    "No tengan miedo de levantar la voz. Al final estas decisiones (mantener el discurso de Felix) hace que nosotros la audiencia seamos más leales y nos identifiquemos más con NPR. Gracias por esta serie de increíbles videos!",
+                    "Y no crean que no nos dimos cuenta que si eliminar parte del discurso \nAhora ustedes también van a limitar la libertad de expresión",
+                    "Ya diganlo como es, eliminaron ese discurso por quedar bien, así como ahorita lo están devolviendo solo para quedar bien pero sin aceptar que fue CENSURA. Si ya van a lucrar con la imagen de Los Tigres al menos tengan la vergüenza o agradecimiento paro dejar difundir su mensaje."
                 ]
             }
         ]
@@ -204,190 +204,190 @@
     "positivo": {
         "top_5": [
             {
-                "palabra": "MESSI",
-                "frecuencia": 75,
-                "porcentaje": 26.4,
+                "palabra": "TIGRES",
+                "frecuencia": 88,
+                "porcentaje": 16.1,
                 "ejemplos": [
-                    "Llorando por tristeza, emoción y amor gracias Messi por darnos alegría, esperanza, fe y fuerza, lealtad y compromiso gracias por todo crack 🩵🇦🇷🩵",
-                    "Te queremos mucho Messi",
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Vamos que vamos.\n\n\nGrandes los tigres.",
+                    "arriba los tigres del norte y viva México!!!"
                 ]
             },
             {
-                "palabra": "MEJOR",
-                "frecuencia": 29,
+                "palabra": "NORTE",
+                "frecuencia": 68,
+                "porcentaje": 12.4,
+                "ejemplos": [
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "arriba los tigres del norte y viva México!!!",
+                    "Escuchando a Los Tigres del Norte desde mi infancia, ustedes llenaron mi vida de momentos lindos en familia, volverlos a escuchar me llena de nostalgia.\nAguante Los Tigres del Norte y aguante para nuestros hermanos migrantes y todo mexicano en el mundo!"
+                ]
+            },
+            {
+                "palabra": "VIVA",
+                "frecuencia": 61,
+                "porcentaje": 11.2,
+                "ejemplos": [
+                    "It doesn't matter if you do not \"typically publish introductions\" THIS ONE MUST BE ON THE VIDEO.  BECAUSE IS THE TRUTH AND THE TRUTH DESERVES TO BE SHARED. Viva Latinoamérica!!!!!",
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽"
+                ]
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 56,
                 "porcentaje": 10.2,
                 "ejemplos": [
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "El mejor de todos ❤",
-                    "El mejor del mundo, grande Messi"
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽",
+                    "MUCHAS GRACIAS POR PONERLO COMPLETO, PARA NOSOTROS LOS MEXICANOS , QUIENES SOMOS HIJOS DE LA MIGRACIÓN EL DISCURSO INICIAL ES SUPER IMPORTANTE, LA MIGRACIÓN A CREADO UN MUNDO, CADA PAÍS HAY UN MIGRANTE, PERO EN POCOS SON PERSEGUIDOS COMO SI FUERAN DELINCUENTES, SOY NIETA DE UNA MUJER SALVADOREÑA QUE VINO HUYENDO DE LAS GUERRILLAS , Y MÉXICO LE ABRIO LAS PUERTAS Y GRACIAS A ELLO , HOY TENGO LA OPURTUNIDAD DE VIVIR EN LIBERTAD,PORQUE CUANDO UNA PERSONA LLEGA UN PAÍS CON LA UNICA INTENCION DE TRABAJAR Y SALIR ADELANTE .... \"SE LE DEBERIA LLAMAR SOÑADOY Y NO DELINCUENTE\" GRACIAS NPRMUSIC POR ESTE TINY DESK"
                 ]
             },
             {
-                "palabra": "FUTBOL",
-                "frecuencia": 23,
-                "porcentaje": 8.1,
+                "palabra": "TINY",
+                "frecuencia": 45,
+                "porcentaje": 8.2,
                 "ejemplos": [
-                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
-                    "Cómo es la vida , recuerdo que no fue hace mucho que vi a Messi extrenarse en el barca y ahora se está despidiendo del fútbol , \nMuy buenos momentos compartimos viéndolo !!"
-                ]
-            },
-            {
-                "palabra": "ARGENTINA",
-                "frecuencia": 17,
-                "porcentaje": 6.0,
-                "ejemplos": [
-                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "Antes de Messi Argentina ya tenía dos del mundo y 14 de América. Segui envidiado que Argentina sigue ganando"
-                ]
-            },
-            {
-                "palabra": "JUGADOR",
-                "frecuencia": 17,
-                "porcentaje": 6.0,
-                "ejemplos": [
-                    "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭",
-                    "Gracias Messi yo soy peruana siempre donde tu jugabas yo era por ti Barcelona Argentina 🇦🇷 y maimi excellence por ser mejor jugador yo todos los demás te vamos extranar mucho abrazos y Que dios te bendiga mucho a ti toda tu familia 🫶🫶🫶🥇🥇🥇❤️❤️❤️🏆🏆🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷",
-                    "Felicidades Messi por ser tu buen jugador del fulbol por salir adelante con tus propias fuerzas  y tu sudor de tu frente  yo y todos te vamos a extranar gracias Messi 🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷❤️❤️❤️☀️☀️☀️🍀🍀🍀☘️☘️☘️☘️🦚🦚🦚🦚"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Fue lo correcto. Gracias NPR Tiny Desk",
+                    "que bueno porque es super emotivo, explica la esencia de este Tiny que para mi es el mejor de todos, hacia falta tenerlos, llore el dia que lo vi me toco el estreno y solo pude llorar y ahora se llora mas con tanto cariños que le han puesto a este Tiny"
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "MESSI",
-                "frecuencia": 75,
+                "palabra": "TIGRES",
+                "frecuencia": 88,
                 "ejemplos": [
-                    "Llorando por tristeza, emoción y amor gracias Messi por darnos alegría, esperanza, fe y fuerza, lealtad y compromiso gracias por todo crack 🩵🇦🇷🩵",
-                    "Te queremos mucho Messi",
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Vamos que vamos.\n\n\nGrandes los tigres.",
+                    "arriba los tigres del norte y viva México!!!"
                 ]
             },
             {
-                "palabra": "MEJOR",
-                "frecuencia": 29,
+                "palabra": "NORTE",
+                "frecuencia": 68,
                 "ejemplos": [
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "El mejor de todos ❤",
-                    "El mejor del mundo, grande Messi"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "arriba los tigres del norte y viva México!!!",
+                    "Escuchando a Los Tigres del Norte desde mi infancia, ustedes llenaron mi vida de momentos lindos en familia, volverlos a escuchar me llena de nostalgia.\nAguante Los Tigres del Norte y aguante para nuestros hermanos migrantes y todo mexicano en el mundo!"
                 ]
             },
             {
-                "palabra": "FUTBOL",
-                "frecuencia": 23,
+                "palabra": "VIVA",
+                "frecuencia": 61,
                 "ejemplos": [
-                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
-                    "Cómo es la vida , recuerdo que no fue hace mucho que vi a Messi extrenarse en el barca y ahora se está despidiendo del fútbol , \nMuy buenos momentos compartimos viéndolo !!"
+                    "It doesn't matter if you do not \"typically publish introductions\" THIS ONE MUST BE ON THE VIDEO.  BECAUSE IS THE TRUTH AND THE TRUTH DESERVES TO BE SHARED. Viva Latinoamérica!!!!!",
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽"
                 ]
             },
             {
-                "palabra": "ARGENTINA",
-                "frecuencia": 17,
+                "palabra": "MÉXICO",
+                "frecuencia": 56,
                 "ejemplos": [
-                    "Soy fan de cr7 Pero lo q juega Messi no se puede ocultar ya quiero ver q va a ser de argentina sin Messi un histórico 👍",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "Antes de Messi Argentina ya tenía dos del mundo y 14 de América. Segui envidiado que Argentina sigue ganando"
+                    "Hicieron lo correcto 👏👏 VIVA MÉXICO!!!!🇲🇽",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽",
+                    "MUCHAS GRACIAS POR PONERLO COMPLETO, PARA NOSOTROS LOS MEXICANOS , QUIENES SOMOS HIJOS DE LA MIGRACIÓN EL DISCURSO INICIAL ES SUPER IMPORTANTE, LA MIGRACIÓN A CREADO UN MUNDO, CADA PAÍS HAY UN MIGRANTE, PERO EN POCOS SON PERSEGUIDOS COMO SI FUERAN DELINCUENTES, SOY NIETA DE UNA MUJER SALVADOREÑA QUE VINO HUYENDO DE LAS GUERRILLAS , Y MÉXICO LE ABRIO LAS PUERTAS Y GRACIAS A ELLO , HOY TENGO LA OPURTUNIDAD DE VIVIR EN LIBERTAD,PORQUE CUANDO UNA PERSONA LLEGA UN PAÍS CON LA UNICA INTENCION DE TRABAJAR Y SALIR ADELANTE .... \"SE LE DEBERIA LLAMAR SOÑADOY Y NO DELINCUENTE\" GRACIAS NPRMUSIC POR ESTE TINY DESK"
                 ]
             },
             {
-                "palabra": "JUGADOR",
-                "frecuencia": 17,
+                "palabra": "TINY",
+                "frecuencia": 45,
                 "ejemplos": [
-                    "Messi gracias por todo, agradezco nacer en tu época, el mejor jugador que vi 🙌🙌😭😭",
-                    "Gracias Messi yo soy peruana siempre donde tu jugabas yo era por ti Barcelona Argentina 🇦🇷 y maimi excellence por ser mejor jugador yo todos los demás te vamos extranar mucho abrazos y Que dios te bendiga mucho a ti toda tu familia 🫶🫶🫶🥇🥇🥇❤️❤️❤️🏆🏆🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷",
-                    "Felicidades Messi por ser tu buen jugador del fulbol por salir adelante con tus propias fuerzas  y tu sudor de tu frente  yo y todos te vamos a extranar gracias Messi 🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷❤️❤️❤️☀️☀️☀️🍀🍀🍀☘️☘️☘️☘️🦚🦚🦚🦚"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Fue lo correcto. Gracias NPR Tiny Desk",
+                    "que bueno porque es super emotivo, explica la esencia de este Tiny que para mi es el mejor de todos, hacia falta tenerlos, llore el dia que lo vi me toco el estreno y solo pude llorar y ahora se llora mas con tanto cariños que le han puesto a este Tiny"
                 ]
             },
             {
-                "palabra": "MUNDO",
-                "frecuencia": 16,
+                "palabra": "DESK",
+                "frecuencia": 35,
                 "ejemplos": [
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "El mejor del mundo, grande Messi"
-                ]
-            },
-            {
-                "palabra": "GRANDE",
-                "frecuencia": 15,
-                "ejemplos": [
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "El mejor del mundo, grande Messi",
-                    "GRANDE MESSI"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Fue lo correcto. Gracias NPR Tiny Desk",
+                    "Bien NPR. Que bueno que rectifiquen he vuelto a ser fan de Tiny Desk la comunidad está  bajo ataque y no podemos esconder una realidad. Vientos. Gracias por la música."
                 ]
             },
             {
                 "palabra": "DESDE",
-                "frecuencia": 14,
+                "frecuencia": 31,
                 "ejemplos": [
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "Honor a quien honor merece! Con toda admiración desde México querido Leo Messi! Ejemplo mundial"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "México es único y es amigo de todos los que quieren una relación amistosa pero también somos gente que busca lo mejor para sus familias y solo los que saben que es eso, son la gente que vive del otro lado y sale a buscar el pan para llevarlo a la mesa. Saludos desde Cancún Quintana Roo. ¡VIVA MÉXICO! 🇲🇽🇲🇽🇲🇽🇲🇽",
+                    "Escuchando a Los Tigres del Norte desde mi infancia, ustedes llenaron mi vida de momentos lindos en familia, volverlos a escuchar me llena de nostalgia.\nAguante Los Tigres del Norte y aguante para nuestros hermanos migrantes y todo mexicano en el mundo!"
                 ]
             },
             {
-                "palabra": "ERES",
-                "frecuencia": 14,
+                "palabra": "THIS",
+                "frecuencia": 26,
                 "ejemplos": [
-                    "Messi es un GRANDE!! Gracias Leo por todo lo que representas y lo que enseñas a todo el mundo, eres un ejemplo para las futuras generaciones. Desde Chile 🇨🇱 un abrazo infinito 🫂",
-                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+                    "It doesn't matter if you do not \"typically publish introductions\" THIS ONE MUST BE ON THE VIDEO.  BECAUSE IS THE TRUTH AND THE TRUTH DESERVES TO BE SHARED. Viva Latinoamérica!!!!!",
+                    "I didn't expect this but I'm here for it <3",
+                    "This is very cool to see on NPR at this time of politically motivated targeting and intimidation to the US Latino community. I couldn’t agree more with the gentleman who emotionally introduced the band. The founders of this group live in my Silicon Valley community. Their children and grandchildren have attended our local public schools and every now and then we see their community minded spirit and support through their generous sponsorship and philanthropic gifts to needs surrounding our local community. Bueno, Los Tigres del Norte, thank you for representing La Raza through your music and global community spirit!"
                 ]
             },
             {
-                "palabra": "HISTORIA",
-                "frecuencia": 14,
+                "palabra": "BACK",
+                "frecuencia": 22,
                 "ejemplos": [
-                    "❤️🙏 GRACIAS MESSI ERES HISTORIA",
-                    "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia",
-                    "Yo lo ví al Diego me hizo llorar a mis 8 años en el 86 perobesye tipo nos dió 20 años de pura magia gracias Dios por darnos estos angeles y seguro vendrá otro para aguantar la historia de este deporte Gracias Lionel gracia ...totales !!!"
+                    "Should have never been deleted in the first place but I'm grateful Felix's speech is back!",
+                    "And now, go and check on your new audience numbers and feel the love that the great hispanic community will deliver as pay back for doing the right thing !",
+                    "Thank you for putting the intro back! It belongs here now and for ever"
                 ]
             },
             {
-                "palabra": "LIONEL",
-                "frecuencia": 12,
+                "palabra": "MUSICA",
+                "frecuencia": 22,
                 "ejemplos": [
-                    "Gracias Leo, por las infinitas alegrías que nos diste a los argentinos, por hacernos amar este deporte tan lindo, gracias por hacerme gritar tus goles que solamente una bestia como vos puede hacer. Te vas, si, pero te vas habiendo cumplido todos tus sueños que desde chico querías, gracias por ser nuestro capitan. Sé que tu despedida nos duele a todos, pero ese dolor lo tenemos porque absolutamente todos sabemos que no va a haber ninguno igual a vos. La nueva generación de jugadores que tendremos durante los próximos años se encargará de darnos alegrías, pero ninguna igualara a las que nos diste vos. Me despido de vos sabiendo que te vas feliz, te vas contento y con la cabeza en alto, nunca te rendiste, siempre volviste para guerrear una vez más. Gracias Leo, gracias, no me va a alcanzar el tiempo para agradecerte todo lo que hiciste por nuestra querida selección. Gracias Leo, esto no es un \"hasta nunca\", es un \"hasta luego\". Gracias Lionel Andrés Messi Cuccittini",
-                    "Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias Gracias y más Gracias por todo Lionel Andres Messi.",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+                    "Bien NPR. Que bueno que rectifiquen he vuelto a ser fan de Tiny Desk la comunidad está  bajo ataque y no podemos esconder una realidad. Vientos. Gracias por la música.",
+                    "La música de los tigres me hace recordar a mi mamá. En mi infancia y en su juventud los escuchaba a todo volumen 😃",
+                    "Soy de Chile, y gracias a que mexico es nuestro hermano del norte, aca este estilo de musica se escuha mucho, por lo que me emocione, como chilena y latina, con el jefe de jefes."
                 ]
             },
             {
-                "palabra": "DIOS",
-                "frecuencia": 12,
+                "palabra": "ORGULLO",
+                "frecuencia": 21,
                 "ejemplos": [
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto",
-                    "Yo lo ví al Diego me hizo llorar a mis 8 años en el 86 perobesye tipo nos dió 20 años de pura magia gracias Dios por darnos estos angeles y seguro vendrá otro para aguantar la historia de este deporte Gracias Lionel gracia ...totales !!!",
-                    "Gracias Messi yo soy peruana siempre donde tu jugabas yo era por ti Barcelona Argentina 🇦🇷 y maimi excellence por ser mejor jugador yo todos los demás te vamos extranar mucho abrazos y Que dios te bendiga mucho a ti toda tu familia 🫶🫶🫶🥇🥇🥇❤️❤️❤️🏆🏆🏆🏆🏆🇦🇷🇦🇷🇦🇷🇦🇷"
+                    "QUE ORGULLO SER LATINO💚",
+                    "Simplemente no aguanto las lagrimas. Increible, que orgullo para Mexico. Saludos desde Chile❤",
+                    "Animo gente,mis tigres del norte viva México! Es todo lo que se puede decir ,con mucho orgullo.🎉"
                 ]
             },
             {
-                "palabra": "MUCHO",
-                "frecuencia": 9,
+                "palabra": "SPEECH",
+                "frecuencia": 19,
                 "ejemplos": [
-                    "Te queremos mucho Messi",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "Se retira el fútbol echo en persona que Dios te siga bendiciendo a ti y a todos los tuyos te mereces tu descanso aunque me duela y sé que el fútbol nunca será igual sin ti gracias por tantos años de poder disfrutar tu talento y por vivir esa sana competencia con el bicho soy madridista pero sé reconocer y tú eres el fútbol seguirás siéndolo menos mal que vienen 3 con tu ADN y nos van hacer recordarte cuídate mucho Lionel Andrés Messi❤️❤️❤️🔟🇦🇷🔥❤️❤️ gracias por tanto"
+                    "Should have never been deleted in the first place but I'm grateful Felix's speech is back!",
+                    "Wow got here just in time for that great speech! ❤",
+                    "Thank you for putting back the introduction speech. Do not censor the truth!"
                 ]
             },
             {
-                "palabra": "JUGAR",
-                "frecuencia": 9,
+                "palabra": "THANK",
+                "frecuencia": 19,
                 "ejemplos": [
-                    "Los quiero mucho no puedo dejar que se vaya Messi él fue mi ídolo desde mi infancia cuando lo vi jugar en 2018 yo quería ser como él un gran jugador muy bonito",
-                    "primeramente felicidades Dios te vendiga que siempre sacaste adelante à Argentina  gracias por los momentos felines que pasamos al verte  jugar",
-                    "Gracias Messi, por todo. Tú me inspiraste a jugar fútbol tú eras mi ídolo para siempre"
+                    "Thank you for putting the originally published video. I think it was posted for a reason and it should of stayed as it was.",
+                    "Thank you!",
+                    "Thank you for doing the right thing."
                 ]
             },
             {
-                "palabra": "TODA",
-                "frecuencia": 8,
+                "palabra": "GRANDES",
+                "frecuencia": 17,
                 "ejemplos": [
-                    "Bendita la Abuela Materna Celia Olivera de Cuccittini quien lo introdujo en el Futbol 🙏🏻🙏🏻🙏🏻.\nY a su Padre que lo guío en toda su carrera 🙏🏻🙏🏻🙏🏻.",
-                    "Lo mejor que le pasó a Argentina en toda su vida. Un luchador, incansable. Tanto que nos regaló el campeonato del mundo y mucho mas. Un embajador del lo mejor del gen Argentino. Compromiso con la celeste y blanca a muerte, humildad, trabajo, amor por cada hermano y hermana de esta increíble tierra. Triunfando de pequeños en Europa, nunca dejó de representar a Argentia. Lio nos hace mejor a todos. Estemos donde estemos, como dijo él, SIEMPRE ORGULLOSOS DE SER ARGENTINOS!!!!",
-                    "Messi gracias por todo lo que has dado por el PSG por el Barça por todos los equipos de los que se ha jugado lo ha estado todo en la cancha siempre y eso se va a notar para toda la historia"
+                    "Aunque no lo crean, ¡se disfruta mucho más!  Me tocó vivirlo justo en el lanzamiento y, desde que estaba con mis alumnos, todos nos quedamos sorprendidos al ver que comenzaban un Tiny Desk así, hablando. ¡Simplemente fue único!\n\nGracias por estar del lado correcto. No deberían censurar la voz de esta bella versión, porque lo que pasó ahí fue irrepetible. \n\n¡Así nació esta joya! Grandes Tigres de norte",
+                    "Vamos que vamos.\n\n\nGrandes los tigres.",
+                    "GRANDES TIGRES DEL NORTE!!! \nSerán siempre los Jefes!!! \nSaludos desde Colombia"
+                ]
+            },
+            {
+                "palabra": "WITH",
+                "frecuencia": 17,
+                "ejemplos": [
+                    "There's nothing to grapple with you guys made the right decision the first time.",
+                    "This is very cool to see on NPR at this time of politically motivated targeting and intimidation to the US Latino community. I couldn’t agree more with the gentleman who emotionally introduced the band. The founders of this group live in my Silicon Valley community. Their children and grandchildren have attended our local public schools and every now and then we see their community minded spirit and support through their generous sponsorship and philanthropic gifts to needs surrounding our local community. Bueno, Los Tigres del Norte, thank you for representing La Raza through your music and global community spirit!",
+                    "Going to watch this with my dad!!"
                 ]
             }
         ]
@@ -395,190 +395,190 @@
     "negativo": {
         "top_5": [
             {
-                "palabra": "MESSI",
-                "frecuencia": 31,
-                "porcentaje": 24.6,
+                "palabra": "TIGRES",
+                "frecuencia": 34,
+                "porcentaje": 12.3,
                 "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi",
-                    "Messi no te vayas por favor no te vayas 😢😢😢😢"
+                    "Ya diganlo como es, eliminaron ese discurso por quedar bien, así como ahorita lo están devolviendo solo para quedar bien pero sin aceptar que fue CENSURA. Si ya van a lucrar con la imagen de Los Tigres al menos tengan la vergüenza o agradecimiento paro dejar difundir su mensaje.",
+                    "Solidaridad desde España, USA es un país levantado íntegramente por inmigrantes y los mexicanos son vecinos y hermanos!!!! \"Nuestra comunidad está siendo atacada y no es la primera vez. Pueden remontarse a 1848, cuando cambiaron la frontera. Pueden remontarse a después de la Segunda Guerra Mundial, durante la llamada Operación Espaldas Mojadas. Nos arrebatan nuestra humanidad. Desde que tengo memoria, estos señores nos han estado devolviendo nuestra humanidad, así que, lo siento. Es un gran honor para nosotros. Por favor, Los Tigres del Norte\".",
+                    "Q MAL Q CENSURARON EL DIÁLOGO; SIN EMBARGO SI EL SEÑOR ESTÁ QUERIENDO ALZAR LA VOZ LATINA, DEBIÓ HABLAR EN ESPAÑOL.\nARRIBA LOS TIGRES DEL NORTE!!!!!. SOMOS MEXICAMOS CHINGONES Y ELLOS LO DEMUESTRAN EN EL 2026"
                 ]
             },
             {
-                "palabra": "ARGENTINA",
-                "frecuencia": 12,
-                "porcentaje": 9.5,
+                "palabra": "NORTE",
+                "frecuencia": 28,
+                "porcentaje": 10.1,
                 "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                    "Qué trauma tan absurdo tenemos los mexicanos con el tema de \"los territorios que nos quitaron\". Eso demuestra un profundo desconocimiento de nuestra propia historia y de cómo funcionaba el mundo en el siglo XIX.\n\nPara empezar, hablar de la \"independencia de México\" como una gesta planificada es un error. La separación de España fue prácticamente un evento accidental, detonado por las Guerras Napoleónicas, la invasión a la península ibérica y el colapso del trono español. México no nace en 1821 con un proyecto de nación maduro ni un plan estructurado, sino como el resultado contingente de una suma de crisis europeas y pactos de conveniencia entre facciones locales opuestas.\n\nEn aquella época, todas las naciones buscaban consolidarse y expandirse dentro de sus posibilidades; el propio México actuó bajo esa misma lógica y luchó con dureza para no perder provincias rebeldes como Yucatán o el Río Grande. La diferencia con nuestro vecino del norte radica en la capacidad de ejecución: mientras nosotros nos consumíamos en guerras civiles sin un rumbo claro, Estados Unidos sí nació con un proyecto geopolítico continental perfectamente definido. Podrá gustarnos o no, pero así funcionaba la competencia entre estados.\n\nEsas fronteras del norte habían sido reconocidas por Estados Unidos mediante tratados con España. Sin embargo, al desplomarse el orden colonial y quedar el nuevo país a la deriva, esos vastos territorios quedaron abiertos a quien tuviera la capacidad real de ocuparlos y controlarlos.\n\nEn regiones como Texas y California había, a lo mucho, unas 30 000 personas. La gran mayoría no eran mexicanos, sino colonos estadounidenses, pueblos indígenas e inmigrantes europeos, junto con un número muy reducido de frailes españoles. Casi nadie en esa zona se identificaba como \"mexicano\", pues la identidad nacional ni siquiera existía aún en el centro del país.\n\nAsimismo, decisiones como permitir el asentamiento masivo de colonos estadounidenses en Texas, promovidas en su momento por figuras como Joel Robert Poinsett ante Vicente Guerrero,  aceleraron la pérdida de control, agravada porque esos colonos buscaban mantener la institución de la esclavitud.\n\nTodo este proceso debe analizarse sin victimismos: no fue un simple \"despojo a un inocente\", sino el choque inevitable entre un país naciente, desarticulado y sin proyecto estratégico, y una potencia en plena marcha expansionista.",
+                    "Solidaridad desde España, USA es un país levantado íntegramente por inmigrantes y los mexicanos son vecinos y hermanos!!!! \"Nuestra comunidad está siendo atacada y no es la primera vez. Pueden remontarse a 1848, cuando cambiaron la frontera. Pueden remontarse a después de la Segunda Guerra Mundial, durante la llamada Operación Espaldas Mojadas. Nos arrebatan nuestra humanidad. Desde que tengo memoria, estos señores nos han estado devolviendo nuestra humanidad, así que, lo siento. Es un gran honor para nosotros. Por favor, Los Tigres del Norte\".",
+                    "Q MAL Q CENSURARON EL DIÁLOGO; SIN EMBARGO SI EL SEÑOR ESTÁ QUERIENDO ALZAR LA VOZ LATINA, DEBIÓ HABLAR EN ESPAÑOL.\nARRIBA LOS TIGRES DEL NORTE!!!!!. SOMOS MEXICAMOS CHINGONES Y ELLOS LO DEMUESTRAN EN EL 2026"
                 ]
             },
             {
-                "palabra": "SELECCION",
-                "frecuencia": 10,
+                "palabra": "THEY",
+                "frecuencia": 27,
+                "porcentaje": 9.7,
+                "ejemplos": [
+                    "BS excuse. How can you not know this topic is emotional and complex for our community? Our community is being terrorized and it's all OVER the news. The only reason you brought it back it's because of the backlash. Our voices won't be silenced. \n\nMi gente. Pay attention to what these companies are doing. Stop supporting them once they give you a reason.",
+                    "Good that it was restored but I do have some mixed feelings about npr now. I saw the video before was partialy removed and realize that was removed felt as if they would take away our humanity!",
+                    "Tellem they lost the war already, they can stop crying now"
+                ]
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 27,
+                "porcentaje": 9.7,
+                "ejemplos": [
+                    "Our community is not in attack our community is in mexico",
+                    "Qué trauma tan absurdo tenemos los mexicanos con el tema de \"los territorios que nos quitaron\". Eso demuestra un profundo desconocimiento de nuestra propia historia y de cómo funcionaba el mundo en el siglo XIX.\n\nPara empezar, hablar de la \"independencia de México\" como una gesta planificada es un error. La separación de España fue prácticamente un evento accidental, detonado por las Guerras Napoleónicas, la invasión a la península ibérica y el colapso del trono español. México no nace en 1821 con un proyecto de nación maduro ni un plan estructurado, sino como el resultado contingente de una suma de crisis europeas y pactos de conveniencia entre facciones locales opuestas.\n\nEn aquella época, todas las naciones buscaban consolidarse y expandirse dentro de sus posibilidades; el propio México actuó bajo esa misma lógica y luchó con dureza para no perder provincias rebeldes como Yucatán o el Río Grande. La diferencia con nuestro vecino del norte radica en la capacidad de ejecución: mientras nosotros nos consumíamos en guerras civiles sin un rumbo claro, Estados Unidos sí nació con un proyecto geopolítico continental perfectamente definido. Podrá gustarnos o no, pero así funcionaba la competencia entre estados.\n\nEsas fronteras del norte habían sido reconocidas por Estados Unidos mediante tratados con España. Sin embargo, al desplomarse el orden colonial y quedar el nuevo país a la deriva, esos vastos territorios quedaron abiertos a quien tuviera la capacidad real de ocuparlos y controlarlos.\n\nEn regiones como Texas y California había, a lo mucho, unas 30 000 personas. La gran mayoría no eran mexicanos, sino colonos estadounidenses, pueblos indígenas e inmigrantes europeos, junto con un número muy reducido de frailes españoles. Casi nadie en esa zona se identificaba como \"mexicano\", pues la identidad nacional ni siquiera existía aún en el centro del país.\n\nAsimismo, decisiones como permitir el asentamiento masivo de colonos estadounidenses en Texas, promovidas en su momento por figuras como Joel Robert Poinsett ante Vicente Guerrero,  aceleraron la pérdida de control, agravada porque esos colonos buscaban mantener la institución de la esclavitud.\n\nTodo este proceso debe analizarse sin victimismos: no fue un simple \"despojo a un inocente\", sino el choque inevitable entre un país naciente, desarticulado y sin proyecto estratégico, y una potencia en plena marcha expansionista.",
+                    "Who Changed the Border??? The Treaty of Guadalupe Hidalgo Sold Mexican Land to the United States!!! Sold Not Taken!!!! Mexico Sold The Land!!!!!!"
+                ]
+            },
+            {
+                "palabra": "THIS",
+                "frecuencia": 22,
                 "porcentaje": 7.9,
                 "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Quien quiere ver mal la selección?",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
-                ]
-            },
-            {
-                "palabra": "FUTBOL",
-                "frecuencia": 9,
-                "porcentaje": 7.1,
-                "ejemplos": [
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "Toda latinoamerica y gran part del mundo le tiene envidia a Argentina en fútbol"
-                ]
-            },
-            {
-                "palabra": "MUNDIAL",
-                "frecuencia": 8,
-                "porcentaje": 6.3,
-                "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Ya no va ganar nada argentina XK ya no está mesi con Argentina ya le dio un mundial la fifa.gracias FIFA x darle todo a mesi.."
+                    "The decision NPR needs to examine is the decision to temporary ROMOVE the clip in the first place. Why not just leave it up while it’s under ‘additional editorial review’? and then if you decide to remove it then you can release your editorial reasoning behind it. Instead, you remove first, only to put it back (and only half back at first, still not including the most significant portion). Now you look like you don’t know what you’re doing. Y’all are my most trusted publication here, don’t do this to us.",
+                    "We won't forget and forgive what you did, you censored Felix's speech, THAT'S CENSORSHIP. Fck you NPR. We really won't forget this.",
+                    "BS excuse. How can you not know this topic is emotional and complex for our community? Our community is being terrorized and it's all OVER the news. The only reason you brought it back it's because of the backlash. Our voices won't be silenced. \n\nMi gente. Pay attention to what these companies are doing. Stop supporting them once they give you a reason."
                 ]
             }
         ],
         "top_15": [
             {
-                "palabra": "MESSI",
-                "frecuencia": 31,
+                "palabra": "TIGRES",
+                "frecuencia": 34,
                 "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "😭😭😭😭😭😭😭😭😭😭😭😭Messi",
-                    "Messi no te vayas por favor no te vayas 😢😢😢😢"
+                    "Ya diganlo como es, eliminaron ese discurso por quedar bien, así como ahorita lo están devolviendo solo para quedar bien pero sin aceptar que fue CENSURA. Si ya van a lucrar con la imagen de Los Tigres al menos tengan la vergüenza o agradecimiento paro dejar difundir su mensaje.",
+                    "Solidaridad desde España, USA es un país levantado íntegramente por inmigrantes y los mexicanos son vecinos y hermanos!!!! \"Nuestra comunidad está siendo atacada y no es la primera vez. Pueden remontarse a 1848, cuando cambiaron la frontera. Pueden remontarse a después de la Segunda Guerra Mundial, durante la llamada Operación Espaldas Mojadas. Nos arrebatan nuestra humanidad. Desde que tengo memoria, estos señores nos han estado devolviendo nuestra humanidad, así que, lo siento. Es un gran honor para nosotros. Por favor, Los Tigres del Norte\".",
+                    "Q MAL Q CENSURARON EL DIÁLOGO; SIN EMBARGO SI EL SEÑOR ESTÁ QUERIENDO ALZAR LA VOZ LATINA, DEBIÓ HABLAR EN ESPAÑOL.\nARRIBA LOS TIGRES DEL NORTE!!!!!. SOMOS MEXICAMOS CHINGONES Y ELLOS LO DEMUESTRAN EN EL 2026"
                 ]
             },
             {
-                "palabra": "ARGENTINA",
+                "palabra": "NORTE",
+                "frecuencia": 28,
+                "ejemplos": [
+                    "Qué trauma tan absurdo tenemos los mexicanos con el tema de \"los territorios que nos quitaron\". Eso demuestra un profundo desconocimiento de nuestra propia historia y de cómo funcionaba el mundo en el siglo XIX.\n\nPara empezar, hablar de la \"independencia de México\" como una gesta planificada es un error. La separación de España fue prácticamente un evento accidental, detonado por las Guerras Napoleónicas, la invasión a la península ibérica y el colapso del trono español. México no nace en 1821 con un proyecto de nación maduro ni un plan estructurado, sino como el resultado contingente de una suma de crisis europeas y pactos de conveniencia entre facciones locales opuestas.\n\nEn aquella época, todas las naciones buscaban consolidarse y expandirse dentro de sus posibilidades; el propio México actuó bajo esa misma lógica y luchó con dureza para no perder provincias rebeldes como Yucatán o el Río Grande. La diferencia con nuestro vecino del norte radica en la capacidad de ejecución: mientras nosotros nos consumíamos en guerras civiles sin un rumbo claro, Estados Unidos sí nació con un proyecto geopolítico continental perfectamente definido. Podrá gustarnos o no, pero así funcionaba la competencia entre estados.\n\nEsas fronteras del norte habían sido reconocidas por Estados Unidos mediante tratados con España. Sin embargo, al desplomarse el orden colonial y quedar el nuevo país a la deriva, esos vastos territorios quedaron abiertos a quien tuviera la capacidad real de ocuparlos y controlarlos.\n\nEn regiones como Texas y California había, a lo mucho, unas 30 000 personas. La gran mayoría no eran mexicanos, sino colonos estadounidenses, pueblos indígenas e inmigrantes europeos, junto con un número muy reducido de frailes españoles. Casi nadie en esa zona se identificaba como \"mexicano\", pues la identidad nacional ni siquiera existía aún en el centro del país.\n\nAsimismo, decisiones como permitir el asentamiento masivo de colonos estadounidenses en Texas, promovidas en su momento por figuras como Joel Robert Poinsett ante Vicente Guerrero,  aceleraron la pérdida de control, agravada porque esos colonos buscaban mantener la institución de la esclavitud.\n\nTodo este proceso debe analizarse sin victimismos: no fue un simple \"despojo a un inocente\", sino el choque inevitable entre un país naciente, desarticulado y sin proyecto estratégico, y una potencia en plena marcha expansionista.",
+                    "Solidaridad desde España, USA es un país levantado íntegramente por inmigrantes y los mexicanos son vecinos y hermanos!!!! \"Nuestra comunidad está siendo atacada y no es la primera vez. Pueden remontarse a 1848, cuando cambiaron la frontera. Pueden remontarse a después de la Segunda Guerra Mundial, durante la llamada Operación Espaldas Mojadas. Nos arrebatan nuestra humanidad. Desde que tengo memoria, estos señores nos han estado devolviendo nuestra humanidad, así que, lo siento. Es un gran honor para nosotros. Por favor, Los Tigres del Norte\".",
+                    "Q MAL Q CENSURARON EL DIÁLOGO; SIN EMBARGO SI EL SEÑOR ESTÁ QUERIENDO ALZAR LA VOZ LATINA, DEBIÓ HABLAR EN ESPAÑOL.\nARRIBA LOS TIGRES DEL NORTE!!!!!. SOMOS MEXICAMOS CHINGONES Y ELLOS LO DEMUESTRAN EN EL 2026"
+                ]
+            },
+            {
+                "palabra": "THEY",
+                "frecuencia": 27,
+                "ejemplos": [
+                    "BS excuse. How can you not know this topic is emotional and complex for our community? Our community is being terrorized and it's all OVER the news. The only reason you brought it back it's because of the backlash. Our voices won't be silenced. \n\nMi gente. Pay attention to what these companies are doing. Stop supporting them once they give you a reason.",
+                    "Good that it was restored but I do have some mixed feelings about npr now. I saw the video before was partialy removed and realize that was removed felt as if they would take away our humanity!",
+                    "Tellem they lost the war already, they can stop crying now"
+                ]
+            },
+            {
+                "palabra": "MÉXICO",
+                "frecuencia": 27,
+                "ejemplos": [
+                    "Our community is not in attack our community is in mexico",
+                    "Qué trauma tan absurdo tenemos los mexicanos con el tema de \"los territorios que nos quitaron\". Eso demuestra un profundo desconocimiento de nuestra propia historia y de cómo funcionaba el mundo en el siglo XIX.\n\nPara empezar, hablar de la \"independencia de México\" como una gesta planificada es un error. La separación de España fue prácticamente un evento accidental, detonado por las Guerras Napoleónicas, la invasión a la península ibérica y el colapso del trono español. México no nace en 1821 con un proyecto de nación maduro ni un plan estructurado, sino como el resultado contingente de una suma de crisis europeas y pactos de conveniencia entre facciones locales opuestas.\n\nEn aquella época, todas las naciones buscaban consolidarse y expandirse dentro de sus posibilidades; el propio México actuó bajo esa misma lógica y luchó con dureza para no perder provincias rebeldes como Yucatán o el Río Grande. La diferencia con nuestro vecino del norte radica en la capacidad de ejecución: mientras nosotros nos consumíamos en guerras civiles sin un rumbo claro, Estados Unidos sí nació con un proyecto geopolítico continental perfectamente definido. Podrá gustarnos o no, pero así funcionaba la competencia entre estados.\n\nEsas fronteras del norte habían sido reconocidas por Estados Unidos mediante tratados con España. Sin embargo, al desplomarse el orden colonial y quedar el nuevo país a la deriva, esos vastos territorios quedaron abiertos a quien tuviera la capacidad real de ocuparlos y controlarlos.\n\nEn regiones como Texas y California había, a lo mucho, unas 30 000 personas. La gran mayoría no eran mexicanos, sino colonos estadounidenses, pueblos indígenas e inmigrantes europeos, junto con un número muy reducido de frailes españoles. Casi nadie en esa zona se identificaba como \"mexicano\", pues la identidad nacional ni siquiera existía aún en el centro del país.\n\nAsimismo, decisiones como permitir el asentamiento masivo de colonos estadounidenses en Texas, promovidas en su momento por figuras como Joel Robert Poinsett ante Vicente Guerrero,  aceleraron la pérdida de control, agravada porque esos colonos buscaban mantener la institución de la esclavitud.\n\nTodo este proceso debe analizarse sin victimismos: no fue un simple \"despojo a un inocente\", sino el choque inevitable entre un país naciente, desarticulado y sin proyecto estratégico, y una potencia en plena marcha expansionista.",
+                    "Who Changed the Border??? The Treaty of Guadalupe Hidalgo Sold Mexican Land to the United States!!! Sold Not Taken!!!! Mexico Sold The Land!!!!!!"
+                ]
+            },
+            {
+                "palabra": "THIS",
+                "frecuencia": 22,
+                "ejemplos": [
+                    "The decision NPR needs to examine is the decision to temporary ROMOVE the clip in the first place. Why not just leave it up while it’s under ‘additional editorial review’? and then if you decide to remove it then you can release your editorial reasoning behind it. Instead, you remove first, only to put it back (and only half back at first, still not including the most significant portion). Now you look like you don’t know what you’re doing. Y’all are my most trusted publication here, don’t do this to us.",
+                    "We won't forget and forgive what you did, you censored Felix's speech, THAT'S CENSORSHIP. Fck you NPR. We really won't forget this.",
+                    "BS excuse. How can you not know this topic is emotional and complex for our community? Our community is being terrorized and it's all OVER the news. The only reason you brought it back it's because of the backlash. Our voices won't be silenced. \n\nMi gente. Pay attention to what these companies are doing. Stop supporting them once they give you a reason."
+                ]
+            },
+            {
+                "palabra": "HAVE",
+                "frecuencia": 19,
+                "ejemplos": [
+                    "You initially chose to leave in the girl and Felix's tears but specifically cut out his denunciation of state-sponsored racism. For that reason, it's obvious that your we-don't-usually-leave-in-intros excuse has no legs to stand on. *Don't insult our intelligence.* The option to simply acknowledge your wrong without trying to save face was always on the table. \n\nFans have been seeing you as the wronged party to circle the wagons around ever since the Trump regime decided to come after you. If you start becoming complicit with your own oppression, we will notice. La raza are watching how you move at times like these, @nprmusic",
+                    "The truth is that some Americans can't handle hearing and accepting the repeating atrocities Anglo-Americans have inflicted and continue to do to oppress and limit minorities. Very sad, but it's a reality even in the 21st century.",
+                    "While your add it edit the MLK I have a dream speech and call it an editing review, what a joke ."
+                ]
+            },
+            {
+                "palabra": "THAT",
+                "frecuencia": 16,
+                "ejemplos": [
+                    "You initially chose to leave in the girl and Felix's tears but specifically cut out his denunciation of state-sponsored racism. For that reason, it's obvious that your we-don't-usually-leave-in-intros excuse has no legs to stand on. *Don't insult our intelligence.* The option to simply acknowledge your wrong without trying to save face was always on the table. \n\nFans have been seeing you as the wronged party to circle the wagons around ever since the Trump regime decided to come after you. If you start becoming complicit with your own oppression, we will notice. La raza are watching how you move at times like these, @nprmusic",
+                    "The truth is that some Americans can't handle hearing and accepting the repeating atrocities Anglo-Americans have inflicted and continue to do to oppress and limit minorities. Very sad, but it's a reality even in the 21st century.",
+                    "Why that editorial review had a censorship animus ?"
+                ]
+            },
+            {
+                "palabra": "CENSURA",
+                "frecuencia": 16,
+                "ejemplos": [
+                    "Ya diganlo como es, eliminaron ese discurso por quedar bien, así como ahorita lo están devolviendo solo para quedar bien pero sin aceptar que fue CENSURA. Si ya van a lucrar con la imagen de Los Tigres al menos tengan la vergüenza o agradecimiento paro dejar difundir su mensaje.",
+                    "No olvidamos y NO PERDONAMOS\nLos actos de censura nunca serán borrados de la historia, hoy quedaron como cómplices de la censura",
+                    "No a la CENSURA, lamentable que hayan editado el video original. Nuestra gente migrante merece respeto por que con su esfuerzo diario contribuye a la economía de EEUU, ojalá y en noviembre el pelos de elote pierda las elecciones para que lo veamos tras las rejas por genocida y PDF (pedóf-lo)."
+                ]
+            },
+            {
+                "palabra": "WHAT",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "While your add it edit the MLK I have a dream speech and call it an editing review, what a joke .",
+                    "The decision NPR needs to examine is the decision to temporary ROMOVE the clip in the first place. Why not just leave it up while it’s under ‘additional editorial review’? and then if you decide to remove it then you can release your editorial reasoning behind it. Instead, you remove first, only to put it back (and only half back at first, still not including the most significant portion). Now you look like you don’t know what you’re doing. Y’all are my most trusted publication here, don’t do this to us.",
+                    "You made the right decision!  The decision to remove the video initially was terrible.  If it is common practice to not include the introductory remarks, why was the initial video published?  Publishing it first, then removing it is far worse than not including the introductory remarks from the beginning.  What you did makes you look bad to people on all sides of the issues raised in the introductory remarks.  It may prompt mistrust and resentment among your supporters, including your own employees.  \n\nIt is always good to remember that silence can and will be interpreted as consent or approval in the face of injustice."
+                ]
+            },
+            {
+                "palabra": "BACK",
+                "frecuencia": 14,
+                "ejemplos": [
+                    "The decision NPR needs to examine is the decision to temporary ROMOVE the clip in the first place. Why not just leave it up while it’s under ‘additional editorial review’? and then if you decide to remove it then you can release your editorial reasoning behind it. Instead, you remove first, only to put it back (and only half back at first, still not including the most significant portion). Now you look like you don’t know what you’re doing. Y’all are my most trusted publication here, don’t do this to us.",
+                    "BS excuse. How can you not know this topic is emotional and complex for our community? Our community is being terrorized and it's all OVER the news. The only reason you brought it back it's because of the backlash. Our voices won't be silenced. \n\nMi gente. Pay attention to what these companies are doing. Stop supporting them once they give you a reason.",
+                    "COWARDS. bring back the speech to youtube. this is the mos views I've seen but you want to censor?!?!? Wow."
+                ]
+            },
+            {
+                "palabra": "SPEECH",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "While your add it edit the MLK I have a dream speech and call it an editing review, what a joke .",
+                    "It’s not the complete speech!! 😑",
+                    "We won't forget and forgive what you did, you censored Felix's speech, THAT'S CENSORSHIP. Fck you NPR. We really won't forget this."
+                ]
+            },
+            {
+                "palabra": "NUESTRA",
+                "frecuencia": 13,
+                "ejemplos": [
+                    "No a la CENSURA, lamentable que hayan editado el video original. Nuestra gente migrante merece respeto por que con su esfuerzo diario contribuye a la economía de EEUU, ojalá y en noviembre el pelos de elote pierda las elecciones para que lo veamos tras las rejas por genocida y PDF (pedóf-lo).",
+                    "en el segundo 54 es cuando menciona \"nuestra comunidad está bajo ataque\" ... ¿es esta parte de la que se ha estado hablando de que fue sesurada por NPR?",
+                    "Qué trauma tan absurdo tenemos los mexicanos con el tema de \"los territorios que nos quitaron\". Eso demuestra un profundo desconocimiento de nuestra propia historia y de cómo funcionaba el mundo en el siglo XIX.\n\nPara empezar, hablar de la \"independencia de México\" como una gesta planificada es un error. La separación de España fue prácticamente un evento accidental, detonado por las Guerras Napoleónicas, la invasión a la península ibérica y el colapso del trono español. México no nace en 1821 con un proyecto de nación maduro ni un plan estructurado, sino como el resultado contingente de una suma de crisis europeas y pactos de conveniencia entre facciones locales opuestas.\n\nEn aquella época, todas las naciones buscaban consolidarse y expandirse dentro de sus posibilidades; el propio México actuó bajo esa misma lógica y luchó con dureza para no perder provincias rebeldes como Yucatán o el Río Grande. La diferencia con nuestro vecino del norte radica en la capacidad de ejecución: mientras nosotros nos consumíamos en guerras civiles sin un rumbo claro, Estados Unidos sí nació con un proyecto geopolítico continental perfectamente definido. Podrá gustarnos o no, pero así funcionaba la competencia entre estados.\n\nEsas fronteras del norte habían sido reconocidas por Estados Unidos mediante tratados con España. Sin embargo, al desplomarse el orden colonial y quedar el nuevo país a la deriva, esos vastos territorios quedaron abiertos a quien tuviera la capacidad real de ocuparlos y controlarlos.\n\nEn regiones como Texas y California había, a lo mucho, unas 30 000 personas. La gran mayoría no eran mexicanos, sino colonos estadounidenses, pueblos indígenas e inmigrantes europeos, junto con un número muy reducido de frailes españoles. Casi nadie en esa zona se identificaba como \"mexicano\", pues la identidad nacional ni siquiera existía aún en el centro del país.\n\nAsimismo, decisiones como permitir el asentamiento masivo de colonos estadounidenses en Texas, promovidas en su momento por figuras como Joel Robert Poinsett ante Vicente Guerrero,  aceleraron la pérdida de control, agravada porque esos colonos buscaban mantener la institución de la esclavitud.\n\nTodo este proceso debe analizarse sin victimismos: no fue un simple \"despojo a un inocente\", sino el choque inevitable entre un país naciente, desarticulado y sin proyecto estratégico, y una potencia en plena marcha expansionista."
+                ]
+            },
+            {
+                "palabra": "PAÍS",
                 "frecuencia": 12,
                 "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                    "Qué trauma tan absurdo tenemos los mexicanos con el tema de \"los territorios que nos quitaron\". Eso demuestra un profundo desconocimiento de nuestra propia historia y de cómo funcionaba el mundo en el siglo XIX.\n\nPara empezar, hablar de la \"independencia de México\" como una gesta planificada es un error. La separación de España fue prácticamente un evento accidental, detonado por las Guerras Napoleónicas, la invasión a la península ibérica y el colapso del trono español. México no nace en 1821 con un proyecto de nación maduro ni un plan estructurado, sino como el resultado contingente de una suma de crisis europeas y pactos de conveniencia entre facciones locales opuestas.\n\nEn aquella época, todas las naciones buscaban consolidarse y expandirse dentro de sus posibilidades; el propio México actuó bajo esa misma lógica y luchó con dureza para no perder provincias rebeldes como Yucatán o el Río Grande. La diferencia con nuestro vecino del norte radica en la capacidad de ejecución: mientras nosotros nos consumíamos en guerras civiles sin un rumbo claro, Estados Unidos sí nació con un proyecto geopolítico continental perfectamente definido. Podrá gustarnos o no, pero así funcionaba la competencia entre estados.\n\nEsas fronteras del norte habían sido reconocidas por Estados Unidos mediante tratados con España. Sin embargo, al desplomarse el orden colonial y quedar el nuevo país a la deriva, esos vastos territorios quedaron abiertos a quien tuviera la capacidad real de ocuparlos y controlarlos.\n\nEn regiones como Texas y California había, a lo mucho, unas 30 000 personas. La gran mayoría no eran mexicanos, sino colonos estadounidenses, pueblos indígenas e inmigrantes europeos, junto con un número muy reducido de frailes españoles. Casi nadie en esa zona se identificaba como \"mexicano\", pues la identidad nacional ni siquiera existía aún en el centro del país.\n\nAsimismo, decisiones como permitir el asentamiento masivo de colonos estadounidenses en Texas, promovidas en su momento por figuras como Joel Robert Poinsett ante Vicente Guerrero,  aceleraron la pérdida de control, agravada porque esos colonos buscaban mantener la institución de la esclavitud.\n\nTodo este proceso debe analizarse sin victimismos: no fue un simple \"despojo a un inocente\", sino el choque inevitable entre un país naciente, desarticulado y sin proyecto estratégico, y una potencia en plena marcha expansionista.",
+                    "Solidaridad desde España, USA es un país levantado íntegramente por inmigrantes y los mexicanos son vecinos y hermanos!!!! \"Nuestra comunidad está siendo atacada y no es la primera vez. Pueden remontarse a 1848, cuando cambiaron la frontera. Pueden remontarse a después de la Segunda Guerra Mundial, durante la llamada Operación Espaldas Mojadas. Nos arrebatan nuestra humanidad. Desde que tengo memoria, estos señores nos han estado devolviendo nuestra humanidad, así que, lo siento. Es un gran honor para nosotros. Por favor, Los Tigres del Norte\".",
+                    "estados unidos pais fundado del genocidio, despojo; ladrones y mentirosos, ojala pronto exista justicia en el mundo."
                 ]
             },
             {
-                "palabra": "SELECCION",
-                "frecuencia": 10,
+                "palabra": "DONT",
+                "frecuencia": 11,
                 "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Quien quiere ver mal la selección?",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                    "As our longtime fans of Tiny Desk know, we don’t typically publish introductions for our concerts. We’ve restored the full introduction on NPR.org and here on YouTube after temporarily removing it for editorial review, acknowledging the topic shared is emotional and complex and something many listeners and newsroom staff are grappling with.",
+                    "You initially chose to leave in the girl and Felix's tears but specifically cut out his denunciation of state-sponsored racism. For that reason, it's obvious that your we-don't-usually-leave-in-intros excuse has no legs to stand on. *Don't insult our intelligence.* The option to simply acknowledge your wrong without trying to save face was always on the table. \n\nFans have been seeing you as the wronged party to circle the wagons around ever since the Trump regime decided to come after you. If you start becoming complicit with your own oppression, we will notice. La raza are watching how you move at times like these, @nprmusic",
+                    "The decision NPR needs to examine is the decision to temporary ROMOVE the clip in the first place. Why not just leave it up while it’s under ‘additional editorial review’? and then if you decide to remove it then you can release your editorial reasoning behind it. Instead, you remove first, only to put it back (and only half back at first, still not including the most significant portion). Now you look like you don’t know what you’re doing. Y’all are my most trusted publication here, don’t do this to us."
                 ]
             },
             {
-                "palabra": "FUTBOL",
-                "frecuencia": 9,
+                "palabra": "ORIGINAL",
+                "frecuencia": 11,
                 "ejemplos": [
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "Toda latinoamerica y gran part del mundo le tiene envidia a Argentina en fútbol"
-                ]
-            },
-            {
-                "palabra": "MUNDIAL",
-                "frecuencia": 8,
-                "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Ya no va ganar nada argentina XK ya no está mesi con Argentina ya le dio un mundial la fifa.gracias FIFA x darle todo a mesi.."
-                ]
-            },
-            {
-                "palabra": "JUGAR",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "No entiendo por qué Messi no viene 1 o 2 años a jugar acá."
-                ]
-            },
-            {
-                "palabra": "SERA",
-                "frecuencia": 7,
-                "ejemplos": [
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "Por fin arjenfifa no será nada, hasta nunca pecho frío pessi",
-                    "20 años con Argentina merecen respeto, pero esta no es la despedida de Messi del fútbol, tiene contrato con Inter Miami hasta 2028 y todavía queda tiempo para verlo jugar y marcar goles. Como excapitán de la Selección Argentina, también debe asumir las consecuencias, en el Mundial lo dio todo, pero no siempre estuvo al nivel que exigía una final. Su ciclo con Argentina termina, su carrera todavía no. El verdadero adiós será cuando cuelgue los botines."
-                ]
-            },
-            {
-                "palabra": "LLORANDO",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "Muchas gracias Messi Adiós capitán te voy a extrañar ya estoy llorando",
-                    "Creo que me entro una basurita en el ojo , corte cebolla , no me alcanzan las excusas ya esta dos dias llorando ,😢gracias capitan lpm !! Ejemplo dejaste a los pibes armaste y contagiaste humildad capitan a los pibes que crecieron y te vieron jugar!!",
-                    "Veo el video después de ayer y sigo llorando como nene chiquito"
-                ]
-            },
-            {
-                "palabra": "GRANDE",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "SOS UN GRANDE MESSI!! \nPERO NO NOS MIENTAN....\nNO LO PUSIERON A LAUTARO...ENTRE TANTAS OTRAS, DIGAMOS: ...EXTRAÑAS DESICIONES!!...PERO EN FIN, GRACIAS POR TODO!! 🎉❤",
-                    "Gracias totales messi!!!! Te vamos a extrañar muchisimo!!! Nunca olvidaremos tus jugadas y tus goles grande messi 😢💙",
-                    "soy yo el unico que piensa esto? o me parese que hubieran podido hacer algo mucho mejor para leo, empezando por el rival,, y los demas festejos me parecieron muy poco,, pense  que iba a ser algo mas emotivo... al mejor jugador de la historia tenian que haberle hecho algo mas grande"
-                ]
-            },
-            {
-                "palabra": "NUNCA",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤",
-                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
-                    "Por fin arjenfifa no será nada, hasta nunca pecho frío pessi"
-                ]
-            },
-            {
-                "palabra": "JUGADOR",
-                "frecuencia": 6,
-                "ejemplos": [
-                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
-                    "Aunke caiga gordo y argentina tambien no cabe duda que  fue un verdadero jugador se acaba una era , una epoca se va mesii se va la cabra 🐐 cristiano a ver quien llega a tomar esos lugares bye segundon  aunke te regalaron todo y tuviste un buen padrino fifantino también se acaba esa era de ratas 🐀  ya verán de aqui en adelante no será lo mismo fifantino fuera de su cargo no mas argentina una selección de pura corrupción  😂😂😂 1,2 3 llorones presentense 😂😂😂",
-                    "Lionel Andrés Messi Cuccitini lo voy a extrañar 😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢😊😢😢😢😢😢😢😢😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😢😢😢😔👋\n\n\n\n\n\n\nBye leo😭😭👋😔😔😔😔😔\n\n\nJugador 10 eliminado 😢"
-                ]
-            },
-            {
-                "palabra": "EXTRANAR",
-                "frecuencia": 5,
-                "ejemplos": [
-                    "Muchas gracias Messi Adiós capitán te voy a extrañar ya estoy llorando",
-                    "te voy a extrañar messi gracias por todo y que nos diste alegría con tus penales❤❤❤😢😢",
-                    "Gracias totales messi!!!! Te vamos a extrañar muchisimo!!! Nunca olvidaremos tus jugadas y tus goles grande messi 😢💙"
-                ]
-            },
-            {
-                "palabra": "MEJOR",
-                "frecuencia": 5,
-                "ejemplos": [
-                    "PECHO FRÍO , NUNCA SERÁS MEJOR QUE MARADONA.ANDA A NÁPOLES Y MIRA QUIÉN DEJÓ UNA HUELLA QUE NINGUNA OTRO JUGADOR LO DEJÓ NI DEJARÁ EN NINGUNA LUGAR .",
-                    "se va el mejor del mundo",
-                    "soy yo el unico que piensa esto? o me parese que hubieran podido hacer algo mucho mejor para leo, empezando por el rival,, y los demas festejos me parecieron muy poco,, pense  que iba a ser algo mas emotivo... al mejor jugador de la historia tenian que haberle hecho algo mas grande"
-                ]
-            },
-            {
-                "palabra": "FINAL",
-                "frecuencia": 4,
-                "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
-                ]
-            },
-            {
-                "palabra": "PARTIDO",
-                "frecuencia": 4,
-                "ejemplos": [
-                    "Tú lo abriste todo en tu último mundial España contra Argentina, pero me puse a llorar porque eras tú mi pan número uno. Yo siempre miré todos tu partidos, pero en ese final me dolió cuando te pusiste ayuda al todo el tema mundial y te retiraste la selección Argentina y te extraño Selección Argentina, pero qué día vas a venir aquí Estados Unidos porque puedas ser tu primer partido porque yo lo pueda verlo y quiero estar en la primera fila. Te amo Messi Messi😭😭😭😭😭😭😭💔💔💔💔te amo ❤️❤️❤️❤️🥹🥹🥹🥹",
-                    "Muy grato de su parte decir que no hubo nada malo en la final del mundial para no manchar la pelota, como lo dijo Maradona, pero hay que reconocer que tiene que cuidar el prestigio de Argentina. Pero mucho más allá de eso va a salir la verdad, y la verdad es que los jodieron mentalmente minutos antes de jugar el partido más importante de su vida y eso les perjudicó una Copa del Mundo.\n⚽Leo el fútbol es tuyo hermano❤",
-                    "Hay despedidas que duelen no porque terminen mal, sino porque significan que una etapa que parecía eterna finalmente está llegando a su final. 🥹🇦🇷 Escuchar a Messi decir que no volver a jugar con la Selección será un dolor enorme me hizo recordar todos esos años: las derrotas que dolieron, las críticas, las noches en las que parecía que nunca iba a llegar el momento de levantar una Copa y, finalmente, toda la alegría que vivió junto a Argentina. Más allá de los títulos, lo que queda es haber visto crecer a un chico que un día llegó con un sueño y terminó convirtiéndose en parte de la historia de una camiseta que representa a millones. Gracias por cada partido, cada lágrima, cada alegría y cada momento inolvidable. Hay jugadores que se retiran del fútbol, pero hay recuerdos que nunca se retiran del corazón. 🇦🇷❤"
+                    "No a la CENSURA, lamentable que hayan editado el video original. Nuestra gente migrante merece respeto por que con su esfuerzo diario contribuye a la economía de EEUU, ojalá y en noviembre el pelos de elote pierda las elecciones para que lo veamos tras las rejas por genocida y PDF (pedóf-lo).",
+                    "Where is the original version, why is tiny desk NPR, censoring the voices that need to be heard? Los Tigres del Norte 🫡💪👏",
+                    "La censura nunca sera buena y menos cuando lleva un mensaje importante gracias por traer nuevamente el video original"
                 ]
             }
         ]
